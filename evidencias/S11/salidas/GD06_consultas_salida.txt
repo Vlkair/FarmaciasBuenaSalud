@@ -1,0 +1,67 @@
+                           servicio                           | nivel_actual | nivel_objetivo 
+--------------------------------------------------------------+--------------+----------------
+ S-01 Venta y dispensación de medicamentos                    |            0 |              3
+ S-02 Consulta de disponibilidad y precio de un producto      |            0 |              4
+ S-04 Dispensación de productos controlados (receta especial) |            0 |              2
+ S-09 Alta de cuenta y desbloqueo de contraseña               |            0 |              4
+ S-05 Reclamo o queja (libro de reclamaciones)                |            0 |              4
+ S-03 Afiliación y canje del programa de fidelización         |            1 |              4
+ S-08 Atención de soporte de TI (mesa de servicio)            |            1 |              3
+ S-06 Copia o reenvío de comprobante electrónico              |            2 |              4
+ S-11 Recepción de factura y consulta del estado de pago      |            2 |              4
+ S-07 Pedido de reposición de mercadería del local            |            2 |              5
+ S-10 Consulta de boleta de pago                              |            2 |              4
+(11 rows)
+
+ nivel_ponderado | nivel_simple 
+-----------------+--------------
+            0.11 |         0.91
+(1 row)
+
+         eje          | nivel 
+----------------------+-------
+ 1. Gobernanza        |  1.25
+ 2. Servicios         |  1.00
+ 3. Interoperabilidad |  1.33
+ 4. Seguridad digital |  1.00
+ 5. Datos             |  1.00
+ 6. Identidad digital |  1.00
+ 7. Talento           |  1.33
+ 8. Infraestructura   |  1.00
+(8 rows)
+
+    estado     | obligaciones 
+---------------+--------------
+ No cumple     |           12
+ Parcial       |            5
+ Cumple        |            4
+ No verificado |            1
+(4 rows)
+
+ objetivo | nivel_actual | nivel_objetivo 
+----------+--------------+----------------
+ MEA03    |            0 |              3
+ APO02    |            0 |              2
+ APO10    |            1 |              3
+ APO12    |            0 |              2
+ APO13    |            1 |              3
+ APO14    |            0 |              2
+ DSS01    |            1 |              3
+ DSS02    |            1 |              3
+ EDM01    |            0 |              2
+ APO07    |            1 |              2
+ BAI06    |            1 |              2
+ DSS04    |            1 |              2
+ DSS05    |            1 |              2
+(13 rows)
+
+         eje          |                         indicador                         |                                    proyecto                                    
+----------------------+-----------------------------------------------------------+--------------------------------------------------------------------------------
+ 2. Servicios         | Tiempo medio de atención de la mesa de servicio           | P-01 Herramienta de mesa de servicio con registro único y SLA medido
+ 2. Servicios         | Satisfacción del usuario con los servicios de TI          | P-02 Encuesta validada (escala 1–5, muestra representativa) tras cada atención
+ 4. Seguridad digital | Incidentes de seguridad registrados en 12 meses           | P-03 Registro y clasificación de incidentes de seguridad
+ 5. Datos             | % de decisiones de compra sustentadas en dato verificable | P-04 Indicador de exactitud de stock (central vs. local) por semana
+ 8. Infraestructura   | Disponibilidad de servicios críticos (POS, red)           | P-05 Monitoreo de disponibilidad de POS, enlace y consolidación
+ 8. Infraestructura   | % de equipos dentro de soporte                            | P-06 Inventario de activos actualizado con fecha de fin de soporte
+(6 rows)
+

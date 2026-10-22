@@ -1,0 +1,15 @@
+=== NIVEL POR EJE ===
+ eje_nombre
+Datos                1.00
+Gobernanza           1.25
+Identidad digital    1.00
+Infraestructura      1.00
+Interoperabilidad    1.33
+Seguridad digital    1.00
+Servicios            1.00
+Talento              1.33
+
+NIVEL DE MADUREZ DE GOBIERNO DIGITAL: 1.11 de 5
+→ Inicial — reactivo
+
+=== INDICADORES SIN LÍNEA BASE: 6 de 27 ===

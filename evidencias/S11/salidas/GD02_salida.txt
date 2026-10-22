@@ -1,0 +1,22 @@
+Servicios catalogados        : 11
+Volumen anual total          : 1,621,076 atenciones
+Nivel medio de digitalización: 0.91 de 5
+Servicios en nivel ≥ 4       : 0 (0%)
+Servicios en nivel 0 o 1     : 7
+
+Nivel medio PONDERADO por volumen: 0.11
+→ El promedio simple sobrevalora la digitalización si los servicios de mayor
+  volumen son los menos digitalizados. Este es el indicador que importa.
+
+=== PRINCIPIO DE UNA SOLA VEZ ===
+Documentos solicitados: 15 | de ellos ya en poder de la organización: 6 (40%)
+→ Cada documento redundante es una solicitud que el rediseño debe eliminar.
+
+=== BRECHA POR SERVICIO, PONDERADA POR VOLUMEN ===
+  id                                           Servicio  nivel  Nivel objetivo  Volumen anual  impacto
+S-01               Venta y dispensación de medicamentos      0               3        1410000  4230000
+S-03    Afiliación y canje del programa de fidelización      1               4         120000   360000
+S-02 Consulta de disponibilidad y precio de un producto      0               4          46000   184000
+S-06         Copia o reenvío de comprobante electrónico      2               4          14000    28000
+S-11 Recepción de factura y consulta del estado de pago      2               4          11014    22028
+→ Estos servicios encabezan el portafolio: mayor brecha × mayor volumen.

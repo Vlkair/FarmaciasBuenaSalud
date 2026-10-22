@@ -1,0 +1,28 @@
+Eje,Indicador,Línea base,Fuente y fecha del dato,Evidencia,Nivel del eje (1–5),Observación,Proyecto de instrumentación
+1. Gobernanza,¿Existe comité de TI o de gobierno digital que sesione?,No sesiona (existe en el papel; 0 sesiones en 12 meses),"FICHA §B, corte 2025-12-31",Sin actas en el periodo,1,Comité solo nominal,
+1. Gobernanza,¿Existe PETI o plan de transformación digital vigente?,No,FICHA §E,Nunca se ha formulado,1,Este PETI será el primero,
+1. Gobernanza,¿Política de seguridad de la información aprobada?,No (borrador desde hace 2 años),FICHA §B y §E,Borrador sin aprobación,1,,
+1. Gobernanza,Presupuesto de TI sobre facturación,"1,11 % (S/ 468 000 de S/ 42,3 M)","FICHA §B, periodo 2025",presupuesto_ti.csv,2,Por debajo de lo habitual en retail,
+2. Servicios,Nivel medio ponderado de digitalización,"0,11 de 5 (simple: 0,91)","Salida de GD02, 2026-10-22",GD01_catalogo_servicios.csv,1,El servicio de mayor volumen (venta) es nivel 0,
+2. Servicios,% de servicios en nivel ≥ 4,0 % (0 de 11),Salida de GD02,GD01_catalogo_servicios.csv,1,Ningún servicio se completa sin acudir o llamar,
+2. Servicios,% de transacciones por canal digital (nivel ≥ 3),0 %,"GD01, volúmenes 2025",GD01_catalogo_servicios.csv,1,"No hay venta, reserva ni consulta en línea",
+2. Servicios,Tiempo medio de atención de la mesa de servicio,No se mide,"Hoja del practicante, 2025","169 de 1 960 abiertos; el más antiguo, 168 días",1,Las fechas de cierre no son confiables,P-01 Herramienta de mesa de servicio con registro único y SLA medido
+2. Servicios,Satisfacción del usuario con los servicios de TI,No se mide,"Cuestionario de TI, 2026-04-09",20 de 196 respuestas (10 %); preguntas sesgadas y dobles; sin validar,1,No hay línea base utilizable,"P-02 Encuesta validada (escala 1–5, muestra representativa) tras cada atención"
+3. Interoperabilidad,N.º de integraciones activas,1 (POS de los 23 locales → consolidación central por archivos nocturnos),FICHA §C,Consolidación sin soporte; falla ~2 veces por semana,1,Integración por archivo plano y frágil,
+3. Interoperabilidad,Documentos solicitados que la organización ya posee,6 de 15 (40 %),Salida de GD02,GD01_catalogo_servicios.csv,2,"Orden de compra, comprobante y DNI de afiliados se vuelven a pedir",
+3. Interoperabilidad,Reporte de controlados a DIGEMID,Manual (libro físico foliado),FICHA §C y §G,"Diferencia de 214 unidades en 4 locales, 2025",1,Sin intercambio electrónico con el regulador,
+4. Seguridad digital,¿Existe SGSI?,No,FICHA §B y §F,Política en borrador; sin controles documentados,1,Obligación de la Ley 29733 pendiente,
+4. Seguridad digital,Incidentes de seguridad registrados en 12 meses,No se mide,FICHA §F: «se resuelve y se olvida»,Sin registro de incidentes,1,Cero registros no significa cero incidentes,P-03 Registro y clasificación de incidentes de seguridad
+4. Seguridad digital,% de sistemas con respaldo y restauración probada,0 % (3 sistemas fuera del alcance del respaldo),FICHA §F; mesa de servicio §7,"Plan de retorno: «se restaura el respaldo», sin prueba documentada",1,,
+5. Datos,Entidades de datos con dueño designado,0,Mesa de servicio §8: «TI responde por todo»,Catálogo sin dueño por servicio,1,,
+5. Datos,Retención del detalle de movimientos en el POS,90 días,FICHA §G,Imposible reconstruir el movimiento de controlados,1,Insuficiente frente a la trazabilidad DIGEMID (riesgo H-2),
+5. Datos,% de decisiones de compra sustentadas en dato verificable,No se mide,Entrevista; FICHA §C,Stock central desactualizado cuando falla la consolidación; se compra de más,1,,P-04 Indicador de exactitud de stock (central vs. local) por semana
+6. Identidad digital,¿Identidad única de usuario?,No (cuentas por sistema; 4 personas con 2 cuentas en el ERP),"usuarios_erp.csv, corte 2025-12-31","132 cuentas, todas habilitadas",1,Sin correspondencia con la planilla de 196,
+6. Identidad digital,% de cuentas con segundo factor,0 % en ERP (0 de 132); solo el correo tiene 2FA,usuarios_erp.csv; FICHA §F,Columna mfa = No en las 132 cuentas,1,,
+6. Identidad digital,Bloqueos de contraseña en el periodo,172 registrados,Mesa de servicio §6,Problema recurrente sin causa buscada,1,El sistema no puede exigir la política de contraseñas,
+7. Talento,% de personal capacitado en seguridad o TI en 12 meses,0 %,FICHA §F,Única charla: inducción de 1 hora hace 3 años,1,,
+7. Talento,Personas con conocimiento crítico respaldado,0 de 1 (solo el jefe de sistemas sabe reprocesar la consolidación),FICHA §B y §C,Riesgo H-1 sin tratar,1,Dependencia crítica de una sola persona,
+7. Talento,Relación personal de TI / usuarios,1 : 75 (3 para 224 personas),FICHA §A y §B,—,2,,
+8. Infraestructura,"Disponibilidad de servicios críticos (POS, red)",No se mide,Mesa de servicio §4: red «99 %» solo con reporte del proveedor,Nadie calcula la penalidad del contrato del POS,1,,"P-05 Monitoreo de disponibilidad de POS, enlace y consolidación"
+8. Infraestructura,Fallas de la consolidación nocturna,~104 al año (2 por semana),FICHA §C,Reproceso manual del jefe de sistemas,1,,
+8. Infraestructura,% de equipos dentro de soporte,No se mide,FICHA §F: inventario de hace 2 años,Hoja de cálculo desactualizada,1,,P-06 Inventario de activos actualizado con fecha de fin de soporte
