@@ -1,0 +1,197 @@
+codigo_empleado,nombre,documento,area,cargo,fecha_ingreso,fecha_cese,correo,estado
+EMP0001,Marta Yufra Ramos,50429303,Gerencia,Practicante,2022-11-25,,m.yufra@farmacias.com.pe,Activo
+EMP0002,Álvaro Copaja Colque,33953915,Tecnologías de la Información,Operario,2011-11-02,,á.copaja@farmacias.com.pe,Activo
+EMP0003,Pedro Núñez Aguilar,76475850,Almacén,Analista,2017-11-01,,p.núñez@farmacias.com.pe,Activo
+EMP0004,Rosa Ilaquita Peralta,74325250,Gerencia,Asistente,2025-11-19,,r.ilaquita@farmacias.com.pe,Activo
+EMP0005,Diana Torres Yufra,68779094,Tecnologías de la Información,Operario,2014-12-17,,d.torres@farmacias.com.pe,Activo
+EMP0006,Julia Bravo Salazar,43376895,Comercial,Jefe,2011-12-20,,j.bravo@farmacias.com.pe,Activo
+EMP0007,Raúl Mamani Quispe,55675293,Comercial,Asistente,2025-03-08,,r.mamani@farmacias.com.pe,Activo
+EMP0008,Jorge Torres Apaza,13372711,Administración y Finanzas,Coordinador,2023-12-11,,j.torres@farmacias.com.pe,Activo
+EMP0009,Carlos Peralta Flores,68334837,Gerencia,Coordinador,2016-03-26,,c.peralta@farmacias.com.pe,Activo
+EMP0010,Miguel Quispe Mamani,76296570,Legal,Supervisor,2022-06-26,2026-11-24,m.quispe@farmacias.com.pe,Cesado
+EMP0011,Víctor Vargas Mamani,55825436,Compras,Analista,2018-02-11,,v.vargas@farmacias.com.pe,Activo
+EMP0012,Nadia Laura Apaza,42110111,Logística,Asistente,2021-10-26,,n.laura@farmacias.com.pe,Activo
+EMP0013,Fernando Choque Peralta,45111359,Comercial,Operario,2011-06-15,,f.choque@farmacias.com.pe,Activo
+EMP0014,Ana Apaza Paredes,74380677,Recursos Humanos,Operario,2015-10-27,,a.apaza@farmacias.com.pe,Activo
+EMP0015,Rosa Bravo Ticona,31847273,Comercial,Supervisor,2022-07-07,,r.bravo@farmacias.com.pe,Activo
+EMP0016,Alberto Cáceres Torres,64726162,Logística,Analista,2019-09-09,,a.cáceres@farmacias.com.pe,Activo
+EMP0017,Carlos Condori Chura,31282689,Administración y Finanzas,Coordinador,2024-08-26,,c.condori@farmacias.com.pe,Activo
+EMP0018,Iván Huanca Cutipa,47867583,Contabilidad,Supervisor,2014-08-16,,i.huanca@farmacias.com.pe,Activo
+EMP0019,Teresa Condori Apaza,31186574,Administración y Finanzas,Supervisor,2017-02-23,,t.condori@farmacias.com.pe,Activo
+EMP0020,Hugo Bravo Cutipa,59243321,Tecnologías de la Información,Practicante,2011-04-14,2013-04-03,h.bravo@farmacias.com.pe,Cesado
+EMP0021,Paola Ticona Ilaquita,12193942,Contabilidad,Analista,2021-07-10,,p.ticona@farmacias.com.pe,Activo
+EMP0022,Fernando Ramos Núñez,38216865,Gerencia,Operario,2022-05-03,2026-08-29,f.ramos@farmacias.com.pe,Cesado
+EMP0023,Marco Mamani Choque,31427286,Operaciones,Practicante,2011-07-06,,m.mamani@farmacias.com.pe,Activo
+EMP0024,Nadia Ilaquita Aguilar,15718475,Logística,Operario,2012-01-14,,n.ilaquita@farmacias.com.pe,Activo
+EMP0025,Iván Laura Ancco,78449591,Compras,Practicante,2013-07-13,,i.laura@farmacias.com.pe,Activo
+EMP0026,Ana Calisaya Copaja,56500239,Almacén,Supervisor,2024-02-07,,a.calisaya@farmacias.com.pe,Activo
+EMP0027,Marta Rivera Aguilar,22030800,Compras,Coordinador,2019-09-07,,m.rivera@farmacias.com.pe,Activo
+EMP0028,Marta Salazar Paredes,19513764,Almacén,Asistente,2024-09-18,,m.salazar@farmacias.com.pe,Activo
+EMP0029,Ricardo Huanca Ticona,73038886,Comercial,Analista,2012-05-09,,r.huanca@farmacias.com.pe,Activo
+EMP0030,Hugo Huanca Cutipa,65967971,Tecnologías de la Información,Analista,2011-02-12,,h.huanca@farmacias.com.pe,Activo
+EMP0031,Luis Ramos Apaza,49002701,Compras,Practicante,2018-04-10,,l.ramos@farmacias.com.pe,Activo
+EMP0032,Rocío Colque Rivera,48240214,Compras,Practicante,2017-12-06,,r.colque@farmacias.com.pe,Activo
+EMP0033,Raúl Nina Copaja,51442330,Logística,Supervisor,2024-04-08,2028-12-28,r.nina@farmacias.com.pe,Cesado
+EMP0034,Karla Cáceres Quispe,76200478,Tecnologías de la Información,Supervisor,2021-09-27,,k.cáceres@farmacias.com.pe,Activo
+EMP0035,Elena Ilaquita Flores,37006755,Contabilidad,Supervisor,2018-08-03,,e.ilaquita@farmacias.com.pe,Activo
+EMP0036,Lucía Ancco Huanca,35347169,Contabilidad,Supervisor,2014-04-02,,l.ancco@farmacias.com.pe,Activo
+EMP0037,Gabriela Maquera Yufra,36704697,Operaciones,Jefe,2014-03-20,,g.maquera@farmacias.com.pe,Activo
+EMP0038,Diana Cutipa Apaza,53540720,Operaciones,Analista,2011-11-10,,d.cutipa@farmacias.com.pe,Activo
+EMP0039,Karla Chura Ilaquita,67639694,Administración y Finanzas,Practicante,2021-10-12,,k.chura@farmacias.com.pe,Activo
+EMP0040,Sofía Mamani Paredes,75337861,Gerencia,Asistente,2014-12-24,2021-10-11,s.mamani@farmacias.com.pe,Cesado
+EMP0041,Teresa Ticona Torres,71234825,Tesorería,Coordinador,2022-01-19,,t.ticona@farmacias.com.pe,Activo
+EMP0042,Paola Medina Torres,63805249,Administración y Finanzas,Practicante,2022-11-11,,p.medina@farmacias.com.pe,Activo
+EMP0043,Jorge Medina Aguilar,23494898,Operaciones,Practicante,2018-11-26,2025-04-20,j.medina@farmacias.com.pe,Cesado
+EMP0044,Vanessa Choque Ilaquita,61212160,Operaciones,Practicante,2022-04-27,,v.choque@farmacias.com.pe,Activo
+EMP0045,Alberto Núñez Ancco,57458570,Administración y Finanzas,Jefe,2025-01-01,2027-08-29,a.núñez@farmacias.com.pe,Cesado
+EMP0046,Alberto Salazar Zapana,69549494,Legal,Coordinador,2022-02-09,,a.salazar@farmacias.com.pe,Activo
+EMP0047,Paola Maquera Ticona,19072450,Administración y Finanzas,Jefe,2023-02-01,,p.maquera@farmacias.com.pe,Activo
+EMP0048,Óscar Calisaya Cáceres,50594045,Recursos Humanos,Asistente,2011-07-03,2013-05-21,ó.calisaya@farmacias.com.pe,Cesado
+EMP0049,Raúl Colque Torres,32333902,Almacén,Analista,2014-09-20,,r.colque@farmacias.com.pe,Activo
+EMP0050,Paola Núñez Cáceres,43975768,Recursos Humanos,Practicante,2013-03-10,,p.núñez@farmacias.com.pe,Activo
+EMP0051,Carmen Colque Zapana,42276260,Recursos Humanos,Coordinador,2018-08-27,,c.colque@farmacias.com.pe,Activo
+EMP0052,Rocío Copaja Condori,31923437,Almacén,Operario,2023-09-09,,r.copaja@farmacias.com.pe,Activo
+EMP0053,Miguel Colque Flores,69752486,Logística,Asistente,2013-04-24,2016-12-20,m.colque@farmacias.com.pe,Cesado
+EMP0054,Nelson Salazar Ilaquita,59094159,Comercial,Operario,2013-08-11,,n.salazar@farmacias.com.pe,Activo
+EMP0055,Diana Ticona Aguilar,45073495,Recursos Humanos,Supervisor,2012-08-15,,d.ticona@farmacias.com.pe,Activo
+EMP0056,Raúl Aguilar Laura,68340296,Comercial,Supervisor,2022-04-22,,r.aguilar@farmacias.com.pe,Activo
+EMP0057,Gabriela Nina Cáceres,68476603,Tesorería,Operario,2015-10-25,,g.nina@farmacias.com.pe,Activo
+EMP0058,Ana Quispe Bravo,24060446,Contabilidad,Operario,2022-01-15,,a.quispe@farmacias.com.pe,Activo
+EMP0059,Raúl Nina Chura,45834566,Administración y Finanzas,Supervisor,2024-10-26,,r.nina@farmacias.com.pe,Activo
+EMP0060,Lucía Maquera Mamani,63113075,Recursos Humanos,Asistente,2013-12-10,,l.maquera@farmacias.com.pe,Activo
+EMP0061,Paola Yufra Quispe,64457293,Tesorería,Operario,2016-04-27,,p.yufra@farmacias.com.pe,Activo
+EMP0062,Paola Flores Nina,21238886,Gerencia,Supervisor,2011-01-05,,p.flores@farmacias.com.pe,Activo
+EMP0063,Elena Nina Nina,27796244,Administración y Finanzas,Coordinador,2013-11-06,,e.nina@farmacias.com.pe,Activo
+EMP0064,Vanessa Copaja Ramos,69235653,Almacén,Analista,2025-10-19,,v.copaja@farmacias.com.pe,Activo
+EMP0065,Paola Quispe Calisaya,12846185,Compras,Analista,2012-11-03,,p.quispe@farmacias.com.pe,Activo
+EMP0066,Carlos Paredes Laura,23884379,Gerencia,Analista,2018-04-15,,c.paredes@farmacias.com.pe,Activo
+EMP0067,Iván Flores Choque,34170779,Legal,Asistente,2013-10-24,,i.flores@farmacias.com.pe,Activo
+EMP0068,Paola Mamani Núñez,64222816,Compras,Asistente,2015-02-03,,p.mamani@farmacias.com.pe,Activo
+EMP0069,Jorge Colque Aguilar,29466864,Logística,Asistente,2016-01-21,2020-06-14,j.colque@farmacias.com.pe,Cesado
+EMP0070,Hugo Maquera Choque,14042865,Legal,Operario,2013-09-08,,h.maquera@farmacias.com.pe,Activo
+EMP0071,Víctor Maquera Ilaquita,53529102,Gerencia,Operario,2014-07-03,,v.maquera@farmacias.com.pe,Activo
+EMP0072,Nelson Laura Ramos,55406032,Comercial,Jefe,2024-09-26,2030-10-22,n.laura@farmacias.com.pe,Cesado
+EMP0073,Carlos Choque Flores,65296256,Compras,Jefe,2023-08-10,,c.choque@farmacias.com.pe,Activo
+EMP0074,Ana Salazar Ilaquita,64020721,Tesorería,Supervisor,2022-02-13,,a.salazar@farmacias.com.pe,Activo
+EMP0075,Pedro Ramos Ramos,57684873,Contabilidad,Jefe,2015-10-11,,p.ramos@farmacias.com.pe,Activo
+EMP0076,Silvia Ramos Cutipa,57838037,Gerencia,Supervisor,2022-01-15,,s.ramos@farmacias.com.pe,Activo
+EMP0077,Nelson Ancco Salazar,46304550,Comercial,Jefe,2024-11-26,,n.ancco@farmacias.com.pe,Activo
+EMP0078,Silvia Huanca Laura,46175031,Recursos Humanos,Coordinador,2015-08-24,,s.huanca@farmacias.com.pe,Activo
+EMP0079,Fernando Quispe Calisaya,39716982,Gerencia,Asistente,2015-05-03,,f.quispe@farmacias.com.pe,Activo
+EMP0080,Víctor Medina Zapana,76092088,Recursos Humanos,Asistente,2018-06-03,,v.medina@farmacias.com.pe,Activo
+EMP0081,Julia Quispe Laura,46992725,Legal,Operario,2013-01-19,,j.quispe@farmacias.com.pe,Activo
+EMP0082,Alberto Vargas Aguilar,35916792,Compras,Jefe,2021-10-24,,a.vargas@farmacias.com.pe,Activo
+EMP0083,Álvaro Nina Yufra,64363328,Gerencia,Analista,2017-03-01,,á.nina@farmacias.com.pe,Activo
+EMP0084,Elena Salazar Choque,73455298,Legal,Practicante,2014-12-15,,e.salazar@farmacias.com.pe,Activo
+EMP0085,Luis Colque Laura,48172745,Tesorería,Coordinador,2019-11-06,,l.colque@farmacias.com.pe,Activo
+EMP0086,Karla Mamani Flores,54001415,Logística,Jefe,2024-12-12,,k.mamani@farmacias.com.pe,Activo
+EMP0087,Karla Cutipa Nina,45634772,Almacén,Coordinador,2011-04-05,,k.cutipa@farmacias.com.pe,Activo
+EMP0088,Fernando Núñez Copaja,46204554,Tecnologías de la Información,Operario,2025-02-22,,f.núñez@farmacias.com.pe,Activo
+EMP0089,Alberto Condori Peralta,22119604,Recursos Humanos,Asistente,2017-10-01,,a.condori@farmacias.com.pe,Activo
+EMP0090,Carlos Medina Mamani,18764599,Gerencia,Operario,2024-04-23,,c.medina@farmacias.com.pe,Activo
+EMP0091,Luis Ilaquita Ramos,45878400,Operaciones,Analista,2022-04-24,,l.ilaquita@farmacias.com.pe,Activo
+EMP0092,Julia Chura Ancco,28413262,Legal,Operario,2015-03-26,2017-04-07,j.chura@farmacias.com.pe,Cesado
+EMP0093,Sofía Laura Rivera,34817830,Tesorería,Operario,2012-11-05,,s.laura@farmacias.com.pe,Activo
+EMP0094,Elena Rivera Choque,27274331,Almacén,Asistente,2018-01-02,,e.rivera@farmacias.com.pe,Activo
+EMP0095,Óscar Bravo Ramos,20344444,Tecnologías de la Información,Jefe,2019-04-10,,ó.bravo@farmacias.com.pe,Activo
+EMP0096,Alberto Zapana Maquera,36749111,Administración y Finanzas,Asistente,2022-09-24,,a.zapana@farmacias.com.pe,Activo
+EMP0097,Marta Apaza Paredes,70061422,Contabilidad,Supervisor,2025-03-07,,m.apaza@farmacias.com.pe,Activo
+EMP0098,Óscar Yufra Maquera,79772339,Recursos Humanos,Practicante,2017-01-22,,ó.yufra@farmacias.com.pe,Activo
+EMP0099,Jorge Paredes Medina,54526628,Gerencia,Supervisor,2014-06-12,,j.paredes@farmacias.com.pe,Activo
+EMP0100,Alberto Paredes Cutipa,39338589,Almacén,Supervisor,2022-04-16,,a.paredes@farmacias.com.pe,Activo
+EMP0101,Marco Torres Mamani,29433571,Operaciones,Coordinador,2011-12-02,2014-11-05,m.torres@farmacias.com.pe,Cesado
+EMP0102,Ana Bravo Peralta,24826891,Tecnologías de la Información,Asistente,2018-06-09,,a.bravo@farmacias.com.pe,Activo
+EMP0103,Karla Yufra Zapana,78775741,Operaciones,Operario,2018-01-04,,k.yufra@farmacias.com.pe,Activo
+EMP0104,Hugo Colque Ancco,20064095,Tesorería,Supervisor,2016-06-23,2019-04-23,h.colque@farmacias.com.pe,Cesado
+EMP0105,Carlos Maquera Zapana,56011301,Legal,Jefe,2025-06-07,,c.maquera@farmacias.com.pe,Activo
+EMP0106,Silvia Laura Flores,21357180,Comercial,Coordinador,2011-01-01,,s.laura@farmacias.com.pe,Activo
+EMP0107,Pedro Maquera Quispe,53816043,Gerencia,Coordinador,2025-03-13,,p.maquera@farmacias.com.pe,Activo
+EMP0108,Elena Apaza Copaja,38715144,Almacén,Analista,2019-05-05,,e.apaza@farmacias.com.pe,Activo
+EMP0109,Carmen Apaza Ilaquita,48980910,Gerencia,Asistente,2025-01-22,,c.apaza@farmacias.com.pe,Activo
+EMP0110,Karla Ticona Nina,37025610,Recursos Humanos,Coordinador,2015-01-04,,k.ticona@farmacias.com.pe,Activo
+EMP0111,Rosa Cutipa Quispe,13882747,Comercial,Asistente,2025-05-25,,r.cutipa@farmacias.com.pe,Activo
+EMP0112,Luis Núñez Chura,74448362,Operaciones,Coordinador,2025-02-05,,l.núñez@farmacias.com.pe,Activo
+EMP0113,Silvia Colque Cáceres,78551783,Recursos Humanos,Coordinador,2012-10-25,,s.colque@farmacias.com.pe,Activo
+EMP0114,Julio Núñez Huanca,73031355,Legal,Operario,2022-05-24,,j.núñez@farmacias.com.pe,Activo
+EMP0115,Víctor Ramos Mamani,78865650,Tesorería,Supervisor,2012-07-22,,v.ramos@farmacias.com.pe,Activo
+EMP0116,Marta Cáceres Ticona,35452545,Recursos Humanos,Practicante,2024-05-03,,m.cáceres@farmacias.com.pe,Activo
+EMP0117,Teresa Zapana Apaza,14658119,Compras,Operario,2011-03-17,,t.zapana@farmacias.com.pe,Activo
+EMP0118,Ricardo Huanca Yufra,39684958,Recursos Humanos,Asistente,2019-08-19,,r.huanca@farmacias.com.pe,Activo
+EMP0119,Silvia Calisaya Quispe,21736561,Comercial,Jefe,2024-10-16,,s.calisaya@farmacias.com.pe,Activo
+EMP0120,Víctor Quispe Copaja,37387870,Gerencia,Asistente,2023-09-25,,v.quispe@farmacias.com.pe,Activo
+EMP0121,Rosa Peralta Calisaya,79610111,Tecnologías de la Información,Operario,2014-11-19,,r.peralta@farmacias.com.pe,Activo
+EMP0122,Vanessa Ancco Paredes,16802554,Compras,Asistente,2012-10-19,,v.ancco@farmacias.com.pe,Activo
+EMP0123,Karla Calisaya Ilaquita,59963437,Tecnologías de la Información,Asistente,2013-06-05,,k.calisaya@farmacias.com.pe,Activo
+EMP0124,Víctor Flores Huanca,38651277,Comercial,Coordinador,2016-12-07,2021-02-01,v.flores@farmacias.com.pe,Cesado
+EMP0125,Lucía Choque Ancco,43887459,Tesorería,Jefe,2024-07-15,,l.choque@farmacias.com.pe,Activo
+EMP0126,Karla Núñez Apaza,30062859,Tesorería,Supervisor,2013-05-14,,k.núñez@farmacias.com.pe,Activo
+EMP0127,Rosa Ticona Ticona,66940432,Comercial,Jefe,2020-11-23,,r.ticona@farmacias.com.pe,Activo
+EMP0128,Jorge Nina Ancco,55079508,Tesorería,Coordinador,2021-08-20,,j.nina@farmacias.com.pe,Activo
+EMP0129,Álvaro Ramos Bravo,42816764,Almacén,Operario,2019-01-06,,á.ramos@farmacias.com.pe,Activo
+EMP0130,Ricardo Rivera Ilaquita,11744306,Legal,Operario,2022-12-17,,r.rivera@farmacias.com.pe,Activo
+EMP0131,Nelson Huanca Calisaya,64642257,Gerencia,Jefe,2022-03-07,2028-06-08,n.huanca@farmacias.com.pe,Cesado
+EMP0132,Vanessa Quispe Quispe,19393307,Comercial,Practicante,2017-12-23,2022-01-25,v.quispe@farmacias.com.pe,Cesado
+EMP0133,Luis Apaza Chura,13010186,Legal,Analista,2025-12-10,,l.apaza@farmacias.com.pe,Activo
+EMP0134,Óscar Rivera Zapana,73095108,Administración y Finanzas,Practicante,2025-05-19,2027-02-16,ó.rivera@farmacias.com.pe,Cesado
+EMP0135,Jorge Laura Rivera,14099933,Administración y Finanzas,Operario,2022-09-22,2023-11-07,j.laura@farmacias.com.pe,Cesado
+EMP0136,Rocío Choque Rivera,75759773,Logística,Coordinador,2016-07-11,,r.choque@farmacias.com.pe,Activo
+EMP0137,Álvaro Rivera Salazar,53283177,Almacén,Analista,2016-03-17,,á.rivera@farmacias.com.pe,Activo
+EMP0138,Rocío Núñez Medina,36828822,Gerencia,Analista,2013-06-14,,r.núñez@farmacias.com.pe,Activo
+EMP0139,Paola Ramos Peralta,35031226,Comercial,Supervisor,2017-02-20,2019-08-11,p.ramos@farmacias.com.pe,Cesado
+EMP0140,Julia Medina Mamani,59436028,Administración y Finanzas,Analista,2014-09-17,,j.medina@farmacias.com.pe,Activo
+EMP0141,Marco Medina Ancco,56543998,Comercial,Coordinador,2018-07-12,2021-01-30,m.medina@farmacias.com.pe,Cesado
+EMP0142,Sofía Condori Cutipa,27872050,Operaciones,Supervisor,2017-05-07,,s.condori@farmacias.com.pe,Activo
+EMP0143,Carmen Calisaya Choque,70762761,Operaciones,Jefe,2021-06-25,,c.calisaya@farmacias.com.pe,Activo
+EMP0144,Raúl Vargas Colque,49024074,Tecnologías de la Información,Coordinador,2025-11-17,,r.vargas@farmacias.com.pe,Activo
+EMP0145,Alberto Peralta Rivera,39009245,Logística,Asistente,2021-04-17,,a.peralta@farmacias.com.pe,Activo
+EMP0146,Víctor Ticona Huanca,48982382,Compras,Coordinador,2015-10-14,,v.ticona@farmacias.com.pe,Activo
+EMP0147,Hugo Medina Quispe,35854199,Almacén,Asistente,2014-02-21,2020-01-04,h.medina@farmacias.com.pe,Cesado
+EMP0148,Víctor Zapana Núñez,47761144,Operaciones,Jefe,2012-08-16,,v.zapana@farmacias.com.pe,Activo
+EMP0149,Álvaro Apaza Quispe,64849380,Tecnologías de la Información,Practicante,2022-01-13,,á.apaza@farmacias.com.pe,Activo
+EMP0150,Silvia Peralta Bravo,38882648,Logística,Practicante,2023-11-08,,s.peralta@farmacias.com.pe,Activo
+EMP0151,Iván Copaja Ilaquita,15042478,Operaciones,Coordinador,2015-03-03,,i.copaja@farmacias.com.pe,Activo
+EMP0152,Ana Chura Mamani,26876237,Administración y Finanzas,Coordinador,2023-10-11,,a.chura@farmacias.com.pe,Activo
+EMP0153,Álvaro Salazar Yufra,55614051,Compras,Operario,2016-12-05,,á.salazar@farmacias.com.pe,Activo
+EMP0154,Jorge Nina Bravo,56241628,Recursos Humanos,Jefe,2011-05-07,,j.nina@farmacias.com.pe,Activo
+EMP0155,Diana Vargas Núñez,28136316,Contabilidad,Analista,2014-12-26,,d.vargas@farmacias.com.pe,Activo
+EMP0156,Carlos Ancco Torres,37728967,Compras,Jefe,2023-01-06,2029-11-27,c.ancco@farmacias.com.pe,Cesado
+EMP0157,Rosa Zapana Ancco,75553378,Almacén,Jefe,2017-02-05,,r.zapana@farmacias.com.pe,Activo
+EMP0158,Diana Yufra Nina,38450216,Almacén,Analista,2013-08-12,,d.yufra@farmacias.com.pe,Activo
+EMP0159,Julio Mamani Ancco,58243680,Administración y Finanzas,Practicante,2018-09-01,,j.mamani@farmacias.com.pe,Activo
+EMP0160,Óscar Zapana Condori,78314135,Recursos Humanos,Operario,2015-12-01,,ó.zapana@farmacias.com.pe,Activo
+EMP0161,Fernando Salazar Mamani,62094037,Legal,Asistente,2018-05-16,,f.salazar@farmacias.com.pe,Activo
+EMP0162,Fernando Flores Mamani,33351141,Gerencia,Asistente,2019-03-01,2020-05-29,f.flores@farmacias.com.pe,Cesado
+EMP0163,Lucía Cáceres Condori,33138095,Tesorería,Operario,2020-10-25,,l.cáceres@farmacias.com.pe,Activo
+EMP0164,Luis Laura Maquera,42720991,Logística,Asistente,2011-01-19,,l.laura@farmacias.com.pe,Activo
+EMP0165,Hugo Núñez Núñez,35064281,Tesorería,Analista,2020-03-10,2023-09-16,h.núñez@farmacias.com.pe,Cesado
+EMP0166,Teresa Copaja Zapana,12779828,Operaciones,Supervisor,2012-09-02,,t.copaja@farmacias.com.pe,Activo
+EMP0167,Hugo Cutipa Choque,68791814,Recursos Humanos,Asistente,2011-10-18,,h.cutipa@farmacias.com.pe,Activo
+EMP0168,Gabriela Colque Ramos,34512581,Operaciones,Jefe,2021-06-24,,g.colque@farmacias.com.pe,Activo
+EMP0169,Marco Ancco Quispe,28045255,Administración y Finanzas,Analista,2014-05-22,,m.ancco@farmacias.com.pe,Activo
+EMP0170,Carmen Rivera Medina,31184306,Operaciones,Operario,2012-04-15,,c.rivera@farmacias.com.pe,Activo
+EMP0171,Paola Peralta Ilaquita,42436385,Legal,Analista,2014-05-21,,p.peralta@farmacias.com.pe,Activo
+EMP0172,Hugo Cutipa Medina,68047647,Operaciones,Supervisor,2023-12-21,,h.cutipa@farmacias.com.pe,Activo
+EMP0173,Marco Ramos Ilaquita,63136147,Contabilidad,Practicante,2013-10-07,,m.ramos@farmacias.com.pe,Activo
+EMP0174,Hugo Mamani Maquera,43562329,Comercial,Practicante,2023-09-10,,h.mamani@farmacias.com.pe,Activo
+EMP0175,Carlos Rivera Mamani,75055718,Recursos Humanos,Asistente,2018-04-04,,c.rivera@farmacias.com.pe,Activo
+EMP0176,Diana Núñez Aguilar,63028422,Gerencia,Operario,2019-05-01,,d.núñez@farmacias.com.pe,Activo
+EMP0177,Alberto Ilaquita Maquera,58336468,Recursos Humanos,Supervisor,2020-09-03,,a.ilaquita@farmacias.com.pe,Activo
+EMP0178,Gabriela Zapana Salazar,23312733,Comercial,Jefe,2015-10-06,,g.zapana@farmacias.com.pe,Activo
+EMP0179,Marco Ilaquita Nina,27835970,Logística,Analista,2021-09-12,,m.ilaquita@farmacias.com.pe,Activo
+EMP0180,Lucía Medina Colque,30263741,Logística,Coordinador,2022-12-20,2026-10-20,l.medina@farmacias.com.pe,Cesado
+EMP0181,Miguel Torres Chura,64585309,Recursos Humanos,Supervisor,2016-07-22,,m.torres@farmacias.com.pe,Activo
+EMP0182,Carmen Choque Salazar,27138758,Contabilidad,Practicante,2021-06-05,,c.choque@farmacias.com.pe,Activo
+EMP0183,Víctor Nina Cáceres,75011075,Recursos Humanos,Operario,2011-09-21,2014-05-23,v.nina@farmacias.com.pe,Cesado
+EMP0184,Carlos Maquera Núñez,33467031,Comercial,Supervisor,2023-02-07,,c.maquera@farmacias.com.pe,Activo
+EMP0185,Carlos Nina Chura,16968331,Logística,Jefe,2018-01-04,,c.nina@farmacias.com.pe,Activo
+EMP0186,Julia Ancco Yufra,40835688,Compras,Operario,2023-02-01,,j.ancco@farmacias.com.pe,Activo
+EMP0187,Alberto Choque Cáceres,61316178,Compras,Practicante,2018-02-04,,a.choque@farmacias.com.pe,Activo
+EMP0188,Marco Cáceres Apaza,33612856,Gerencia,Practicante,2011-08-01,,m.cáceres@farmacias.com.pe,Activo
+EMP0189,Miguel Ilaquita Laura,40897011,Compras,Coordinador,2023-07-25,,m.ilaquita@farmacias.com.pe,Activo
+EMP0190,Julia Choque Condori,21588524,Logística,Analista,2016-12-26,,j.choque@farmacias.com.pe,Activo
+EMP0191,Marco Colque Zapana,61528695,Legal,Coordinador,2024-06-09,2026-11-07,m.colque@farmacias.com.pe,Cesado
+EMP0192,Lucía Calisaya Choque,38684417,Logística,Operario,2024-05-07,,l.calisaya@farmacias.com.pe,Activo
+EMP0193,Ana Bravo Maquera,29569763,Logística,Asistente,2011-02-08,,a.bravo@farmacias.com.pe,Activo
+EMP0194,Paola Condori Medina,30212976,Almacén,Jefe,2013-05-12,2020-04-16,p.condori@farmacias.com.pe,Cesado
+EMP0195,Rosa Copaja Colque,69373776,Operaciones,Analista,2021-08-23,,r.copaja@farmacias.com.pe,Activo
+EMP0196,Carlos Colque Vargas,36475228,Tecnologías de la Información,Operario,2017-04-27,,c.colque@farmacias.com.pe,Activo

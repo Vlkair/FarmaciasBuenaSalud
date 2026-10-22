@@ -1,0 +1,7 @@
+id,proceso,criticidad,rto_horas,rpo_horas,sistema_soporte,responsable,impacto_24h,ultima_prueba
+BIA01,Trámite documentario y mesa de partes,Alta,72,96,Trámite documentario,Julio Salazar Flores,Bajo,2025-07-08
+BIA02,Recaudación de tributos municipales,Alta,72,48,Rentas y catastro,Hugo Cáceres Mamani,Medio,2025-07-24
+BIA03,Licencias de funcionamiento y edificación,Baja,4,8,Rentas y catastro,Karla Cáceres Apaza,Medio,2025-04-01
+BIA04,Registro civil,Media,8,48,Ninguno,Ana Calisaya Paredes,Alto,2025-04-07
+BIA05,Contrataciones y logística,Baja,2,8,SIAF-SP,Elena Torres Ancco,Medio,2025-04-05
+BIA06,Atención al ciudadano,Baja,48,1,Mesa de partes virtual,Carmen Condori Laura,Bajo,2025-02-13

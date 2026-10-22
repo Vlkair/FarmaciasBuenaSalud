@@ -1,0 +1,49 @@
+[Semana 05](../README.md) · [Taller de laboratorio](../3-TALLER.md) · **Recursos del taller**
+
+# Recursos del taller 05 · Diagnóstico de cultura con el Competing Values Framework
+
+**SI-886 · Planeamiento Estratégico de TI**
+
+Aquí está todo lo que este taller toma del banco de casos y los programas que usa. Cada equipo trabaja **solo con la carpeta de su organización**, la que el docente le asignó. Los archivos de las otras nueve organizaciones no le sirven: las cifras, las personas y los defectos de cada caso son distintos.
+
+Los documentos son **lo que la organización entregaría si se le pidiera**: una ficha, un plan, un organigrama, un contrato, un inventario. Traen hechos, no conclusiones. El taller consiste en convertirlos en diagnóstico, modelo, matriz o decisión, y eso no está hecho en ningún archivo de esta carpeta.
+
+## Cómo se usa
+
+1. Abra la carpeta de su organización, `EMPRESA-<NN>-<nombre>/`.
+2. Lea los archivos que la tabla siguiente indica, en el paso del taller donde se usan. Lo que un archivo no responde se pregunta en la **entrevista simulada con el docente**, y se registra qué se preguntó y qué se respondió.
+3. Lo que el taller pida copiar al repositorio del equipo se copia a la carpeta que el paso señale. **No edite los originales de esta carpeta.**
+4. Los documentos describen **lo que la organización dice hacer**. No señalan sus debilidades. Encontrarlas es parte del taller.
+
+## Archivos en la carpeta de cada organización
+
+| Archivo | Qué es | Dónde se usa en el taller |
+|---|---|---|
+| `organigrama-y-accesos.md` | Organigrama con áreas y cargos, y la matriz de accesos al sistema principal | Paso B, perfil por área, y Paso C, supuestos básicos inferidos de cómo se aprueban y se asignan los accesos |
+| `encuesta_cultura.csv` | Respuestas simuladas del personal al instrumento del Competing Values Framework, en la estructura que lee `CU02_perfil_cultura.py` | Paso B: se copia a `evidencias/encuesta_cultura.csv` del repositorio del equipo y la lee el programa. Trae respuestas inválidas a propósito |
+
+> **Sobre `encuesta_cultura.csv`.** Son respuestas **simuladas** del personal de la organización al instrumento de seis dimensiones del Paso A. Cada fila es un respondiente: su área y, por dimensión, los puntos repartidos entre A (Clan), B (Adhocracia), C (Mercado) y D (Jerarquía) para «hoy» y para «futuro». El tamaño de la muestra supera el 30 % del personal de cada organización. **Tres respuestas no suman 100 a propósito**: el control de calidad del programa debe excluirlas y reportarlas. El equipo copia el archivo a `evidencias/encuesta_cultura.csv` de su repositorio y ejecuta `CU02_perfil_cultura.py` desde `02_identidad/`. Un equipo con empresa real aplica el instrumento y guarda sus respuestas con esta misma estructura de columnas. El archivo se regenera con `generar_encuesta_cultura.py` (solo Python estándar; las semillas son fijas, así que produce siempre las mismas respuestas).
+
+## Las diez organizaciones
+
+| N.º | Carpeta | Organización |
+|---|---|---|
+| **01** | [`EMPRESA-01-agroexportadora-valle-viejo/`](EMPRESA-01-agroexportadora-valle-viejo/) | Agroexportadora Valle Viejo S.A.C. |
+| **02** | [`EMPRESA-02-clinica-san-ramon/`](EMPRESA-02-clinica-san-ramon/) | Clínica San Ramón S.A.C. |
+| **03** | [`EMPRESA-03-municipalidad-alto-selva/`](EMPRESA-03-municipalidad-alto-selva/) | Municipalidad Distrital de Alto Selva |
+| **04** | [`EMPRESA-04-coopac-frontera-sur/`](EMPRESA-04-coopac-frontera-sur/) | COOPAC Frontera Sur |
+| **05** | [`EMPRESA-05-transportes-sur-andino/`](EMPRESA-05-transportes-sur-andino/) | Transportes Sur Andino S.A. |
+| **06** | [`EMPRESA-06-distribuidora-andina-sur/`](EMPRESA-06-distribuidora-andina-sur/) | Distribuidora Andina del Sur S.A.C. |
+| **07** | [`EMPRESA-07-instituto-vertiente-sur/`](EMPRESA-07-instituto-vertiente-sur/) | Instituto Superior Tecnológico Vertiente Sur |
+| **08** | [`EMPRESA-08-eps-aguas-del-sur/`](EMPRESA-08-eps-aguas-del-sur/) | EPS Aguas del Sur S.A. |
+| **09** | [`EMPRESA-09-servicios-mineros-cordillera/`](EMPRESA-09-servicios-mineros-cordillera/) | Servicios Mineros Cordillera S.A.C. |
+| **10** | [`EMPRESA-10-farmacias-buena-salud/`](EMPRESA-10-farmacias-buena-salud/) | Cadena de Farmacias Buena Salud E.I.R.L. |
+
+Las copias de esta carpeta se toman del banco de casos del docente, sin las notas que ese banco trae para calificar. Si el docente regenera un caso, vuelve a copiar aquí los archivos de esa semana.
+
+---
+
+**Docente** · Dr. Oscar Juan Jimenez Flores
+[oscarjimenezflores@upt.pe](mailto:oscarjimenezflores@upt.pe) · [LinkedIn](https://www.linkedin.com/in/oscar-jimenez-flores/) · [CTI Vitae — CONCYTEC](https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=33398)
+
+Escuela Profesional de Ingeniería de Sistemas · Universidad Privada de Tacna · Tacna, Perú

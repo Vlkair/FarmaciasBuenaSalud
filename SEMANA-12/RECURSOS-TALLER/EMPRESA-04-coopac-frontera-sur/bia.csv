@@ -1,0 +1,7 @@
+id,proceso,criticidad,rto_horas,rpo_horas,sistema_soporte,responsable,impacto_24h,ultima_prueba
+BIA01,Captación de ahorros,Media,2,26,Core financiero,Julio Cáceres Laura,Bajo,
+BIA02,Evaluación y otorgamiento de créditos,Alta,72,48,Central de riesgos,Ana Nina Aguilar,Bajo,2025-06-11
+BIA03,Recuperaciones y cobranza,Media,8,4,Core financiero,Nelson Quispe Paredes,Medio,
+BIA04,Prevención de lavado de activos,Media,12,24,Prevención de lavado de activos,Nelson Chura Huanca,Medio,2025-05-25
+BIA05,Atención al socio en agencias,Baja,8,4,Banca por internet para socios,Silvia Medina Medina,Bajo,2025-02-24
+BIA06,Cierre contable y reportes a la SBS,Media,24,1,Core financiero,Luis Cutipa Rivera,Alto,

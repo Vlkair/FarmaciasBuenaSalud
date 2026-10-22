@@ -1,0 +1,7 @@
+id,proceso,criticidad,rto_horas,rpo_horas,sistema_soporte,responsable,impacto_24h,ultima_prueba
+BIA01,Compras a laboratorios y droguerías,Media,2,26,Compras y distribución a locales,Teresa Cáceres Quispe,Bajo,2025-07-22
+BIA02,Distribución a los 23 locales,Alta,72,4,Compras y distribución a locales,Hugo Torres Nina,Alto,
+BIA03,Venta y dispensación,Media,24,24,Punto de venta y stock,Julia Vargas Laura,Medio,
+BIA04,Control de productos controlados,Media,24,8,Receta digital y control de estupefacientes,Álvaro Choque Ramos,Bajo,
+BIA05,Fidelización de clientes,Alta,72,1,Programa de fidelización,Nelson Zapana Bravo,Alto,
+BIA06,Cierre de caja y consolidación,Baja,2,8,Consolidación central,Rosa Núñez Laura,Medio,

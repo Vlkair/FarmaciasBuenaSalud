@@ -1,0 +1,97 @@
+codigo_empleado,nombre,documento,area,cargo,fecha_ingreso,fecha_cese,correo,estado
+EMP0001,Marta Núñez Chura,43031208,Logística,Practicante,2015-09-27,,m.núñez@coopac.com.pe,Activo
+EMP0002,Pedro Ilaquita Aguilar,35857528,Tecnologías de la Información,Supervisor,2024-07-02,,p.ilaquita@coopac.com.pe,Activo
+EMP0003,Óscar Torres Flores,10531003,Gerencia,Asistente,2011-02-16,,ó.torres@coopac.com.pe,Activo
+EMP0004,Fernando Medina Cutipa,26463889,Operaciones,Coordinador,2013-12-23,,f.medina@coopac.com.pe,Activo
+EMP0005,Luis Condori Ticona,28722347,Administración y Finanzas,Practicante,2016-11-16,,l.condori@coopac.com.pe,Activo
+EMP0006,Óscar Choque Salazar,52696506,Recursos Humanos,Analista,2022-03-13,,ó.choque@coopac.com.pe,Activo
+EMP0007,Alberto Quispe Aguilar,19101407,Contabilidad,Analista,2014-08-14,,a.quispe@coopac.com.pe,Activo
+EMP0008,Luis Núñez Núñez,76868708,Contabilidad,Supervisor,2025-07-21,2031-10-19,l.núñez@coopac.com.pe,Cesado
+EMP0009,Álvaro Salazar Torres,18352806,Administración y Finanzas,Coordinador,2014-07-18,,á.salazar@coopac.com.pe,Activo
+EMP0010,Teresa Condori Cutipa,60356106,Tecnologías de la Información,Jefe,2023-05-01,,t.condori@coopac.com.pe,Activo
+EMP0011,Hugo Núñez Nina,44043559,Almacén,Analista,2014-09-23,,h.núñez@coopac.com.pe,Activo
+EMP0012,Miguel Colque Medina,35727362,Tecnologías de la Información,Coordinador,2011-12-10,,m.colque@coopac.com.pe,Activo
+EMP0013,Nelson Vargas Zapana,16176856,Tesorería,Coordinador,2019-04-10,,n.vargas@coopac.com.pe,Activo
+EMP0014,Silvia Mamani Medina,64556090,Tecnologías de la Información,Coordinador,2019-02-15,2022-01-07,s.mamani@coopac.com.pe,Cesado
+EMP0015,Raúl Choque Choque,56472344,Comercial,Jefe,2011-03-14,,r.choque@coopac.com.pe,Activo
+EMP0016,Luis Colque Apaza,71257557,Almacén,Coordinador,2017-08-17,,l.colque@coopac.com.pe,Activo
+EMP0017,Rosa Mamani Peralta,33632940,Legal,Supervisor,2024-02-20,2031-03-12,r.mamani@coopac.com.pe,Cesado
+EMP0018,Pedro Huanca Vargas,19323818,Legal,Operario,2022-07-02,,p.huanca@coopac.com.pe,Activo
+EMP0019,Teresa Aguilar Peralta,17192249,Tecnologías de la Información,Supervisor,2025-02-16,,t.aguilar@coopac.com.pe,Activo
+EMP0020,Lucía Laura Flores,56189310,Tecnologías de la Información,Jefe,2023-08-21,2028-06-26,l.laura@coopac.com.pe,Cesado
+EMP0021,Luis Ancco Aguilar,41339017,Contabilidad,Supervisor,2013-09-21,,l.ancco@coopac.com.pe,Activo
+EMP0022,Gabriela Zapana Maquera,47497009,Operaciones,Asistente,2021-06-16,,g.zapana@coopac.com.pe,Activo
+EMP0023,Nadia Rivera Copaja,52024537,Tesorería,Asistente,2013-11-22,,n.rivera@coopac.com.pe,Activo
+EMP0024,Marta Paredes Medina,44178036,Administración y Finanzas,Jefe,2019-01-23,,m.paredes@coopac.com.pe,Activo
+EMP0025,Teresa Colque Zapana,10423594,Gerencia,Practicante,2013-12-03,,t.colque@coopac.com.pe,Activo
+EMP0026,Fernando Zapana Apaza,47130424,Tesorería,Operario,2013-12-02,,f.zapana@coopac.com.pe,Activo
+EMP0027,Ricardo Paredes Calisaya,79900902,Comercial,Jefe,2021-10-06,,r.paredes@coopac.com.pe,Activo
+EMP0028,Álvaro Laura Cutipa,17850973,Almacén,Asistente,2024-02-09,,á.laura@coopac.com.pe,Activo
+EMP0029,Hugo Quispe Núñez,41492050,Tesorería,Operario,2018-09-15,,h.quispe@coopac.com.pe,Activo
+EMP0030,Iván Bravo Peralta,49843838,Comercial,Coordinador,2012-10-10,,i.bravo@coopac.com.pe,Activo
+EMP0031,Paola Condori Nina,51297502,Gerencia,Operario,2025-06-02,,p.condori@coopac.com.pe,Activo
+EMP0032,Diana Núñez Calisaya,27866847,Legal,Coordinador,2016-11-26,,d.núñez@coopac.com.pe,Activo
+EMP0033,Teresa Bravo Maquera,33738042,Legal,Jefe,2024-04-14,,t.bravo@coopac.com.pe,Activo
+EMP0034,Ricardo Núñez Ilaquita,10979999,Recursos Humanos,Coordinador,2025-03-17,,r.núñez@coopac.com.pe,Activo
+EMP0035,Rosa Paredes Vargas,71427982,Legal,Coordinador,2020-05-08,,r.paredes@coopac.com.pe,Activo
+EMP0036,Alberto Zapana Huanca,19265572,Comercial,Operario,2024-03-18,,a.zapana@coopac.com.pe,Activo
+EMP0037,Lucía Medina Vargas,11513518,Gerencia,Practicante,2012-07-08,,l.medina@coopac.com.pe,Activo
+EMP0038,Marta Ticona Colque,59040317,Comercial,Coordinador,2014-11-12,,m.ticona@coopac.com.pe,Activo
+EMP0039,Paola Núñez Rivera,44094510,Administración y Finanzas,Operario,2012-05-12,,p.núñez@coopac.com.pe,Activo
+EMP0040,Hugo Nina Vargas,59663191,Contabilidad,Operario,2023-12-17,,h.nina@coopac.com.pe,Activo
+EMP0041,Ricardo Nina Ticona,53277207,Tecnologías de la Información,Asistente,2024-07-04,,r.nina@coopac.com.pe,Activo
+EMP0042,Gabriela Maquera Salazar,39115661,Almacén,Supervisor,2014-09-02,,g.maquera@coopac.com.pe,Activo
+EMP0043,Ricardo Yufra Zapana,22112342,Tecnologías de la Información,Practicante,2013-09-13,,r.yufra@coopac.com.pe,Activo
+EMP0044,Julio Ticona Yufra,26604877,Tecnologías de la Información,Analista,2019-05-02,,j.ticona@coopac.com.pe,Activo
+EMP0045,Iván Laura Huanca,48410322,Operaciones,Asistente,2016-07-27,2023-03-18,i.laura@coopac.com.pe,Cesado
+EMP0046,Marco Copaja Yufra,71463099,Tecnologías de la Información,Practicante,2025-08-13,,m.copaja@coopac.com.pe,Activo
+EMP0047,Karla Aguilar Mamani,68792442,Contabilidad,Jefe,2024-07-08,,k.aguilar@coopac.com.pe,Activo
+EMP0048,Gabriela Choque Ticona,35338282,Recursos Humanos,Jefe,2021-03-10,,g.choque@coopac.com.pe,Activo
+EMP0049,Ricardo Ancco Aguilar,18194063,Gerencia,Operario,2023-10-24,,r.ancco@coopac.com.pe,Activo
+EMP0050,Sofía Núñez Vargas,61448715,Gerencia,Jefe,2013-11-12,,s.núñez@coopac.com.pe,Activo
+EMP0051,Nadia Ilaquita Choque,50781957,Almacén,Supervisor,2022-04-21,2024-06-23,n.ilaquita@coopac.com.pe,Cesado
+EMP0052,Diana Chura Condori,56370913,Compras,Supervisor,2021-11-26,,d.chura@coopac.com.pe,Activo
+EMP0053,Julio Colque Peralta,54898359,Recursos Humanos,Supervisor,2012-07-15,,j.colque@coopac.com.pe,Activo
+EMP0054,Ana Chura Vargas,68947607,Administración y Finanzas,Coordinador,2023-03-07,,a.chura@coopac.com.pe,Activo
+EMP0055,Álvaro Flores Paredes,15019656,Operaciones,Coordinador,2012-07-02,,á.flores@coopac.com.pe,Activo
+EMP0056,Marta Quispe Vargas,61743252,Administración y Finanzas,Asistente,2017-07-01,,m.quispe@coopac.com.pe,Activo
+EMP0057,Nadia Salazar Ramos,28709415,Legal,Analista,2016-11-13,2021-05-19,n.salazar@coopac.com.pe,Cesado
+EMP0058,Raúl Paredes Calisaya,32471969,Comercial,Analista,2021-01-25,,r.paredes@coopac.com.pe,Activo
+EMP0059,Nadia Ticona Flores,47174200,Contabilidad,Analista,2018-04-08,2024-05-12,n.ticona@coopac.com.pe,Cesado
+EMP0060,Carlos Copaja Medina,78025330,Comercial,Operario,2018-10-03,,c.copaja@coopac.com.pe,Activo
+EMP0061,Carlos Chura Colque,32206848,Gerencia,Jefe,2014-05-06,,c.chura@coopac.com.pe,Activo
+EMP0062,Silvia Paredes Choque,41334596,Contabilidad,Practicante,2018-05-04,,s.paredes@coopac.com.pe,Activo
+EMP0063,Gabriela Cáceres Calisaya,29579953,Comercial,Jefe,2014-09-09,,g.cáceres@coopac.com.pe,Activo
+EMP0064,Vanessa Maquera Peralta,74097660,Legal,Coordinador,2016-02-12,,v.maquera@coopac.com.pe,Activo
+EMP0065,Hugo Cutipa Peralta,19722400,Gerencia,Supervisor,2023-02-07,,h.cutipa@coopac.com.pe,Activo
+EMP0066,Marta Flores Ramos,64814378,Contabilidad,Supervisor,2024-06-08,2028-04-15,m.flores@coopac.com.pe,Cesado
+EMP0067,Karla Paredes Ancco,64712796,Legal,Coordinador,2017-10-14,2022-12-07,k.paredes@coopac.com.pe,Cesado
+EMP0068,Diana Peralta Cáceres,43097833,Tecnologías de la Información,Analista,2020-03-17,,d.peralta@coopac.com.pe,Activo
+EMP0069,Hugo Cáceres Aguilar,77136855,Recursos Humanos,Asistente,2019-12-14,,h.cáceres@coopac.com.pe,Activo
+EMP0070,Miguel Condori Ramos,34355048,Comercial,Jefe,2014-06-27,,m.condori@coopac.com.pe,Activo
+EMP0071,Nelson Condori Peralta,29492094,Almacén,Jefe,2019-03-11,,n.condori@coopac.com.pe,Activo
+EMP0072,Alberto Rivera Maquera,79090656,Compras,Operario,2019-02-06,,a.rivera@coopac.com.pe,Activo
+EMP0073,Nelson Aguilar Calisaya,65622406,Administración y Finanzas,Operario,2023-03-09,,n.aguilar@coopac.com.pe,Activo
+EMP0074,Silvia Medina Huanca,41062291,Recursos Humanos,Practicante,2018-12-19,,s.medina@coopac.com.pe,Activo
+EMP0075,Álvaro Rivera Vargas,46146722,Tecnologías de la Información,Asistente,2023-01-25,,á.rivera@coopac.com.pe,Activo
+EMP0076,Fernando Chura Maquera,29564781,Operaciones,Analista,2023-03-24,,f.chura@coopac.com.pe,Activo
+EMP0077,Hugo Ramos Colque,47043539,Contabilidad,Coordinador,2020-09-06,,h.ramos@coopac.com.pe,Activo
+EMP0078,Jorge Calisaya Cáceres,35988689,Tecnologías de la Información,Coordinador,2024-03-01,,j.calisaya@coopac.com.pe,Activo
+EMP0079,Raúl Flores Torres,19548746,Comercial,Coordinador,2016-05-27,,r.flores@coopac.com.pe,Activo
+EMP0080,Carlos Núñez Mamani,49049150,Compras,Asistente,2022-01-22,,c.núñez@coopac.com.pe,Activo
+EMP0081,Sofía Núñez Medina,76096219,Legal,Supervisor,2018-09-05,2024-02-13,s.núñez@coopac.com.pe,Cesado
+EMP0082,Julia Torres Quispe,24819517,Contabilidad,Operario,2020-08-07,,j.torres@coopac.com.pe,Activo
+EMP0083,Fernando Paredes Laura,23831193,Compras,Practicante,2018-07-06,,f.paredes@coopac.com.pe,Activo
+EMP0084,Julio Salazar Salazar,51349863,Contabilidad,Practicante,2021-02-14,,j.salazar@coopac.com.pe,Activo
+EMP0085,Gabriela Nina Vargas,72941778,Recursos Humanos,Practicante,2025-06-18,,g.nina@coopac.com.pe,Activo
+EMP0086,Óscar Ramos Bravo,60045928,Tecnologías de la Información,Asistente,2023-12-04,,ó.ramos@coopac.com.pe,Activo
+EMP0087,Karla Vargas Zapana,22714645,Compras,Jefe,2013-09-02,,k.vargas@coopac.com.pe,Activo
+EMP0088,Óscar Medina Paredes,69387795,Almacén,Coordinador,2016-06-26,,ó.medina@coopac.com.pe,Activo
+EMP0089,Marta Torres Bravo,71205816,Logística,Asistente,2023-03-09,,m.torres@coopac.com.pe,Activo
+EMP0090,Teresa Vargas Peralta,66805718,Contabilidad,Jefe,2015-09-10,,t.vargas@coopac.com.pe,Activo
+EMP0091,Lucía Huanca Salazar,65620024,Administración y Finanzas,Practicante,2017-10-12,,l.huanca@coopac.com.pe,Activo
+EMP0092,Julia Ancco Quispe,12514839,Administración y Finanzas,Operario,2017-09-17,,j.ancco@coopac.com.pe,Activo
+EMP0093,Iván Condori Aguilar,34399324,Administración y Finanzas,Jefe,2017-03-08,2021-01-01,i.condori@coopac.com.pe,Cesado
+EMP0094,Rosa Ancco Peralta,34741088,Tecnologías de la Información,Supervisor,2024-03-02,,r.ancco@coopac.com.pe,Activo
+EMP0095,Marco Rivera Colque,18442121,Contabilidad,Asistente,2020-08-14,,m.rivera@coopac.com.pe,Activo
+EMP0096,Iván Rivera Torres,47437326,Legal,Coordinador,2024-08-27,,i.rivera@coopac.com.pe,Activo

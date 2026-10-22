@@ -1,0 +1,143 @@
+codigo_empleado,nombre,documento,area,cargo,fecha_ingreso,fecha_cese,correo,estado
+EMP0001,Nelson Calisaya Aguilar,48006626,Contabilidad,Asistente,2019-07-11,,n.calisaya@agroexportadora.com.pe,Activo
+EMP0002,Diana Yufra Ilaquita,37025466,Tecnologías de la Información,Jefe,2018-11-13,2020-10-15,d.yufra@agroexportadora.com.pe,Cesado
+EMP0003,Sofía Salazar Medina,36827356,Recursos Humanos,Practicante,2013-02-12,2014-07-31,s.salazar@agroexportadora.com.pe,Cesado
+EMP0004,Karla Ilaquita Vargas,35372543,Logística,Jefe,2017-04-06,,k.ilaquita@agroexportadora.com.pe,Activo
+EMP0005,Paola Zapana Bravo,71799361,Logística,Asistente,2014-03-25,,p.zapana@agroexportadora.com.pe,Activo
+EMP0006,Silvia Quispe Laura,71925759,Comercial,Coordinador,2014-11-14,,s.quispe@agroexportadora.com.pe,Activo
+EMP0007,Nadia Ramos Choque,78314062,Contabilidad,Supervisor,2018-01-17,2025-02-06,n.ramos@agroexportadora.com.pe,Cesado
+EMP0008,Sofía Vargas Yufra,26684658,Tesorería,Supervisor,2025-02-17,,s.vargas@agroexportadora.com.pe,Activo
+EMP0009,Vanessa Paredes Peralta,65734568,Almacén,Supervisor,2023-02-26,,v.paredes@agroexportadora.com.pe,Activo
+EMP0010,Ricardo Apaza Peralta,79991550,Administración y Finanzas,Supervisor,2020-10-08,,r.apaza@agroexportadora.com.pe,Activo
+EMP0011,Marta Ticona Cutipa,58535988,Recursos Humanos,Practicante,2024-05-26,,m.ticona@agroexportadora.com.pe,Activo
+EMP0012,Luis Ramos Rivera,57110137,Operaciones,Practicante,2021-06-04,,l.ramos@agroexportadora.com.pe,Activo
+EMP0013,Karla Maquera Condori,52020448,Administración y Finanzas,Supervisor,2020-10-15,,k.maquera@agroexportadora.com.pe,Activo
+EMP0014,Julia Bravo Núñez,63153084,Recursos Humanos,Coordinador,2021-07-26,,j.bravo@agroexportadora.com.pe,Activo
+EMP0015,Rosa Cutipa Cáceres,55476963,Logística,Jefe,2023-12-22,,r.cutipa@agroexportadora.com.pe,Activo
+EMP0016,Nadia Mamani Vargas,37391548,Tesorería,Operario,2015-01-07,,n.mamani@agroexportadora.com.pe,Activo
+EMP0017,Víctor Yufra Peralta,29840958,Administración y Finanzas,Coordinador,2018-05-19,,v.yufra@agroexportadora.com.pe,Activo
+EMP0018,Paola Peralta Mamani,16747844,Tesorería,Supervisor,2012-04-03,,p.peralta@agroexportadora.com.pe,Activo
+EMP0019,Karla Colque Nina,61500955,Comercial,Jefe,2021-01-14,,k.colque@agroexportadora.com.pe,Activo
+EMP0020,Rosa Torres Ilaquita,34979674,Comercial,Asistente,2018-11-18,2021-07-14,r.torres@agroexportadora.com.pe,Cesado
+EMP0021,Vanessa Chura Colque,45878271,Operaciones,Operario,2021-10-16,,v.chura@agroexportadora.com.pe,Activo
+EMP0022,Carmen Medina Zapana,17477694,Almacén,Supervisor,2012-09-05,,c.medina@agroexportadora.com.pe,Activo
+EMP0023,Silvia Flores Yufra,67824050,Operaciones,Jefe,2016-06-20,,s.flores@agroexportadora.com.pe,Activo
+EMP0024,Lucía Copaja Rivera,12053507,Administración y Finanzas,Coordinador,2025-02-02,,l.copaja@agroexportadora.com.pe,Activo
+EMP0025,Nelson Ancco Peralta,25475986,Almacén,Coordinador,2015-07-19,,n.ancco@agroexportadora.com.pe,Activo
+EMP0026,Teresa Mamani Colque,61793153,Recursos Humanos,Coordinador,2017-04-26,,t.mamani@agroexportadora.com.pe,Activo
+EMP0027,Víctor Salazar Maquera,44413413,Tecnologías de la Información,Coordinador,2025-10-22,2027-01-23,v.salazar@agroexportadora.com.pe,Cesado
+EMP0028,Elena Condori Ramos,34718293,Legal,Jefe,2020-08-22,,e.condori@agroexportadora.com.pe,Activo
+EMP0029,Pedro Ticona Peralta,50905727,Compras,Asistente,2016-07-03,,p.ticona@agroexportadora.com.pe,Activo
+EMP0030,Raúl Maquera Salazar,66975881,Contabilidad,Supervisor,2016-07-09,,r.maquera@agroexportadora.com.pe,Activo
+EMP0031,Vanessa Ticona Paredes,61420634,Logística,Jefe,2011-04-07,,v.ticona@agroexportadora.com.pe,Activo
+EMP0032,Carlos Quispe Peralta,39119472,Almacén,Practicante,2021-04-22,,c.quispe@agroexportadora.com.pe,Activo
+EMP0033,Gabriela Yufra Apaza,66451705,Contabilidad,Operario,2017-01-25,,g.yufra@agroexportadora.com.pe,Activo
+EMP0034,Lucía Rivera Peralta,30536457,Administración y Finanzas,Jefe,2015-05-14,,l.rivera@agroexportadora.com.pe,Activo
+EMP0035,Miguel Cutipa Salazar,34310159,Comercial,Operario,2023-10-21,,m.cutipa@agroexportadora.com.pe,Activo
+EMP0036,Miguel Aguilar Rivera,33684776,Comercial,Supervisor,2011-04-18,,m.aguilar@agroexportadora.com.pe,Activo
+EMP0037,Rosa Zapana Peralta,50649627,Contabilidad,Analista,2014-02-27,,r.zapana@agroexportadora.com.pe,Activo
+EMP0038,Elena Quispe Ilaquita,62699238,Recursos Humanos,Coordinador,2023-04-09,,e.quispe@agroexportadora.com.pe,Activo
+EMP0039,Gabriela Condori Yufra,20631525,Compras,Operario,2011-09-08,,g.condori@agroexportadora.com.pe,Activo
+EMP0040,Lucía Ticona Cutipa,73665308,Comercial,Coordinador,2022-06-05,,l.ticona@agroexportadora.com.pe,Activo
+EMP0041,Miguel Núñez Huanca,52264648,Almacén,Asistente,2024-02-05,,m.núñez@agroexportadora.com.pe,Activo
+EMP0042,Paola Mamani Cutipa,79108879,Tesorería,Practicante,2020-10-11,,p.mamani@agroexportadora.com.pe,Activo
+EMP0043,Paola Torres Copaja,76632088,Operaciones,Analista,2013-12-23,,p.torres@agroexportadora.com.pe,Activo
+EMP0044,Gabriela Cutipa Medina,40067082,Compras,Supervisor,2020-03-23,,g.cutipa@agroexportadora.com.pe,Activo
+EMP0045,Elena Cutipa Ramos,40581307,Tesorería,Coordinador,2020-11-19,,e.cutipa@agroexportadora.com.pe,Activo
+EMP0046,Miguel Chura Copaja,31219175,Tecnologías de la Información,Operario,2013-11-21,,m.chura@agroexportadora.com.pe,Activo
+EMP0047,Elena Vargas Cáceres,74588752,Gerencia,Analista,2021-05-23,,e.vargas@agroexportadora.com.pe,Activo
+EMP0048,Julia Quispe Ancco,25143126,Tecnologías de la Información,Asistente,2013-07-20,,j.quispe@agroexportadora.com.pe,Activo
+EMP0049,Nadia Paredes Maquera,32329540,Operaciones,Practicante,2016-05-13,,n.paredes@agroexportadora.com.pe,Activo
+EMP0050,Óscar Paredes Ancco,14961599,Tesorería,Operario,2011-07-23,2012-08-11,ó.paredes@agroexportadora.com.pe,Cesado
+EMP0051,Paola Choque Quispe,22732050,Almacén,Asistente,2024-12-01,2028-01-02,p.choque@agroexportadora.com.pe,Cesado
+EMP0052,Fernando Apaza Vargas,42362789,Legal,Coordinador,2025-03-14,,f.apaza@agroexportadora.com.pe,Activo
+EMP0053,Jorge Huanca Torres,66624162,Compras,Asistente,2014-08-02,,j.huanca@agroexportadora.com.pe,Activo
+EMP0054,Luis Rivera Bravo,58106380,Tesorería,Analista,2018-02-09,,l.rivera@agroexportadora.com.pe,Activo
+EMP0055,Sofía Ancco Maquera,17716590,Legal,Analista,2025-11-23,,s.ancco@agroexportadora.com.pe,Activo
+EMP0056,Vanessa Núñez Flores,68439479,Comercial,Practicante,2024-01-13,,v.núñez@agroexportadora.com.pe,Activo
+EMP0057,Jorge Torres Peralta,55993704,Compras,Analista,2018-04-09,2020-11-12,j.torres@agroexportadora.com.pe,Cesado
+EMP0058,Sofía Vargas Paredes,72296039,Comercial,Jefe,2017-01-26,,s.vargas@agroexportadora.com.pe,Activo
+EMP0059,Rosa Ticona Calisaya,72682762,Contabilidad,Jefe,2019-07-24,2025-09-05,r.ticona@agroexportadora.com.pe,Cesado
+EMP0060,Teresa Bravo Aguilar,47000151,Gerencia,Asistente,2011-06-09,,t.bravo@agroexportadora.com.pe,Activo
+EMP0061,Rocío Choque Colque,63707669,Contabilidad,Supervisor,2022-01-03,,r.choque@agroexportadora.com.pe,Activo
+EMP0062,Óscar Huanca Medina,72074503,Tecnologías de la Información,Practicante,2015-11-13,,ó.huanca@agroexportadora.com.pe,Activo
+EMP0063,Sofía Huanca Copaja,25344037,Administración y Finanzas,Operario,2018-10-12,,s.huanca@agroexportadora.com.pe,Activo
+EMP0064,Gabriela Colque Mamani,27497473,Recursos Humanos,Analista,2020-12-12,2024-10-01,g.colque@agroexportadora.com.pe,Cesado
+EMP0065,Álvaro Peralta Ticona,27789062,Recursos Humanos,Practicante,2022-02-15,,á.peralta@agroexportadora.com.pe,Activo
+EMP0066,Miguel Torres Flores,52350168,Almacén,Jefe,2024-02-09,,m.torres@agroexportadora.com.pe,Activo
+EMP0067,Teresa Laura Ticona,26805300,Contabilidad,Operario,2021-08-01,,t.laura@agroexportadora.com.pe,Activo
+EMP0068,Julia Choque Zapana,39371187,Legal,Supervisor,2022-07-26,,j.choque@agroexportadora.com.pe,Activo
+EMP0069,Teresa Apaza Huanca,25986694,Recursos Humanos,Supervisor,2023-10-13,,t.apaza@agroexportadora.com.pe,Activo
+EMP0070,Marta Cutipa Ticona,64354289,Operaciones,Coordinador,2021-06-23,2028-03-10,m.cutipa@agroexportadora.com.pe,Cesado
+EMP0071,Teresa Paredes Huanca,29222247,Tesorería,Supervisor,2018-03-15,,t.paredes@agroexportadora.com.pe,Activo
+EMP0072,Iván Rivera Cáceres,51809659,Comercial,Supervisor,2013-11-16,,i.rivera@agroexportadora.com.pe,Activo
+EMP0073,Karla Bravo Quispe,62064570,Comercial,Coordinador,2023-08-26,,k.bravo@agroexportadora.com.pe,Activo
+EMP0074,Iván Quispe Cáceres,49866661,Recursos Humanos,Jefe,2011-05-04,,i.quispe@agroexportadora.com.pe,Activo
+EMP0075,Pedro Choque Rivera,57659149,Recursos Humanos,Supervisor,2016-09-18,,p.choque@agroexportadora.com.pe,Activo
+EMP0076,Gabriela Aguilar Rivera,13976875,Legal,Coordinador,2012-12-22,,g.aguilar@agroexportadora.com.pe,Activo
+EMP0077,Carlos Maquera Colque,11334111,Compras,Supervisor,2012-09-24,,c.maquera@agroexportadora.com.pe,Activo
+EMP0078,Óscar Torres Maquera,75642166,Recursos Humanos,Asistente,2024-07-14,,ó.torres@agroexportadora.com.pe,Activo
+EMP0079,Lucía Salazar Huanca,79983163,Tecnologías de la Información,Analista,2025-07-06,,l.salazar@agroexportadora.com.pe,Activo
+EMP0080,Rosa Medina Ancco,49087125,Logística,Operario,2012-01-06,,r.medina@agroexportadora.com.pe,Activo
+EMP0081,Nadia Peralta Apaza,60873909,Almacén,Practicante,2015-11-04,,n.peralta@agroexportadora.com.pe,Activo
+EMP0082,Hugo Bravo Mamani,75392997,Recursos Humanos,Analista,2024-07-24,,h.bravo@agroexportadora.com.pe,Activo
+EMP0083,Luis Huanca Huanca,51293835,Comercial,Supervisor,2024-01-11,,l.huanca@agroexportadora.com.pe,Activo
+EMP0084,Diana Medina Yufra,65459004,Recursos Humanos,Practicante,2022-11-25,,d.medina@agroexportadora.com.pe,Activo
+EMP0085,Lucía Zapana Apaza,52222208,Logística,Asistente,2018-07-06,,l.zapana@agroexportadora.com.pe,Activo
+EMP0086,Teresa Cutipa Apaza,79076951,Contabilidad,Coordinador,2011-11-01,2017-06-23,t.cutipa@agroexportadora.com.pe,Cesado
+EMP0087,Hugo Calisaya Ilaquita,47599517,Gerencia,Coordinador,2018-09-20,,h.calisaya@agroexportadora.com.pe,Activo
+EMP0088,Hugo Yufra Salazar,71876708,Operaciones,Practicante,2011-08-05,,h.yufra@agroexportadora.com.pe,Activo
+EMP0089,Nadia Huanca Bravo,26802821,Operaciones,Operario,2017-04-20,,n.huanca@agroexportadora.com.pe,Activo
+EMP0090,Marco Calisaya Colque,62252151,Tecnologías de la Información,Supervisor,2011-02-22,,m.calisaya@agroexportadora.com.pe,Activo
+EMP0091,Hugo Huanca Laura,58627022,Almacén,Operario,2018-01-04,,h.huanca@agroexportadora.com.pe,Activo
+EMP0092,Álvaro Apaza Cáceres,44188872,Operaciones,Asistente,2019-04-13,,á.apaza@agroexportadora.com.pe,Activo
+EMP0093,Rosa Rivera Salazar,39051079,Legal,Practicante,2021-10-23,2024-06-06,r.rivera@agroexportadora.com.pe,Cesado
+EMP0094,Gabriela Cáceres Mamani,24553887,Administración y Finanzas,Asistente,2021-09-19,,g.cáceres@agroexportadora.com.pe,Activo
+EMP0095,Rosa Medina Cutipa,63512653,Operaciones,Operario,2013-07-20,,r.medina@agroexportadora.com.pe,Activo
+EMP0096,Rocío Salazar Calisaya,74717788,Tesorería,Coordinador,2021-03-18,2021-12-19,r.salazar@agroexportadora.com.pe,Cesado
+EMP0097,Rosa Huanca Medina,33243662,Operaciones,Operario,2012-08-23,,r.huanca@agroexportadora.com.pe,Activo
+EMP0098,Luis Laura Ticona,76736234,Legal,Analista,2023-06-01,,l.laura@agroexportadora.com.pe,Activo
+EMP0099,Lucía Rivera Ancco,58753280,Legal,Analista,2011-12-22,2012-08-02,l.rivera@agroexportadora.com.pe,Cesado
+EMP0100,Vanessa Maquera Rivera,29494312,Compras,Practicante,2014-09-13,2020-12-11,v.maquera@agroexportadora.com.pe,Cesado
+EMP0101,Elena Copaja Zapana,72209072,Almacén,Analista,2023-12-27,2028-09-10,e.copaja@agroexportadora.com.pe,Cesado
+EMP0102,Víctor Ramos Ticona,32509679,Recursos Humanos,Operario,2013-08-05,,v.ramos@agroexportadora.com.pe,Activo
+EMP0103,Jorge Ilaquita Apaza,40681654,Compras,Analista,2015-01-08,,j.ilaquita@agroexportadora.com.pe,Activo
+EMP0104,Karla Paredes Mamani,31702325,Operaciones,Supervisor,2016-10-04,,k.paredes@agroexportadora.com.pe,Activo
+EMP0105,Nelson Peralta Vargas,21215455,Almacén,Jefe,2013-04-24,,n.peralta@agroexportadora.com.pe,Activo
+EMP0106,Lucía Colque Colque,46321306,Administración y Finanzas,Analista,2011-02-24,,l.colque@agroexportadora.com.pe,Activo
+EMP0107,Álvaro Ticona Quispe,44636303,Operaciones,Practicante,2018-11-02,,á.ticona@agroexportadora.com.pe,Activo
+EMP0108,Carmen Nina Apaza,34190244,Tecnologías de la Información,Supervisor,2023-12-13,2030-08-01,c.nina@agroexportadora.com.pe,Cesado
+EMP0109,Elena Ticona Peralta,74260061,Gerencia,Operario,2020-11-27,,e.ticona@agroexportadora.com.pe,Activo
+EMP0110,Teresa Medina Cáceres,72563883,Administración y Finanzas,Coordinador,2017-06-01,,t.medina@agroexportadora.com.pe,Activo
+EMP0111,Elena Mamani Cáceres,30581484,Contabilidad,Jefe,2022-05-26,,e.mamani@agroexportadora.com.pe,Activo
+EMP0112,Paola Nina Copaja,34281359,Recursos Humanos,Supervisor,2025-10-06,,p.nina@agroexportadora.com.pe,Activo
+EMP0113,Gabriela Rivera Ancco,33342937,Recursos Humanos,Coordinador,2024-12-23,,g.rivera@agroexportadora.com.pe,Activo
+EMP0114,Víctor Apaza Aguilar,66066596,Recursos Humanos,Jefe,2020-12-17,,v.apaza@agroexportadora.com.pe,Activo
+EMP0115,Fernando Laura Laura,50516053,Almacén,Operario,2011-08-27,,f.laura@agroexportadora.com.pe,Activo
+EMP0116,Silvia Chura Laura,60840337,Tesorería,Supervisor,2014-11-25,,s.chura@agroexportadora.com.pe,Activo
+EMP0117,Álvaro Mamani Quispe,13285459,Tesorería,Asistente,2014-01-17,2020-07-29,á.mamani@agroexportadora.com.pe,Cesado
+EMP0118,Marta Calisaya Apaza,68530973,Legal,Supervisor,2024-04-07,,m.calisaya@agroexportadora.com.pe,Activo
+EMP0119,Diana Calisaya Medina,42651047,Comercial,Operario,2018-04-15,,d.calisaya@agroexportadora.com.pe,Activo
+EMP0120,Raúl Mamani Rivera,12453932,Almacén,Operario,2021-01-10,,r.mamani@agroexportadora.com.pe,Activo
+EMP0121,Raúl Choque Laura,22405951,Gerencia,Jefe,2018-01-24,,r.choque@agroexportadora.com.pe,Activo
+EMP0122,Nadia Peralta Medina,16915167,Almacén,Jefe,2016-08-20,,n.peralta@agroexportadora.com.pe,Activo
+EMP0123,Pedro Zapana Calisaya,72343756,Operaciones,Coordinador,2024-05-15,,p.zapana@agroexportadora.com.pe,Activo
+EMP0124,Julia Aguilar Apaza,71409384,Gerencia,Operario,2021-08-09,,j.aguilar@agroexportadora.com.pe,Activo
+EMP0125,Lucía Condori Bravo,70910704,Logística,Jefe,2018-04-22,,l.condori@agroexportadora.com.pe,Activo
+EMP0126,Karla Apaza Bravo,78257980,Contabilidad,Coordinador,2011-11-01,,k.apaza@agroexportadora.com.pe,Activo
+EMP0127,Pedro Copaja Chura,61481335,Operaciones,Jefe,2024-03-02,,p.copaja@agroexportadora.com.pe,Activo
+EMP0128,Rocío Rivera Calisaya,24235755,Tecnologías de la Información,Jefe,2020-12-20,2027-06-02,r.rivera@agroexportadora.com.pe,Cesado
+EMP0129,Rosa Huanca Maquera,23771573,Tecnologías de la Información,Coordinador,2018-12-02,,r.huanca@agroexportadora.com.pe,Activo
+EMP0130,Lucía Paredes Cáceres,20499500,Contabilidad,Asistente,2019-04-09,,l.paredes@agroexportadora.com.pe,Activo
+EMP0131,Álvaro Torres Apaza,15409983,Compras,Practicante,2011-11-17,,á.torres@agroexportadora.com.pe,Activo
+EMP0132,Carmen Laura Peralta,67760452,Legal,Practicante,2017-11-27,,c.laura@agroexportadora.com.pe,Activo
+EMP0133,Julia Flores Apaza,32799481,Tecnologías de la Información,Analista,2024-09-07,,j.flores@agroexportadora.com.pe,Activo
+EMP0134,Álvaro Flores Copaja,15397813,Almacén,Analista,2024-07-24,,á.flores@agroexportadora.com.pe,Activo
+EMP0135,Silvia Yufra Núñez,65603004,Tesorería,Asistente,2020-06-09,,s.yufra@agroexportadora.com.pe,Activo
+EMP0136,Rocío Chura Nina,74666987,Administración y Finanzas,Jefe,2014-10-12,,r.chura@agroexportadora.com.pe,Activo
+EMP0137,Elena Zapana Bravo,46114444,Legal,Asistente,2019-09-05,2024-11-09,e.zapana@agroexportadora.com.pe,Cesado
+EMP0138,Ana Paredes Choque,76982342,Legal,Jefe,2023-08-13,,a.paredes@agroexportadora.com.pe,Activo
+EMP0139,Paola Condori Ancco,22132367,Recursos Humanos,Practicante,2013-09-22,,p.condori@agroexportadora.com.pe,Activo
+EMP0140,Lucía Torres Peralta,12461391,Comercial,Coordinador,2023-04-18,2027-12-03,l.torres@agroexportadora.com.pe,Cesado
+EMP0141,Marco Huanca Yufra,73199334,Almacén,Jefe,2022-01-13,,m.huanca@agroexportadora.com.pe,Activo
+EMP0142,Carmen Chura Ticona,28924862,Comercial,Jefe,2020-12-20,,c.chura@agroexportadora.com.pe,Activo

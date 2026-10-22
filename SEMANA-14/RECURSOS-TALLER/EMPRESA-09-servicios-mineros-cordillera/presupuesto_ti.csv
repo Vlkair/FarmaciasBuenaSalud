@@ -1,0 +1,8 @@
+id,partida,tipo,planificado,ejecutado,desviacion_pct
+PT01,Licencias y suscripciones,Operación,306600.0,338503.2,10.4
+PT02,Soporte y mantenimiento de sistemas,Operación,277400.0,218607.13,-21.2
+PT03,Infraestructura y equipamiento,Operación,248200.0,249239.77,0.4
+PT04,Comunicaciones y enlaces,Operación,160600.0,104793.84,-34.7
+PT05,Personal de TI,Operación,292000.0,304191.74,4.2
+PT06,Proyectos nuevos,Inversión,116800.0,124293.8,6.4
+PT07,Seguridad de la información,Operación,58400.0,43629.46,-25.3

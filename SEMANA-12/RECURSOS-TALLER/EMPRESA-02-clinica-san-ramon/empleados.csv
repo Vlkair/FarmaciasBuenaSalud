@@ -1,0 +1,215 @@
+codigo_empleado,nombre,documento,area,cargo,fecha_ingreso,fecha_cese,correo,estado
+EMP0001,Marco Yufra Ancco,75116759,Compras,Asistente,2018-01-19,,m.yufra@clinica.com.pe,Activo
+EMP0002,Julia Quispe Nina,29979825,Compras,Analista,2023-04-01,,j.quispe@clinica.com.pe,Activo
+EMP0003,Paola Colque Vargas,53987805,Gerencia,Asistente,2025-11-26,,p.colque@clinica.com.pe,Activo
+EMP0004,Óscar Zapana Ilaquita,50687464,Almacén,Asistente,2015-03-02,,ó.zapana@clinica.com.pe,Activo
+EMP0005,Gabriela Apaza Ancco,60691181,Compras,Supervisor,2020-08-26,2023-10-22,g.apaza@clinica.com.pe,Cesado
+EMP0006,Sofía Rivera Maquera,61876067,Tesorería,Coordinador,2012-11-03,2016-02-22,s.rivera@clinica.com.pe,Cesado
+EMP0007,Rocío Condori Cáceres,59923257,Almacén,Jefe,2016-11-18,,r.condori@clinica.com.pe,Activo
+EMP0008,Hugo Paredes Calisaya,75208862,Logística,Coordinador,2023-05-06,2029-05-31,h.paredes@clinica.com.pe,Cesado
+EMP0009,Luis Choque Calisaya,44844600,Operaciones,Practicante,2021-11-06,,l.choque@clinica.com.pe,Activo
+EMP0010,Ricardo Condori Cutipa,74148875,Tesorería,Asistente,2023-09-11,2028-07-25,r.condori@clinica.com.pe,Cesado
+EMP0011,Ana Aguilar Maquera,21363585,Legal,Coordinador,2012-08-06,,a.aguilar@clinica.com.pe,Activo
+EMP0012,Gabriela Vargas Rivera,10985300,Tecnologías de la Información,Operario,2018-09-09,,g.vargas@clinica.com.pe,Activo
+EMP0013,Silvia Copaja Maquera,26962023,Contabilidad,Jefe,2024-01-03,,s.copaja@clinica.com.pe,Activo
+EMP0014,Iván Aguilar Chura,33461785,Tecnologías de la Información,Jefe,2019-12-14,,i.aguilar@clinica.com.pe,Activo
+EMP0015,Rosa Núñez Maquera,30359086,Almacén,Asistente,2011-01-04,,r.núñez@clinica.com.pe,Activo
+EMP0016,Raúl Maquera Laura,64202427,Administración y Finanzas,Supervisor,2018-10-27,,r.maquera@clinica.com.pe,Activo
+EMP0017,Hugo Maquera Peralta,14048857,Contabilidad,Operario,2024-11-04,,h.maquera@clinica.com.pe,Activo
+EMP0018,Julio Yufra Condori,39819757,Legal,Practicante,2020-11-03,,j.yufra@clinica.com.pe,Activo
+EMP0019,Lucía Zapana Ticona,20918725,Contabilidad,Coordinador,2023-09-20,2029-03-13,l.zapana@clinica.com.pe,Cesado
+EMP0020,Alberto Mamani Ilaquita,41013543,Tesorería,Operario,2018-09-10,2023-11-22,a.mamani@clinica.com.pe,Cesado
+EMP0021,Sofía Vargas Núñez,78245664,Tecnologías de la Información,Supervisor,2022-02-05,,s.vargas@clinica.com.pe,Activo
+EMP0022,Paola Ticona Laura,30418841,Administración y Finanzas,Jefe,2016-06-15,,p.ticona@clinica.com.pe,Activo
+EMP0023,Nadia Torres Ancco,31848910,Contabilidad,Asistente,2015-01-18,2015-11-06,n.torres@clinica.com.pe,Cesado
+EMP0024,Alberto Laura Aguilar,35424306,Administración y Finanzas,Supervisor,2019-06-11,,a.laura@clinica.com.pe,Activo
+EMP0025,Víctor Condori Ilaquita,20556472,Logística,Practicante,2023-04-18,,v.condori@clinica.com.pe,Activo
+EMP0026,Rocío Zapana Núñez,63157482,Recursos Humanos,Supervisor,2014-01-24,2014-09-11,r.zapana@clinica.com.pe,Cesado
+EMP0027,Ricardo Ancco Nina,56990042,Comercial,Coordinador,2018-04-10,,r.ancco@clinica.com.pe,Activo
+EMP0028,Rocío Condori Apaza,65793644,Operaciones,Analista,2020-07-08,,r.condori@clinica.com.pe,Activo
+EMP0029,Víctor Ramos Ticona,18313281,Operaciones,Operario,2023-02-09,,v.ramos@clinica.com.pe,Activo
+EMP0030,Karla Vargas Laura,29637958,Logística,Practicante,2019-12-08,,k.vargas@clinica.com.pe,Activo
+EMP0031,Vanessa Salazar Ilaquita,30151269,Compras,Jefe,2014-02-15,,v.salazar@clinica.com.pe,Activo
+EMP0032,Hugo Cutipa Calisaya,11631641,Almacén,Operario,2019-08-18,,h.cutipa@clinica.com.pe,Activo
+EMP0033,Carlos Zapana Ancco,32046685,Tesorería,Asistente,2021-10-16,,c.zapana@clinica.com.pe,Activo
+EMP0034,Luis Chura Condori,79087211,Tecnologías de la Información,Analista,2020-12-20,,l.chura@clinica.com.pe,Activo
+EMP0035,Óscar Medina Peralta,65402370,Logística,Asistente,2021-11-23,2027-08-27,ó.medina@clinica.com.pe,Cesado
+EMP0036,Álvaro Condori Maquera,32511721,Comercial,Analista,2022-12-24,,á.condori@clinica.com.pe,Activo
+EMP0037,Sofía Mamani Ancco,34587490,Contabilidad,Supervisor,2015-12-08,,s.mamani@clinica.com.pe,Activo
+EMP0038,Jorge Quispe Cáceres,45288362,Comercial,Asistente,2013-02-25,,j.quispe@clinica.com.pe,Activo
+EMP0039,Marta Calisaya Colque,13097447,Administración y Finanzas,Practicante,2015-04-24,,m.calisaya@clinica.com.pe,Activo
+EMP0040,Paola Colque Torres,15914366,Logística,Coordinador,2014-05-12,,p.colque@clinica.com.pe,Activo
+EMP0041,Marta Zapana Núñez,28150132,Operaciones,Jefe,2022-03-04,,m.zapana@clinica.com.pe,Activo
+EMP0042,Ana Chura Vargas,46509738,Operaciones,Practicante,2024-11-17,,a.chura@clinica.com.pe,Activo
+EMP0043,Alberto Huanca Ramos,35414942,Recursos Humanos,Practicante,2019-05-09,,a.huanca@clinica.com.pe,Activo
+EMP0044,Nelson Medina Copaja,24967381,Contabilidad,Analista,2017-01-06,2017-08-07,n.medina@clinica.com.pe,Cesado
+EMP0045,Paola Maquera Choque,35979390,Tesorería,Jefe,2012-10-05,,p.maquera@clinica.com.pe,Activo
+EMP0046,Marco Aguilar Cáceres,63762078,Almacén,Supervisor,2017-04-16,,m.aguilar@clinica.com.pe,Activo
+EMP0047,Ana Salazar Ramos,13061586,Tesorería,Asistente,2017-06-27,,a.salazar@clinica.com.pe,Activo
+EMP0048,Lucía Ramos Medina,65912537,Comercial,Operario,2015-05-07,,l.ramos@clinica.com.pe,Activo
+EMP0049,Paola Cutipa Quispe,18554791,Almacén,Supervisor,2016-02-24,,p.cutipa@clinica.com.pe,Activo
+EMP0050,Elena Huanca Flores,74318347,Almacén,Coordinador,2019-05-07,2025-12-28,e.huanca@clinica.com.pe,Cesado
+EMP0051,Julia Bravo Nina,64269406,Operaciones,Asistente,2024-05-23,,j.bravo@clinica.com.pe,Activo
+EMP0052,Rosa Vargas Ticona,49385710,Legal,Asistente,2022-09-21,,r.vargas@clinica.com.pe,Activo
+EMP0053,Rosa Chura Flores,19753172,Recursos Humanos,Analista,2015-12-22,,r.chura@clinica.com.pe,Activo
+EMP0054,Iván Rivera Medina,70639712,Compras,Analista,2015-07-23,,i.rivera@clinica.com.pe,Activo
+EMP0055,Hugo Apaza Salazar,46828079,Comercial,Supervisor,2024-01-19,,h.apaza@clinica.com.pe,Activo
+EMP0056,Vanessa Peralta Apaza,32764746,Administración y Finanzas,Analista,2025-11-15,2028-06-24,v.peralta@clinica.com.pe,Cesado
+EMP0057,Gabriela Peralta Rivera,13680315,Compras,Analista,2014-03-23,,g.peralta@clinica.com.pe,Activo
+EMP0058,Miguel Salazar Salazar,72804641,Almacén,Jefe,2016-05-27,,m.salazar@clinica.com.pe,Activo
+EMP0059,Óscar Colque Torres,76674784,Comercial,Jefe,2019-11-23,,ó.colque@clinica.com.pe,Activo
+EMP0060,Carmen Maquera Colque,23343982,Operaciones,Operario,2014-04-16,,c.maquera@clinica.com.pe,Activo
+EMP0061,Rocío Núñez Huanca,47489844,Tesorería,Jefe,2015-08-16,,r.núñez@clinica.com.pe,Activo
+EMP0062,Luis Copaja Medina,12622680,Operaciones,Practicante,2019-05-02,,l.copaja@clinica.com.pe,Activo
+EMP0063,Lucía Nina Yufra,20754655,Operaciones,Operario,2016-08-01,,l.nina@clinica.com.pe,Activo
+EMP0064,Nadia Laura Bravo,67898972,Administración y Finanzas,Coordinador,2022-02-04,,n.laura@clinica.com.pe,Activo
+EMP0065,Pedro Ancco Salazar,13816756,Gerencia,Jefe,2025-02-18,,p.ancco@clinica.com.pe,Activo
+EMP0066,Karla Huanca Núñez,31972205,Operaciones,Practicante,2018-11-12,,k.huanca@clinica.com.pe,Activo
+EMP0067,Ana Copaja Mamani,75347928,Legal,Asistente,2014-11-06,,a.copaja@clinica.com.pe,Activo
+EMP0068,Hugo Rivera Rivera,73841984,Compras,Operario,2015-12-16,,h.rivera@clinica.com.pe,Activo
+EMP0069,Karla Peralta Condori,29123724,Logística,Jefe,2019-04-09,,k.peralta@clinica.com.pe,Activo
+EMP0070,Víctor Choque Laura,47770507,Administración y Finanzas,Jefe,2018-07-26,,v.choque@clinica.com.pe,Activo
+EMP0071,Vanessa Ticona Apaza,48104202,Contabilidad,Operario,2014-04-10,,v.ticona@clinica.com.pe,Activo
+EMP0072,Julia Ramos Ilaquita,67037485,Legal,Operario,2012-01-10,,j.ramos@clinica.com.pe,Activo
+EMP0073,Pedro Chura Nina,78215292,Tecnologías de la Información,Supervisor,2016-07-16,,p.chura@clinica.com.pe,Activo
+EMP0074,Álvaro Maquera Ticona,38427871,Comercial,Supervisor,2018-01-04,,á.maquera@clinica.com.pe,Activo
+EMP0075,Pedro Chura Paredes,68321946,Gerencia,Analista,2023-02-01,,p.chura@clinica.com.pe,Activo
+EMP0076,Carlos Copaja Rivera,19671857,Contabilidad,Coordinador,2014-12-13,,c.copaja@clinica.com.pe,Activo
+EMP0077,Julia Mamani Núñez,12767963,Logística,Operario,2012-04-04,,j.mamani@clinica.com.pe,Activo
+EMP0078,Ricardo Núñez Maquera,21120063,Legal,Analista,2015-10-03,,r.núñez@clinica.com.pe,Activo
+EMP0079,Lucía Cutipa Cáceres,73931668,Tecnologías de la Información,Analista,2024-02-04,2030-10-27,l.cutipa@clinica.com.pe,Cesado
+EMP0080,Carlos Rivera Cutipa,11845524,Operaciones,Coordinador,2024-01-23,,c.rivera@clinica.com.pe,Activo
+EMP0081,Víctor Copaja Colque,59227865,Administración y Finanzas,Practicante,2022-07-03,,v.copaja@clinica.com.pe,Activo
+EMP0082,Elena Yufra Colque,40337606,Almacén,Practicante,2013-11-21,,e.yufra@clinica.com.pe,Activo
+EMP0083,Teresa Copaja Huanca,10028974,Compras,Practicante,2021-07-19,,t.copaja@clinica.com.pe,Activo
+EMP0084,Ricardo Mamani Zapana,60899654,Tesorería,Asistente,2023-03-03,,r.mamani@clinica.com.pe,Activo
+EMP0085,Julio Huanca Ticona,22328196,Tecnologías de la Información,Practicante,2023-06-25,,j.huanca@clinica.com.pe,Activo
+EMP0086,Marco Nina Colque,39077134,Almacén,Analista,2013-10-16,,m.nina@clinica.com.pe,Activo
+EMP0087,Carmen Salazar Calisaya,72277059,Operaciones,Practicante,2020-06-08,,c.salazar@clinica.com.pe,Activo
+EMP0088,Gabriela Calisaya Flores,27710293,Gerencia,Asistente,2012-01-07,,g.calisaya@clinica.com.pe,Activo
+EMP0089,Nelson Flores Apaza,62086557,Logística,Analista,2025-06-25,,n.flores@clinica.com.pe,Activo
+EMP0090,Rosa Ilaquita Condori,51337788,Gerencia,Practicante,2021-11-25,2028-01-24,r.ilaquita@clinica.com.pe,Cesado
+EMP0091,Óscar Ticona Rivera,73491163,Compras,Coordinador,2012-08-10,,ó.ticona@clinica.com.pe,Activo
+EMP0092,Elena Quispe Colque,11774172,Almacén,Supervisor,2019-05-09,,e.quispe@clinica.com.pe,Activo
+EMP0093,Nelson Apaza Copaja,69510444,Tecnologías de la Información,Jefe,2017-07-08,,n.apaza@clinica.com.pe,Activo
+EMP0094,Marta Peralta Ilaquita,27747296,Almacén,Analista,2014-11-20,,m.peralta@clinica.com.pe,Activo
+EMP0095,Carlos Rivera Copaja,22469019,Logística,Analista,2017-06-23,,c.rivera@clinica.com.pe,Activo
+EMP0096,Marco Medina Laura,14950261,Tesorería,Operario,2024-03-07,,m.medina@clinica.com.pe,Activo
+EMP0097,Álvaro Ticona Condori,62998718,Gerencia,Supervisor,2017-12-15,,á.ticona@clinica.com.pe,Activo
+EMP0098,Lucía Laura Apaza,72934749,Tecnologías de la Información,Supervisor,2013-02-05,,l.laura@clinica.com.pe,Activo
+EMP0099,Paola Mamani Copaja,56255825,Tecnologías de la Información,Jefe,2016-12-06,2017-07-23,p.mamani@clinica.com.pe,Cesado
+EMP0100,Nelson Maquera Yufra,11711921,Tesorería,Jefe,2020-12-18,,n.maquera@clinica.com.pe,Activo
+EMP0101,Nelson Núñez Cáceres,11078121,Administración y Finanzas,Supervisor,2018-06-02,,n.núñez@clinica.com.pe,Activo
+EMP0102,Ricardo Ilaquita Maquera,14436123,Legal,Supervisor,2022-12-10,,r.ilaquita@clinica.com.pe,Activo
+EMP0103,Karla Yufra Colque,70142126,Almacén,Practicante,2021-12-27,2025-02-16,k.yufra@clinica.com.pe,Cesado
+EMP0104,Pedro Rivera Salazar,46832455,Compras,Analista,2013-12-17,,p.rivera@clinica.com.pe,Activo
+EMP0105,Vanessa Quispe Rivera,32142183,Tecnologías de la Información,Coordinador,2011-09-18,,v.quispe@clinica.com.pe,Activo
+EMP0106,Nelson Cáceres Flores,74946249,Comercial,Coordinador,2011-07-15,,n.cáceres@clinica.com.pe,Activo
+EMP0107,Julio Colque Núñez,20315082,Logística,Coordinador,2012-10-07,,j.colque@clinica.com.pe,Activo
+EMP0108,Elena Laura Vargas,78583698,Contabilidad,Coordinador,2025-10-17,,e.laura@clinica.com.pe,Activo
+EMP0109,Silvia Quispe Flores,11421803,Contabilidad,Analista,2020-11-16,,s.quispe@clinica.com.pe,Activo
+EMP0110,Lucía Flores Condori,46860272,Recursos Humanos,Asistente,2015-03-17,,l.flores@clinica.com.pe,Activo
+EMP0111,Paola Ticona Ramos,42799388,Gerencia,Supervisor,2018-02-05,,p.ticona@clinica.com.pe,Activo
+EMP0112,Gabriela Huanca Apaza,79774026,Tecnologías de la Información,Practicante,2021-07-19,2026-11-16,g.huanca@clinica.com.pe,Cesado
+EMP0113,Pedro Torres Maquera,35167755,Compras,Jefe,2022-07-26,,p.torres@clinica.com.pe,Activo
+EMP0114,Rocío Copaja Vargas,14374453,Recursos Humanos,Coordinador,2011-05-14,,r.copaja@clinica.com.pe,Activo
+EMP0115,Luis Nina Bravo,69545754,Gerencia,Analista,2025-12-26,,l.nina@clinica.com.pe,Activo
+EMP0116,Ricardo Cutipa Apaza,31464373,Operaciones,Operario,2013-04-11,,r.cutipa@clinica.com.pe,Activo
+EMP0117,Álvaro Calisaya Apaza,10049077,Operaciones,Coordinador,2022-10-07,,á.calisaya@clinica.com.pe,Activo
+EMP0118,Carlos Ticona Yufra,73357025,Administración y Finanzas,Analista,2015-05-10,,c.ticona@clinica.com.pe,Activo
+EMP0119,Carmen Paredes Zapana,27797760,Tesorería,Supervisor,2014-08-12,,c.paredes@clinica.com.pe,Activo
+EMP0120,Teresa Maquera Calisaya,62602234,Contabilidad,Asistente,2025-05-06,,t.maquera@clinica.com.pe,Activo
+EMP0121,Álvaro Cáceres Medina,54948040,Comercial,Jefe,2013-04-21,,á.cáceres@clinica.com.pe,Activo
+EMP0122,Carlos Flores Quispe,42907959,Recursos Humanos,Asistente,2024-01-12,2030-06-29,c.flores@clinica.com.pe,Cesado
+EMP0123,Paola Colque Nina,36179584,Tesorería,Supervisor,2018-04-19,,p.colque@clinica.com.pe,Activo
+EMP0124,Marta Ticona Paredes,76455103,Compras,Supervisor,2021-01-07,,m.ticona@clinica.com.pe,Activo
+EMP0125,Teresa Vargas Salazar,59282389,Recursos Humanos,Jefe,2021-02-13,,t.vargas@clinica.com.pe,Activo
+EMP0126,Karla Torres Apaza,70200690,Comercial,Supervisor,2022-05-20,,k.torres@clinica.com.pe,Activo
+EMP0127,Pedro Paredes Colque,79741657,Operaciones,Supervisor,2015-10-20,,p.paredes@clinica.com.pe,Activo
+EMP0128,Silvia Núñez Yufra,40862509,Tesorería,Analista,2020-04-14,,s.núñez@clinica.com.pe,Activo
+EMP0129,Elena Quispe Peralta,68923917,Logística,Operario,2013-03-13,,e.quispe@clinica.com.pe,Activo
+EMP0130,Luis Cutipa Paredes,12151655,Tesorería,Practicante,2024-01-08,2029-06-08,l.cutipa@clinica.com.pe,Cesado
+EMP0131,Vanessa Torres Cáceres,18627933,Almacén,Asistente,2024-12-11,2029-04-14,v.torres@clinica.com.pe,Cesado
+EMP0132,Carlos Flores Calisaya,57026060,Operaciones,Asistente,2023-04-16,,c.flores@clinica.com.pe,Activo
+EMP0133,Julio Condori Peralta,42028356,Compras,Practicante,2014-10-17,,j.condori@clinica.com.pe,Activo
+EMP0134,Sofía Cáceres Ramos,31540388,Operaciones,Practicante,2025-12-01,,s.cáceres@clinica.com.pe,Activo
+EMP0135,Luis Condori Bravo,25737749,Compras,Asistente,2023-03-13,,l.condori@clinica.com.pe,Activo
+EMP0136,Nelson Zapana Aguilar,53531071,Almacén,Coordinador,2023-02-15,2024-05-03,n.zapana@clinica.com.pe,Cesado
+EMP0137,Lucía Cáceres Cutipa,24122731,Gerencia,Practicante,2023-12-01,,l.cáceres@clinica.com.pe,Activo
+EMP0138,Karla Choque Maquera,11851550,Operaciones,Analista,2024-12-06,,k.choque@clinica.com.pe,Activo
+EMP0139,Carmen Ancco Chura,57299715,Gerencia,Operario,2014-08-17,2019-06-03,c.ancco@clinica.com.pe,Cesado
+EMP0140,Raúl Huanca Rivera,21958206,Almacén,Operario,2014-11-04,,r.huanca@clinica.com.pe,Activo
+EMP0141,Carlos Peralta Ilaquita,69987152,Operaciones,Analista,2021-05-02,,c.peralta@clinica.com.pe,Activo
+EMP0142,Nelson Rivera Chura,34467192,Operaciones,Jefe,2018-08-07,2024-08-24,n.rivera@clinica.com.pe,Cesado
+EMP0143,Ana Choque Calisaya,58318907,Administración y Finanzas,Practicante,2022-12-13,,a.choque@clinica.com.pe,Activo
+EMP0144,Carmen Mamani Medina,72470951,Legal,Analista,2011-08-08,,c.mamani@clinica.com.pe,Activo
+EMP0145,Óscar Cáceres Flores,37166325,Recursos Humanos,Supervisor,2019-12-12,,ó.cáceres@clinica.com.pe,Activo
+EMP0146,Ricardo Núñez Núñez,24310999,Operaciones,Operario,2015-05-13,,r.núñez@clinica.com.pe,Activo
+EMP0147,Julio Bravo Ilaquita,57321980,Administración y Finanzas,Coordinador,2014-02-23,,j.bravo@clinica.com.pe,Activo
+EMP0148,Marta Ticona Ramos,37211323,Tecnologías de la Información,Practicante,2022-01-26,,m.ticona@clinica.com.pe,Activo
+EMP0149,Hugo Maquera Torres,76733975,Gerencia,Jefe,2013-12-11,,h.maquera@clinica.com.pe,Activo
+EMP0150,Ana Choque Ramos,60175869,Compras,Operario,2015-08-27,,a.choque@clinica.com.pe,Activo
+EMP0151,Gabriela Apaza Chura,74414304,Logística,Coordinador,2015-09-25,,g.apaza@clinica.com.pe,Activo
+EMP0152,Lucía Ancco Salazar,22937544,Almacén,Analista,2018-06-25,,l.ancco@clinica.com.pe,Activo
+EMP0153,Carlos Zapana Aguilar,62328893,Almacén,Jefe,2011-09-18,,c.zapana@clinica.com.pe,Activo
+EMP0154,Julio Aguilar Peralta,48997720,Recursos Humanos,Jefe,2015-07-24,,j.aguilar@clinica.com.pe,Activo
+EMP0155,Rosa Mamani Paredes,63218326,Administración y Finanzas,Asistente,2017-04-10,,r.mamani@clinica.com.pe,Activo
+EMP0156,Teresa Huanca Choque,58582752,Recursos Humanos,Supervisor,2014-01-17,,t.huanca@clinica.com.pe,Activo
+EMP0157,Paola Calisaya Copaja,36545984,Contabilidad,Operario,2024-07-18,2027-11-12,p.calisaya@clinica.com.pe,Cesado
+EMP0158,Elena Calisaya Flores,35343500,Gerencia,Operario,2025-06-01,,e.calisaya@clinica.com.pe,Activo
+EMP0159,Iván Salazar Choque,15254607,Compras,Operario,2012-09-14,,i.salazar@clinica.com.pe,Activo
+EMP0160,Ana Cutipa Ancco,32053797,Legal,Jefe,2012-05-07,,a.cutipa@clinica.com.pe,Activo
+EMP0161,Paola Bravo Copaja,13588834,Operaciones,Supervisor,2015-12-08,,p.bravo@clinica.com.pe,Activo
+EMP0162,Elena Flores Apaza,29486600,Almacén,Jefe,2018-02-01,2021-09-28,e.flores@clinica.com.pe,Cesado
+EMP0163,Alberto Ticona Ancco,39596662,Operaciones,Jefe,2025-01-15,,a.ticona@clinica.com.pe,Activo
+EMP0164,Víctor Maquera Nina,35466920,Compras,Supervisor,2022-10-17,,v.maquera@clinica.com.pe,Activo
+EMP0165,Carmen Choque Quispe,34048765,Comercial,Asistente,2013-06-09,,c.choque@clinica.com.pe,Activo
+EMP0166,Carmen Salazar Yufra,46992387,Administración y Finanzas,Operario,2015-06-08,,c.salazar@clinica.com.pe,Activo
+EMP0167,Fernando Bravo Medina,69377825,Contabilidad,Asistente,2021-01-16,,f.bravo@clinica.com.pe,Activo
+EMP0168,Miguel Nina Ilaquita,20899527,Gerencia,Asistente,2017-09-16,2022-06-28,m.nina@clinica.com.pe,Cesado
+EMP0169,Teresa Núñez Bravo,20698606,Tesorería,Analista,2025-07-11,,t.núñez@clinica.com.pe,Activo
+EMP0170,Lucía Ancco Ilaquita,47002319,Operaciones,Practicante,2015-05-26,,l.ancco@clinica.com.pe,Activo
+EMP0171,Jorge Copaja Colque,67496176,Gerencia,Operario,2011-12-02,,j.copaja@clinica.com.pe,Activo
+EMP0172,Pedro Chura Torres,61391652,Comercial,Supervisor,2019-03-14,,p.chura@clinica.com.pe,Activo
+EMP0173,Álvaro Apaza Ticona,54778117,Compras,Jefe,2021-01-23,2021-12-30,á.apaza@clinica.com.pe,Cesado
+EMP0174,Vanessa Condori Torres,43671233,Almacén,Jefe,2019-07-02,,v.condori@clinica.com.pe,Activo
+EMP0175,Pedro Núñez Quispe,25551176,Recursos Humanos,Asistente,2016-12-26,,p.núñez@clinica.com.pe,Activo
+EMP0176,Víctor Aguilar Torres,72374569,Logística,Asistente,2012-01-02,,v.aguilar@clinica.com.pe,Activo
+EMP0177,Víctor Ramos Condori,15441348,Recursos Humanos,Jefe,2011-06-05,2016-05-18,v.ramos@clinica.com.pe,Cesado
+EMP0178,Rosa Quispe Nina,36950426,Operaciones,Asistente,2017-10-26,2018-06-23,r.quispe@clinica.com.pe,Cesado
+EMP0179,Marta Chura Zapana,12369841,Tesorería,Coordinador,2020-12-19,2024-08-01,m.chura@clinica.com.pe,Cesado
+EMP0180,Víctor Aguilar Cutipa,29073467,Contabilidad,Asistente,2019-06-25,,v.aguilar@clinica.com.pe,Activo
+EMP0181,Paola Cáceres Nina,72214661,Logística,Analista,2016-03-19,,p.cáceres@clinica.com.pe,Activo
+EMP0182,Gabriela Nina Paredes,49145029,Legal,Asistente,2021-09-01,,g.nina@clinica.com.pe,Activo
+EMP0183,Lucía Medina Ilaquita,62148598,Almacén,Jefe,2014-10-25,,l.medina@clinica.com.pe,Activo
+EMP0184,Víctor Calisaya Condori,48609016,Operaciones,Practicante,2024-09-03,2029-10-10,v.calisaya@clinica.com.pe,Cesado
+EMP0185,Vanessa Ilaquita Huanca,54000150,Logística,Jefe,2020-06-06,,v.ilaquita@clinica.com.pe,Activo
+EMP0186,Marta Condori Núñez,75943328,Gerencia,Practicante,2015-06-23,,m.condori@clinica.com.pe,Activo
+EMP0187,Luis Zapana Copaja,56078059,Legal,Analista,2024-10-13,,l.zapana@clinica.com.pe,Activo
+EMP0188,Lucía Cáceres Nina,24157877,Compras,Jefe,2013-09-10,,l.cáceres@clinica.com.pe,Activo
+EMP0189,Diana Quispe Paredes,25834507,Contabilidad,Jefe,2024-01-22,,d.quispe@clinica.com.pe,Activo
+EMP0190,Carlos Copaja Laura,73845606,Compras,Asistente,2024-09-27,,c.copaja@clinica.com.pe,Activo
+EMP0191,Álvaro Yufra Núñez,48570593,Tecnologías de la Información,Operario,2020-02-11,,á.yufra@clinica.com.pe,Activo
+EMP0192,Álvaro Cutipa Flores,71416418,Contabilidad,Asistente,2013-06-22,,á.cutipa@clinica.com.pe,Activo
+EMP0193,Silvia Salazar Chura,59512378,Administración y Finanzas,Asistente,2012-10-08,,s.salazar@clinica.com.pe,Activo
+EMP0194,Luis Salazar Cáceres,73944209,Gerencia,Analista,2020-06-24,,l.salazar@clinica.com.pe,Activo
+EMP0195,Víctor Ramos Colque,36079360,Recursos Humanos,Practicante,2011-04-11,,v.ramos@clinica.com.pe,Activo
+EMP0196,Paola Nina Vargas,61474336,Contabilidad,Jefe,2024-06-06,2026-10-10,p.nina@clinica.com.pe,Cesado
+EMP0197,Nadia Salazar Laura,74699263,Legal,Coordinador,2022-03-27,,n.salazar@clinica.com.pe,Activo
+EMP0198,Fernando Quispe Ramos,33824552,Comercial,Practicante,2011-09-11,,f.quispe@clinica.com.pe,Activo
+EMP0199,Ana Zapana Bravo,11085887,Logística,Practicante,2023-10-12,,a.zapana@clinica.com.pe,Activo
+EMP0200,Fernando Salazar Maquera,70139496,Almacén,Coordinador,2014-10-04,,f.salazar@clinica.com.pe,Activo
+EMP0201,Lucía Torres Torres,55160601,Administración y Finanzas,Coordinador,2016-03-20,,l.torres@clinica.com.pe,Activo
+EMP0202,Fernando Torres Rivera,58960906,Recursos Humanos,Asistente,2025-02-15,,f.torres@clinica.com.pe,Activo
+EMP0203,Pedro Rivera Aguilar,12811227,Tecnologías de la Información,Practicante,2024-09-10,2027-10-05,p.rivera@clinica.com.pe,Cesado
+EMP0204,Raúl Paredes Zapana,38644678,Tesorería,Practicante,2020-07-02,,r.paredes@clinica.com.pe,Activo
+EMP0205,Iván Ancco Salazar,20468300,Gerencia,Coordinador,2017-12-15,,i.ancco@clinica.com.pe,Activo
+EMP0206,Ricardo Núñez Ilaquita,31794771,Contabilidad,Asistente,2018-12-21,2023-05-30,r.núñez@clinica.com.pe,Cesado
+EMP0207,Sofía Chura Condori,73162070,Administración y Finanzas,Practicante,2017-05-14,,s.chura@clinica.com.pe,Activo
+EMP0208,Víctor Laura Maquera,23800931,Gerencia,Operario,2011-10-22,,v.laura@clinica.com.pe,Activo
+EMP0209,Pedro Bravo Flores,45354156,Recursos Humanos,Asistente,2016-04-24,2021-01-11,p.bravo@clinica.com.pe,Cesado
+EMP0210,Lucía Condori Mamani,19348902,Operaciones,Practicante,2013-04-24,2017-05-27,l.condori@clinica.com.pe,Cesado
+EMP0211,Óscar Torres Laura,12052900,Recursos Humanos,Supervisor,2020-12-05,,ó.torres@clinica.com.pe,Activo
+EMP0212,Lucía Chura Apaza,42186345,Tesorería,Analista,2012-01-20,,l.chura@clinica.com.pe,Activo
+EMP0213,Miguel Torres Salazar,16123261,Compras,Practicante,2017-08-08,,m.torres@clinica.com.pe,Activo
+EMP0214,Luis Cáceres Vargas,58130030,Logística,Asistente,2011-08-14,,l.cáceres@clinica.com.pe,Activo

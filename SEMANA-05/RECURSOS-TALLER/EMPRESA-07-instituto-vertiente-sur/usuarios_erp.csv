@@ -1,0 +1,70 @@
+usuario,codigo_empleado,nombre,perfil,fecha_alta,ultimo_acceso,estado,mfa
+a.medina,EMP0002,Ana Medina Ilaquita,Tesorería,2022-10-17,2025-11-09,Habilitado,No
+c.calisaya,EMP0005,Carlos Calisaya Paredes,Almacén,2023-08-20,2025-04-11,Habilitado,No
+l.ramos,EMP0007,Lucía Ramos Apaza,Almacén,2025-10-20,2025-10-21,Habilitado,No
+l.torres,EMP0008,Luis Torres Apaza,Registro compras + Aprobación compras,2025-03-05,2025-07-08,Habilitado,No
+a.bravo,EMP0009,Alberto Bravo Cutipa,Almacén,2016-12-02,2025-11-11,Habilitado,No
+a.bravo,EMP0010,Alberto Bravo Yufra,Almacén,2015-01-04,2025-05-30,Habilitado,No
+e.ticona,EMP0011,Elena Ticona Ramos,Aprobación compras,2015-02-06,2025-08-07,Habilitado,No
+r.cáceres,EMP0012,Ricardo Cáceres Choque,Registro compras,2012-11-18,2025-11-04,Habilitado,No
+e.zapana,EMP0013,Elena Zapana Peralta,Tesorería,2012-05-24,2025-01-04,Habilitado,No
+f.flores,EMP0014,Fernando Flores Copaja,Registro compras + Aprobación compras,2015-04-23,2025-01-09,Habilitado,No
+e.colque,EMP0016,Elena Colque Cáceres,Consulta,2015-02-16,2025-02-28,Habilitado,No
+e.vargas,EMP0017,Elena Vargas Rivera,Consulta,2025-02-06,2025-08-29,Habilitado,No
+a.copaja,EMP0020,Alberto Copaja Ilaquita,Aprobación compras,2024-06-06,2025-05-28,Habilitado,No
+m.chura,EMP0021,Marco Chura Medina,Almacén,2025-08-24,2025-12-04,Habilitado,No
+r.choque,EMP0022,Rosa Choque Maquera,Contabilidad,2019-09-27,2025-09-30,Habilitado,No
+l.núñez,EMP0023,Lucía Núñez Aguilar,Contabilidad,2011-09-13,2025-05-05,Habilitado,No
+j.vargas,EMP0024,Julia Vargas Ramos,Consulta,2015-02-17,2025-07-27,Habilitado,No
+c.choque,EMP0026,Carlos Choque Calisaya,Almacén,2013-07-16,2025-08-31,Habilitado,No
+s.flores,EMP0028,Silvia Flores Paredes,Contabilidad,2013-06-02,2025-08-26,Habilitado,No
+c.bravo,EMP0029,Carmen Bravo Aguilar,Aprobación compras,2020-03-10,2025-04-12,Habilitado,No
+l.colque,EMP0030,Lucía Colque Huanca,Tesorería,2015-10-20,2025-05-01,Habilitado,No
+á.ticona,EMP0032,Álvaro Ticona Ticona,Contabilidad,2012-09-07,2025-02-28,Habilitado,No
+j.vargas,EMP0033,Jorge Vargas Torres,Aprobación compras,2013-08-04,2025-11-21,Habilitado,No
+ó.apaza,EMP0034,Óscar Apaza Calisaya,Aprobación compras,2020-07-23,2025-08-18,Habilitado,No
+ó.copaja,EMP0035,Óscar Copaja Zapana,Registro compras,2011-12-01,2025-01-26,Habilitado,No
+d.condori,EMP0036,Diana Condori Ticona,Aprobación compras,2020-02-27,2025-05-15,Habilitado,No
+d.ancco,EMP0037,Diana Ancco Choque,Aprobación compras,2017-09-06,2025-09-09,Habilitado,No
+s.yufra,EMP0038,Sofía Yufra Maquera,Registro compras,2014-05-14,2025-03-16,Habilitado,No
+r.ticona,EMP0039,Raúl Ticona Condori,Tesorería,2012-09-21,2025-09-16,Habilitado,No
+t.laura,EMP0040,Teresa Laura Núñez,Consulta,2019-04-21,2025-08-25,Habilitado,No
+s.zapana,EMP0041,Silvia Zapana Peralta,Consulta,2023-11-19,2025-11-30,Habilitado,No
+c.flores,EMP0045,Carmen Flores Calisaya,Tesorería,2022-12-07,2025-04-30,Habilitado,No
+m.vargas,EMP0046,Marta Vargas Ramos,Aprobación compras,2020-10-18,2025-07-21,Habilitado,No
+p.vargas,EMP0047,Paola Vargas Salazar,Almacén,2016-10-19,2025-06-11,Habilitado,No
+p.ancco,EMP0048,Pedro Ancco Maquera,Registro compras,2011-03-21,2025-09-08,Habilitado,No
+a.peralta,EMP0050,Ana Peralta Bravo,Almacén,2012-02-05,2025-04-12,Habilitado,No
+c.huanca,EMP0053,Carmen Huanca Huanca,Consulta,2018-05-19,2025-11-22,Habilitado,No
+ó.laura,EMP0055,Óscar Laura Salazar,Aprobación compras,2015-02-02,2025-09-21,Habilitado,No
+v.aguilar,EMP0057,Víctor Aguilar Apaza,Consulta,2020-09-02,2025-03-11,Habilitado,No
+c.colque,EMP0058,Carlos Colque Flores,Contabilidad,2012-02-10,2025-04-30,Habilitado,No
+a.quispe,EMP0059,Alberto Quispe Choque,Almacén,2025-08-06,2025-10-25,Habilitado,No
+k.ancco,EMP0065,Karla Ancco Ticona,Consulta,2012-11-04,2025-10-24,Habilitado,No
+a.ticona,EMP0066,Ana Ticona Ilaquita,Aprobación compras,2021-06-10,2025-08-30,Habilitado,No
+s.ilaquita,EMP0068,Sofía Ilaquita Copaja,Consulta,2012-08-13,2025-10-07,Habilitado,No
+j.bravo,EMP0069,Julia Bravo Bravo,Tesorería,2025-10-19,2025-10-21,Habilitado,No
+l.ticona,EMP0070,Lucía Ticona Mamani,Registro compras,2021-05-07,2025-09-23,Habilitado,No
+v.ticona,EMP0071,Vanessa Ticona Maquera,Consulta,2022-02-24,2025-02-09,Habilitado,No
+d.condori,EMP0074,Diana Condori Copaja,Registro compras,2019-04-08,2025-09-20,Habilitado,No
+j.núñez,EMP0075,Julio Núñez Bravo,Almacén,2017-11-13,2025-09-18,Habilitado,No
+l.maquera,EMP0076,Lucía Maquera Apaza,Almacén,2022-09-20,2025-08-13,Habilitado,No
+t.zapana,EMP0078,Teresa Zapana Ramos,Consulta,2017-01-26,2025-07-20,Habilitado,No
+r.ticona,EMP0080,Raúl Ticona Vargas,Almacén,2012-03-10,2025-08-16,Habilitado,No
+r.ramos,EMP0081,Raúl Ramos Bravo,Aprobación compras,2024-12-16,2025-08-05,Habilitado,No
+p.condori,EMP0082,Pedro Condori Cáceres,Aprobación compras,2016-06-22,2025-07-17,Habilitado,No
+v.ramos,EMP0083,Vanessa Ramos Ramos,Contabilidad,2023-09-15,2025-11-25,Habilitado,No
+v.ticona,EMP0084,Vanessa Ticona Zapana,Consulta,2025-03-14,2025-09-14,Habilitado,No
+á.apaza,EMP0086,Álvaro Apaza Chura,Tesorería,2023-03-02,2025-07-06,Habilitado,No
+k.choque,EMP0088,Karla Choque Condori,Contabilidad,2023-11-18,2025-12-13,Habilitado,No
+d.condori,EMP0074,Diana Condori Copaja,Tesorería,2019-04-08,2022-06-27,Habilitado,No
+m.vargas,EMP0046,Marta Vargas Ramos,Registro compras + Aprobación compras,2020-10-18,2024-08-11,Habilitado,No
+l.colque,EMP0030,Lucía Colque Huanca,Registro compras,2015-10-20,2020-03-24,Habilitado,No
+s.copaja,EMP0031,Sofía Copaja Colque,Aprobación compras,2013-05-15,2015-05-23,Habilitado,No
+j.zapana,EMP0006,Julio Zapana Calisaya,Aprobación compras,2025-02-06,2026-07-02,Habilitado,No
+c.vargas,EMP0056,Carlos Vargas Cáceres,Administrador,2012-08-24,2016-09-07,Habilitado,No
+l.ticona,EMP0070,Lucía Ticona Mamani,Aprobación compras,2021-05-07,2024-02-21,Habilitado,No
+admin,,,Administrador,2025-07-06,2025-10-21,Habilitado,No
+consulta01,,,Consulta,2025-07-22,2025-01-25,Habilitado,No
+soporte,,,Consulta,2025-12-14,2025-05-10,Habilitado,No
+temporal,,,Consulta,2025-12-07,2025-09-19,Habilitado,No

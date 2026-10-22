@@ -1,0 +1,179 @@
+codigo_empleado,nombre,documento,area,cargo,fecha_ingreso,fecha_cese,correo,estado
+EMP0001,Julia Cutipa Peralta,41258181,Operaciones,Analista,2017-01-05,,j.cutipa@municipalidad.com.pe,Activo
+EMP0002,Elena Flores Vargas,26050160,Administración y Finanzas,Practicante,2012-11-22,2019-04-14,e.flores@municipalidad.com.pe,Cesado
+EMP0003,Carmen Maquera Zapana,60800043,Administración y Finanzas,Coordinador,2025-02-08,,c.maquera@municipalidad.com.pe,Activo
+EMP0004,Elena Choque Salazar,26992092,Gerencia,Operario,2021-12-06,,e.choque@municipalidad.com.pe,Activo
+EMP0005,Nadia Quispe Mamani,64763065,Contabilidad,Asistente,2016-11-18,,n.quispe@municipalidad.com.pe,Activo
+EMP0006,Diana Rivera Peralta,37510485,Recursos Humanos,Supervisor,2013-10-09,,d.rivera@municipalidad.com.pe,Activo
+EMP0007,Karla Apaza Rivera,54677708,Recursos Humanos,Asistente,2024-02-12,,k.apaza@municipalidad.com.pe,Activo
+EMP0008,Paola Núñez Vargas,31217187,Logística,Jefe,2025-07-17,,p.núñez@municipalidad.com.pe,Activo
+EMP0009,Víctor Zapana Rivera,64171986,Almacén,Supervisor,2014-05-16,,v.zapana@municipalidad.com.pe,Activo
+EMP0010,Carlos Bravo Huanca,51028244,Almacén,Practicante,2024-09-04,,c.bravo@municipalidad.com.pe,Activo
+EMP0011,Lucía Zapana Vargas,12645380,Gerencia,Asistente,2020-11-08,,l.zapana@municipalidad.com.pe,Activo
+EMP0012,Gabriela Yufra Mamani,35056803,Tesorería,Supervisor,2011-02-22,,g.yufra@municipalidad.com.pe,Activo
+EMP0013,Silvia Choque Vargas,23362381,Legal,Operario,2021-09-21,2023-10-11,s.choque@municipalidad.com.pe,Cesado
+EMP0014,Karla Choque Medina,69253865,Comercial,Asistente,2022-01-12,,k.choque@municipalidad.com.pe,Activo
+EMP0015,Víctor Flores Yufra,66067770,Tecnologías de la Información,Operario,2023-02-01,,v.flores@municipalidad.com.pe,Activo
+EMP0016,Rosa Copaja Ancco,42757421,Gerencia,Jefe,2013-03-09,,r.copaja@municipalidad.com.pe,Activo
+EMP0017,Miguel Ramos Copaja,65735631,Almacén,Supervisor,2012-02-12,2014-10-05,m.ramos@municipalidad.com.pe,Cesado
+EMP0018,Iván Torres Maquera,26076338,Operaciones,Practicante,2011-03-11,,i.torres@municipalidad.com.pe,Activo
+EMP0019,Pedro Copaja Colque,35845997,Gerencia,Supervisor,2015-05-20,,p.copaja@municipalidad.com.pe,Activo
+EMP0020,Sofía Salazar Flores,64220144,Tesorería,Operario,2018-09-09,,s.salazar@municipalidad.com.pe,Activo
+EMP0021,Sofía Yufra Zapana,23285836,Compras,Supervisor,2012-09-08,2018-10-21,s.yufra@municipalidad.com.pe,Cesado
+EMP0022,Nadia Quispe Chura,29237118,Recursos Humanos,Jefe,2018-11-17,,n.quispe@municipalidad.com.pe,Activo
+EMP0023,Pedro Medina Rivera,23380516,Recursos Humanos,Jefe,2013-06-11,,p.medina@municipalidad.com.pe,Activo
+EMP0024,Nelson Aguilar Laura,73037404,Administración y Finanzas,Asistente,2015-08-13,,n.aguilar@municipalidad.com.pe,Activo
+EMP0025,Elena Mamani Peralta,49421965,Compras,Jefe,2016-04-19,,e.mamani@municipalidad.com.pe,Activo
+EMP0026,Hugo Peralta Torres,46343151,Comercial,Operario,2021-01-22,,h.peralta@municipalidad.com.pe,Activo
+EMP0027,Raúl Maquera Cutipa,42183281,Legal,Supervisor,2025-04-26,,r.maquera@municipalidad.com.pe,Activo
+EMP0028,Fernando Laura Copaja,42522290,Recursos Humanos,Analista,2023-01-16,2030-02-16,f.laura@municipalidad.com.pe,Cesado
+EMP0029,Raúl Aguilar Cutipa,23304297,Administración y Finanzas,Supervisor,2017-03-16,,r.aguilar@municipalidad.com.pe,Activo
+EMP0030,Hugo Cáceres Ancco,48738480,Comercial,Asistente,2014-05-18,,h.cáceres@municipalidad.com.pe,Activo
+EMP0031,Julio Ramos Salazar,23756178,Administración y Finanzas,Analista,2015-09-26,,j.ramos@municipalidad.com.pe,Activo
+EMP0032,Óscar Cutipa Choque,55450210,Recursos Humanos,Asistente,2011-11-08,,ó.cutipa@municipalidad.com.pe,Activo
+EMP0033,Silvia Ramos Núñez,74885061,Contabilidad,Practicante,2021-07-13,,s.ramos@municipalidad.com.pe,Activo
+EMP0034,Karla Colque Nina,37222880,Almacén,Jefe,2012-12-25,,k.colque@municipalidad.com.pe,Activo
+EMP0035,Lucía Cáceres Chura,36169182,Legal,Operario,2018-02-05,2021-11-30,l.cáceres@municipalidad.com.pe,Cesado
+EMP0036,Álvaro Cutipa Ancco,36458454,Operaciones,Practicante,2020-05-15,,á.cutipa@municipalidad.com.pe,Activo
+EMP0037,Jorge Choque Ramos,59468691,Tecnologías de la Información,Practicante,2022-12-03,,j.choque@municipalidad.com.pe,Activo
+EMP0038,Ana Ancco Aguilar,19523025,Logística,Asistente,2022-03-27,,a.ancco@municipalidad.com.pe,Activo
+EMP0039,Karla Calisaya Medina,40330078,Legal,Jefe,2015-03-01,,k.calisaya@municipalidad.com.pe,Activo
+EMP0040,Gabriela Maquera Rivera,21427466,Contabilidad,Analista,2023-03-18,,g.maquera@municipalidad.com.pe,Activo
+EMP0041,Carlos Aguilar Ramos,49814817,Almacén,Jefe,2015-09-09,,c.aguilar@municipalidad.com.pe,Activo
+EMP0042,Paola Nina Huanca,20833356,Recursos Humanos,Jefe,2023-04-09,,p.nina@municipalidad.com.pe,Activo
+EMP0043,Óscar Huanca Ticona,58807025,Contabilidad,Supervisor,2014-04-04,,ó.huanca@municipalidad.com.pe,Activo
+EMP0044,Lucía Calisaya Cutipa,27233871,Tesorería,Asistente,2023-11-22,,l.calisaya@municipalidad.com.pe,Activo
+EMP0045,Álvaro Cutipa Ticona,22714845,Recursos Humanos,Practicante,2016-05-13,,á.cutipa@municipalidad.com.pe,Activo
+EMP0046,Rocío Mamani Chura,39187160,Contabilidad,Jefe,2023-07-19,,r.mamani@municipalidad.com.pe,Activo
+EMP0047,Nelson Ancco Medina,10732822,Almacén,Supervisor,2012-05-14,,n.ancco@municipalidad.com.pe,Activo
+EMP0048,Paola Peralta Apaza,13508624,Contabilidad,Operario,2016-06-03,,p.peralta@municipalidad.com.pe,Activo
+EMP0049,Julio Chura Colque,13899932,Logística,Supervisor,2017-10-06,,j.chura@municipalidad.com.pe,Activo
+EMP0050,Julia Maquera Flores,17931604,Tesorería,Supervisor,2021-08-21,,j.maquera@municipalidad.com.pe,Activo
+EMP0051,Raúl Quispe Ramos,16964789,Almacén,Operario,2022-09-09,,r.quispe@municipalidad.com.pe,Activo
+EMP0052,Julio Maquera Ticona,67425262,Logística,Operario,2013-03-16,,j.maquera@municipalidad.com.pe,Activo
+EMP0053,Jorge Maquera Mamani,21950903,Tecnologías de la Información,Asistente,2019-03-14,,j.maquera@municipalidad.com.pe,Activo
+EMP0054,Silvia Yufra Vargas,73948659,Legal,Practicante,2022-08-09,,s.yufra@municipalidad.com.pe,Activo
+EMP0055,Marta Aguilar Aguilar,44795938,Almacén,Coordinador,2024-03-26,,m.aguilar@municipalidad.com.pe,Activo
+EMP0056,Teresa Nina Colque,60411886,Legal,Asistente,2015-04-23,,t.nina@municipalidad.com.pe,Activo
+EMP0057,Víctor Calisaya Yufra,79291974,Comercial,Practicante,2016-11-08,,v.calisaya@municipalidad.com.pe,Activo
+EMP0058,Karla Torres Peralta,19116356,Logística,Operario,2016-12-14,,k.torres@municipalidad.com.pe,Activo
+EMP0059,Fernando Colque Ticona,73311806,Tesorería,Asistente,2020-07-06,,f.colque@municipalidad.com.pe,Activo
+EMP0060,Iván Salazar Ancco,77727874,Recursos Humanos,Coordinador,2022-07-02,2029-05-13,i.salazar@municipalidad.com.pe,Cesado
+EMP0061,Diana Nina Copaja,22396767,Almacén,Asistente,2020-11-10,,d.nina@municipalidad.com.pe,Activo
+EMP0062,Víctor Choque Ticona,53495026,Comercial,Analista,2015-11-18,,v.choque@municipalidad.com.pe,Activo
+EMP0063,Nadia Ancco Mamani,58417989,Comercial,Asistente,2013-11-19,,n.ancco@municipalidad.com.pe,Activo
+EMP0064,Miguel Flores Zapana,58565995,Contabilidad,Analista,2020-03-19,,m.flores@municipalidad.com.pe,Activo
+EMP0065,Gabriela Quispe Cáceres,17214145,Compras,Coordinador,2020-09-19,,g.quispe@municipalidad.com.pe,Activo
+EMP0066,Elena Salazar Zapana,78450417,Logística,Practicante,2023-08-19,,e.salazar@municipalidad.com.pe,Activo
+EMP0067,Julia Vargas Calisaya,26150690,Legal,Operario,2013-01-13,,j.vargas@municipalidad.com.pe,Activo
+EMP0068,Marco Vargas Rivera,15042528,Tesorería,Coordinador,2025-03-07,,m.vargas@municipalidad.com.pe,Activo
+EMP0069,Ricardo Nina Ilaquita,59550361,Legal,Analista,2021-11-25,,r.nina@municipalidad.com.pe,Activo
+EMP0070,Marta Ilaquita Ancco,75214970,Comercial,Asistente,2024-09-04,,m.ilaquita@municipalidad.com.pe,Activo
+EMP0071,Julio Torres Bravo,50783281,Tesorería,Analista,2018-04-15,,j.torres@municipalidad.com.pe,Activo
+EMP0072,Paola Choque Laura,58076605,Tecnologías de la Información,Jefe,2024-09-14,,p.choque@municipalidad.com.pe,Activo
+EMP0073,Julia Copaja Mamani,60897690,Administración y Finanzas,Coordinador,2011-06-10,,j.copaja@municipalidad.com.pe,Activo
+EMP0074,Miguel Mamani Núñez,12667758,Comercial,Supervisor,2011-04-09,,m.mamani@municipalidad.com.pe,Activo
+EMP0075,Sofía Nina Medina,12773600,Administración y Finanzas,Supervisor,2014-03-17,,s.nina@municipalidad.com.pe,Activo
+EMP0076,Raúl Ramos Ilaquita,50317909,Operaciones,Operario,2022-11-02,,r.ramos@municipalidad.com.pe,Activo
+EMP0077,Iván Salazar Vargas,44529819,Operaciones,Coordinador,2019-07-26,,i.salazar@municipalidad.com.pe,Activo
+EMP0078,Marco Ticona Laura,50908322,Logística,Jefe,2014-08-20,,m.ticona@municipalidad.com.pe,Activo
+EMP0079,Nelson Maquera Apaza,55409459,Logística,Analista,2012-04-06,,n.maquera@municipalidad.com.pe,Activo
+EMP0080,Elena Rivera Huanca,30959570,Compras,Operario,2013-07-19,,e.rivera@municipalidad.com.pe,Activo
+EMP0081,Carmen Huanca Quispe,73023836,Compras,Analista,2024-04-14,,c.huanca@municipalidad.com.pe,Activo
+EMP0082,Paola Bravo Laura,66428450,Legal,Supervisor,2019-09-26,,p.bravo@municipalidad.com.pe,Activo
+EMP0083,Vanessa Chura Mamani,11278219,Tecnologías de la Información,Analista,2018-09-19,,v.chura@municipalidad.com.pe,Activo
+EMP0084,Paola Bravo Medina,12780655,Almacén,Analista,2015-09-15,2020-02-28,p.bravo@municipalidad.com.pe,Cesado
+EMP0085,Iván Zapana Rivera,42589615,Comercial,Analista,2011-02-17,,i.zapana@municipalidad.com.pe,Activo
+EMP0086,Gabriela Salazar Torres,44288295,Tecnologías de la Información,Analista,2018-11-16,,g.salazar@municipalidad.com.pe,Activo
+EMP0087,Rosa Yufra Nina,30319876,Compras,Practicante,2023-11-17,2030-10-17,r.yufra@municipalidad.com.pe,Cesado
+EMP0088,Luis Ramos Aguilar,20310206,Recursos Humanos,Operario,2015-12-16,,l.ramos@municipalidad.com.pe,Activo
+EMP0089,Teresa Chura Zapana,28520506,Gerencia,Jefe,2019-10-16,,t.chura@municipalidad.com.pe,Activo
+EMP0090,Jorge Apaza Huanca,57831235,Logística,Operario,2017-02-12,2017-10-02,j.apaza@municipalidad.com.pe,Cesado
+EMP0091,Rocío Choque Ancco,79051987,Tecnologías de la Información,Operario,2020-01-21,,r.choque@municipalidad.com.pe,Activo
+EMP0092,Miguel Vargas Paredes,63350877,Administración y Finanzas,Analista,2011-04-16,,m.vargas@municipalidad.com.pe,Activo
+EMP0093,Fernando Ancco Quispe,74821979,Almacén,Supervisor,2011-11-08,,f.ancco@municipalidad.com.pe,Activo
+EMP0094,Álvaro Paredes Maquera,73514076,Contabilidad,Asistente,2016-12-04,,á.paredes@municipalidad.com.pe,Activo
+EMP0095,Hugo Huanca Flores,72715608,Operaciones,Supervisor,2014-12-05,,h.huanca@municipalidad.com.pe,Activo
+EMP0096,Ricardo Paredes Huanca,25167378,Operaciones,Supervisor,2020-10-18,,r.paredes@municipalidad.com.pe,Activo
+EMP0097,Vanessa Quispe Aguilar,42885823,Contabilidad,Analista,2020-11-08,,v.quispe@municipalidad.com.pe,Activo
+EMP0098,Óscar Medina Condori,60911150,Compras,Asistente,2020-02-19,,ó.medina@municipalidad.com.pe,Activo
+EMP0099,Karla Ramos Copaja,76029079,Operaciones,Asistente,2018-05-08,2022-12-10,k.ramos@municipalidad.com.pe,Cesado
+EMP0100,Diana Condori Ancco,63828428,Almacén,Asistente,2020-10-04,,d.condori@municipalidad.com.pe,Activo
+EMP0101,Nelson Choque Condori,71939681,Almacén,Analista,2018-10-12,2022-04-15,n.choque@municipalidad.com.pe,Cesado
+EMP0102,Julia Yufra Cáceres,31509459,Gerencia,Asistente,2022-07-21,2029-08-12,j.yufra@municipalidad.com.pe,Cesado
+EMP0103,Nelson Cáceres Condori,56018810,Tecnologías de la Información,Practicante,2022-11-20,,n.cáceres@municipalidad.com.pe,Activo
+EMP0104,Nelson Aguilar Medina,64036724,Recursos Humanos,Practicante,2013-03-24,,n.aguilar@municipalidad.com.pe,Activo
+EMP0105,Carlos Nina Apaza,31978848,Tesorería,Supervisor,2019-10-06,,c.nina@municipalidad.com.pe,Activo
+EMP0106,Vanessa Peralta Cutipa,56989895,Tecnologías de la Información,Analista,2025-08-06,,v.peralta@municipalidad.com.pe,Activo
+EMP0107,Raúl Chura Zapana,53556356,Administración y Finanzas,Operario,2015-01-07,,r.chura@municipalidad.com.pe,Activo
+EMP0108,Julia Condori Vargas,13566333,Operaciones,Asistente,2019-05-02,,j.condori@municipalidad.com.pe,Activo
+EMP0109,Diana Torres Aguilar,42863574,Tecnologías de la Información,Supervisor,2022-01-06,2029-01-25,d.torres@municipalidad.com.pe,Cesado
+EMP0110,Jorge Rivera Aguilar,17868809,Gerencia,Analista,2015-01-08,,j.rivera@municipalidad.com.pe,Activo
+EMP0111,Paola Peralta Medina,76208698,Compras,Coordinador,2013-04-15,,p.peralta@municipalidad.com.pe,Activo
+EMP0112,Hugo Rivera Torres,45146078,Recursos Humanos,Operario,2013-05-01,,h.rivera@municipalidad.com.pe,Activo
+EMP0113,Sofía Bravo Chura,23771533,Comercial,Practicante,2023-05-15,,s.bravo@municipalidad.com.pe,Activo
+EMP0114,Marta Salazar Condori,63644686,Gerencia,Operario,2025-11-18,,m.salazar@municipalidad.com.pe,Activo
+EMP0115,Luis Condori Ancco,11399572,Recursos Humanos,Practicante,2023-06-19,,l.condori@municipalidad.com.pe,Activo
+EMP0116,Carmen Huanca Nina,54335862,Logística,Asistente,2021-12-13,,c.huanca@municipalidad.com.pe,Activo
+EMP0117,Carlos Yufra Mamani,64780123,Tesorería,Analista,2015-08-07,,c.yufra@municipalidad.com.pe,Activo
+EMP0118,Hugo Ancco Vargas,43588395,Compras,Practicante,2017-04-14,,h.ancco@municipalidad.com.pe,Activo
+EMP0119,Miguel Ticona Ramos,67778851,Legal,Asistente,2021-01-02,,m.ticona@municipalidad.com.pe,Activo
+EMP0120,Diana Cutipa Ilaquita,62707549,Comercial,Coordinador,2015-09-06,,d.cutipa@municipalidad.com.pe,Activo
+EMP0121,Paola Núñez Rivera,30270305,Compras,Coordinador,2025-01-21,,p.núñez@municipalidad.com.pe,Activo
+EMP0122,Nelson Apaza Bravo,65399109,Recursos Humanos,Supervisor,2020-04-03,,n.apaza@municipalidad.com.pe,Activo
+EMP0123,Nadia Ancco Ilaquita,29193864,Legal,Practicante,2011-12-21,2013-03-15,n.ancco@municipalidad.com.pe,Cesado
+EMP0124,Pedro Bravo Peralta,40539806,Logística,Coordinador,2016-04-07,2016-12-14,p.bravo@municipalidad.com.pe,Cesado
+EMP0125,Julio Ilaquita Salazar,28274364,Contabilidad,Asistente,2024-05-03,,j.ilaquita@municipalidad.com.pe,Activo
+EMP0126,Ricardo Medina Yufra,74454159,Administración y Finanzas,Practicante,2014-01-24,,r.medina@municipalidad.com.pe,Activo
+EMP0127,Elena Vargas Paredes,75762435,Tecnologías de la Información,Practicante,2011-05-03,2013-04-12,e.vargas@municipalidad.com.pe,Cesado
+EMP0128,Paola Zapana Maquera,43952262,Tecnologías de la Información,Practicante,2012-08-13,,p.zapana@municipalidad.com.pe,Activo
+EMP0129,Silvia Rivera Huanca,25501786,Compras,Practicante,2019-05-04,,s.rivera@municipalidad.com.pe,Activo
+EMP0130,Nadia Yufra Aguilar,24377105,Logística,Jefe,2016-08-09,,n.yufra@municipalidad.com.pe,Activo
+EMP0131,Luis Vargas Zapana,69303186,Gerencia,Analista,2021-11-05,,l.vargas@municipalidad.com.pe,Activo
+EMP0132,Ricardo Cutipa Cutipa,44383529,Tecnologías de la Información,Asistente,2015-11-08,,r.cutipa@municipalidad.com.pe,Activo
+EMP0133,Nelson Quispe Rivera,13087010,Comercial,Operario,2019-04-09,,n.quispe@municipalidad.com.pe,Activo
+EMP0134,Sofía Calisaya Cáceres,43275870,Operaciones,Supervisor,2019-11-09,,s.calisaya@municipalidad.com.pe,Activo
+EMP0135,Julio Peralta Zapana,65258662,Comercial,Jefe,2014-11-17,2019-03-06,j.peralta@municipalidad.com.pe,Cesado
+EMP0136,Julio Choque Ramos,56405969,Tecnologías de la Información,Analista,2025-10-11,,j.choque@municipalidad.com.pe,Activo
+EMP0137,Julio Ilaquita Vargas,70802392,Operaciones,Jefe,2015-12-12,,j.ilaquita@municipalidad.com.pe,Activo
+EMP0138,Lucía Mamani Bravo,62258036,Operaciones,Coordinador,2013-04-15,,l.mamani@municipalidad.com.pe,Activo
+EMP0139,Paola Laura Núñez,23296659,Almacén,Practicante,2015-12-18,,p.laura@municipalidad.com.pe,Activo
+EMP0140,Marta Cutipa Condori,32335889,Comercial,Coordinador,2015-07-15,,m.cutipa@municipalidad.com.pe,Activo
+EMP0141,Julio Calisaya Ilaquita,55711530,Contabilidad,Analista,2015-12-18,,j.calisaya@municipalidad.com.pe,Activo
+EMP0142,Rocío Mamani Calisaya,20783768,Almacén,Supervisor,2017-05-12,,r.mamani@municipalidad.com.pe,Activo
+EMP0143,Luis Cáceres Torres,10092148,Comercial,Asistente,2025-10-14,,l.cáceres@municipalidad.com.pe,Activo
+EMP0144,Iván Ilaquita Cutipa,31889443,Logística,Supervisor,2014-01-12,,i.ilaquita@municipalidad.com.pe,Activo
+EMP0145,Miguel Copaja Zapana,37726933,Logística,Analista,2025-08-26,,m.copaja@municipalidad.com.pe,Activo
+EMP0146,Jorge Maquera Colque,18184630,Recursos Humanos,Practicante,2011-09-20,,j.maquera@municipalidad.com.pe,Activo
+EMP0147,Luis Ticona Quispe,18116835,Gerencia,Coordinador,2018-07-14,2019-11-15,l.ticona@municipalidad.com.pe,Cesado
+EMP0148,Teresa Paredes Ilaquita,53939318,Legal,Coordinador,2017-10-22,,t.paredes@municipalidad.com.pe,Activo
+EMP0149,Ana Copaja Torres,30505036,Almacén,Operario,2020-06-13,,a.copaja@municipalidad.com.pe,Activo
+EMP0150,Iván Cutipa Núñez,70950509,Contabilidad,Practicante,2014-04-17,,i.cutipa@municipalidad.com.pe,Activo
+EMP0151,Silvia Medina Núñez,67917585,Legal,Jefe,2022-02-12,,s.medina@municipalidad.com.pe,Activo
+EMP0152,Gabriela Torres Salazar,41743806,Tesorería,Coordinador,2021-03-14,,g.torres@municipalidad.com.pe,Activo
+EMP0153,Ricardo Ancco Choque,39735739,Gerencia,Coordinador,2018-04-05,,r.ancco@municipalidad.com.pe,Activo
+EMP0154,Ricardo Cutipa Ticona,75848951,Legal,Supervisor,2016-09-25,,r.cutipa@municipalidad.com.pe,Activo
+EMP0155,Óscar Calisaya Ilaquita,74819860,Almacén,Practicante,2023-10-02,,ó.calisaya@municipalidad.com.pe,Activo
+EMP0156,Carlos Copaja Choque,33158588,Operaciones,Asistente,2012-11-17,,c.copaja@municipalidad.com.pe,Activo
+EMP0157,Julia Quispe Maquera,31800993,Tesorería,Asistente,2022-08-25,,j.quispe@municipalidad.com.pe,Activo
+EMP0158,Carlos Ramos Laura,44787917,Compras,Practicante,2019-11-22,,c.ramos@municipalidad.com.pe,Activo
+EMP0159,Fernando Salazar Rivera,28755996,Recursos Humanos,Analista,2019-01-06,2024-07-11,f.salazar@municipalidad.com.pe,Cesado
+EMP0160,Nadia Aguilar Paredes,37306454,Gerencia,Coordinador,2011-08-15,,n.aguilar@municipalidad.com.pe,Activo
+EMP0161,Víctor Cutipa Torres,27820286,Tecnologías de la Información,Coordinador,2021-09-22,,v.cutipa@municipalidad.com.pe,Activo
+EMP0162,Julio Colque Mamani,40026239,Logística,Asistente,2022-03-19,,j.colque@municipalidad.com.pe,Activo
+EMP0163,Rosa Calisaya Cáceres,53602094,Contabilidad,Operario,2012-02-04,2015-03-09,r.calisaya@municipalidad.com.pe,Cesado
+EMP0164,Sofía Choque Bravo,31063782,Tesorería,Coordinador,2017-10-24,,s.choque@municipalidad.com.pe,Activo
+EMP0165,Nelson Condori Medina,62675968,Logística,Asistente,2018-12-25,,n.condori@municipalidad.com.pe,Activo
+EMP0166,Teresa Choque Nina,22517708,Gerencia,Operario,2022-09-21,,t.choque@municipalidad.com.pe,Activo
+EMP0167,Karla Maquera Choque,68265577,Almacén,Analista,2015-08-14,,k.maquera@municipalidad.com.pe,Activo
+EMP0168,Alberto Paredes Apaza,62333554,Comercial,Asistente,2016-08-07,,a.paredes@municipalidad.com.pe,Activo
+EMP0169,Julio Quispe Paredes,59733905,Comercial,Supervisor,2020-05-03,,j.quispe@municipalidad.com.pe,Activo
+EMP0170,Víctor Calisaya Paredes,44787493,Compras,Practicante,2025-08-15,,v.calisaya@municipalidad.com.pe,Activo
+EMP0171,Teresa Flores Laura,27153105,Compras,Jefe,2025-08-09,,t.flores@municipalidad.com.pe,Activo
+EMP0172,Óscar Quispe Calisaya,17696521,Tecnologías de la Información,Operario,2020-12-09,2023-12-21,ó.quispe@municipalidad.com.pe,Cesado
+EMP0173,Ricardo Peralta Chura,21541491,Recursos Humanos,Jefe,2012-11-07,,r.peralta@municipalidad.com.pe,Activo
+EMP0174,Silvia Cutipa Cutipa,55082643,Gerencia,Asistente,2015-09-14,,s.cutipa@municipalidad.com.pe,Activo
+EMP0175,Julio Apaza Peralta,16302965,Comercial,Analista,2011-03-04,2011-12-26,j.apaza@municipalidad.com.pe,Cesado
+EMP0176,Pedro Rivera Mamani,25288533,Compras,Supervisor,2020-02-14,,p.rivera@municipalidad.com.pe,Activo
+EMP0177,Marta Ticona Ilaquita,75972387,Legal,Practicante,2020-06-24,,m.ticona@municipalidad.com.pe,Activo
+EMP0178,Carmen Chura Núñez,42669258,Gerencia,Coordinador,2021-12-23,,c.chura@municipalidad.com.pe,Activo

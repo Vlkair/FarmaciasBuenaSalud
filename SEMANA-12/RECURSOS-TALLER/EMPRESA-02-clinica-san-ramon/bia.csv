@@ -1,0 +1,7 @@
+id,proceso,criticidad,rto_horas,rpo_horas,sistema_soporte,responsable,impacto_24h,ultima_prueba
+BIA01,Admisión y filiación del paciente,Media,4,28,HIS — historia clínica electrónica,Ana Apaza Cáceres,Medio,
+BIA02,Atención ambulatoria y hospitalización,Alta,72,8,HIS — historia clínica electrónica,Ricardo Rivera Rivera,Alto,2025-10-22
+BIA03,Laboratorio e imágenes,Alta,24,1,Laboratorio (LIS),Álvaro Maquera Ancco,Medio,
+BIA04,Farmacia y dispensación,Media,8,24,HIS — historia clínica electrónica,Raúl Rivera Calisaya,Medio,
+BIA05,Facturación a aseguradoras,Media,8,8,Facturación y convenios con aseguradoras,Teresa Ramos Aguilar,Bajo,2025-11-10
+BIA06,Gestión de historias clínicas,Alta,4,24,HIS — historia clínica electrónica,Gabriela Maquera Yufra,Alto,

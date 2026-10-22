@@ -1,0 +1,269 @@
+codigo_empleado,nombre,documento,area,cargo,fecha_ingreso,fecha_cese,correo,estado
+EMP0001,Diana Mamani Choque,27061382,Legal,Coordinador,2014-04-15,,d.mamani@transportes.com.pe,Activo
+EMP0002,Ana Mamani Yufra,39672530,Legal,Operario,2017-06-07,,a.mamani@transportes.com.pe,Activo
+EMP0003,Víctor Torres Zapana,22882198,Recursos Humanos,Jefe,2017-07-18,,v.torres@transportes.com.pe,Activo
+EMP0004,Álvaro Copaja Ramos,75689968,Administración y Finanzas,Asistente,2017-12-23,2024-11-09,á.copaja@transportes.com.pe,Cesado
+EMP0005,Hugo Maquera Quispe,68763364,Recursos Humanos,Jefe,2012-12-25,,h.maquera@transportes.com.pe,Activo
+EMP0006,Silvia Vargas Zapana,70160306,Tesorería,Practicante,2019-04-03,,s.vargas@transportes.com.pe,Activo
+EMP0007,Carmen Ancco Zapana,43160982,Contabilidad,Analista,2021-10-15,,c.ancco@transportes.com.pe,Activo
+EMP0008,Nelson Cutipa Zapana,15478852,Recursos Humanos,Operario,2023-06-12,,n.cutipa@transportes.com.pe,Activo
+EMP0009,Álvaro Yufra Condori,79418050,Logística,Practicante,2015-07-10,,á.yufra@transportes.com.pe,Activo
+EMP0010,Julio Bravo Ticona,67338360,Logística,Jefe,2015-03-09,2017-06-14,j.bravo@transportes.com.pe,Cesado
+EMP0011,Rocío Ancco Vargas,12904406,Operaciones,Operario,2013-06-06,,r.ancco@transportes.com.pe,Activo
+EMP0012,Óscar Cáceres Ramos,13812071,Administración y Finanzas,Coordinador,2022-07-12,,ó.cáceres@transportes.com.pe,Activo
+EMP0013,Hugo Torres Choque,10877073,Compras,Analista,2025-07-02,2028-01-22,h.torres@transportes.com.pe,Cesado
+EMP0014,Carmen Colque Vargas,11321204,Legal,Analista,2020-09-22,,c.colque@transportes.com.pe,Activo
+EMP0015,Nadia Ancco Núñez,38534048,Tesorería,Operario,2025-05-16,,n.ancco@transportes.com.pe,Activo
+EMP0016,Silvia Torres Condori,14897070,Compras,Operario,2020-02-09,,s.torres@transportes.com.pe,Activo
+EMP0017,Víctor Chura Colque,26890179,Contabilidad,Supervisor,2021-12-09,,v.chura@transportes.com.pe,Activo
+EMP0018,Álvaro Copaja Quispe,37760906,Comercial,Jefe,2011-12-07,,á.copaja@transportes.com.pe,Activo
+EMP0019,Iván Maquera Quispe,68307678,Tecnologías de la Información,Practicante,2023-12-25,,i.maquera@transportes.com.pe,Activo
+EMP0020,Miguel Vargas Peralta,63618681,Administración y Finanzas,Jefe,2020-02-08,,m.vargas@transportes.com.pe,Activo
+EMP0021,Ana Laura Maquera,25740933,Logística,Coordinador,2022-02-19,,a.laura@transportes.com.pe,Activo
+EMP0022,Carmen Flores Bravo,72987148,Comercial,Operario,2020-02-17,,c.flores@transportes.com.pe,Activo
+EMP0023,Fernando Calisaya Chura,23048441,Almacén,Asistente,2015-10-18,2020-08-23,f.calisaya@transportes.com.pe,Cesado
+EMP0024,Rosa Calisaya Aguilar,79819142,Comercial,Asistente,2014-05-19,,r.calisaya@transportes.com.pe,Activo
+EMP0025,Elena Zapana Bravo,74900510,Legal,Coordinador,2018-05-25,,e.zapana@transportes.com.pe,Activo
+EMP0026,Óscar Laura Ilaquita,56102445,Gerencia,Analista,2019-11-01,,ó.laura@transportes.com.pe,Activo
+EMP0027,Karla Cáceres Cáceres,58987811,Gerencia,Coordinador,2022-07-11,,k.cáceres@transportes.com.pe,Activo
+EMP0028,Vanessa Laura Ramos,58478168,Tecnologías de la Información,Practicante,2016-11-01,,v.laura@transportes.com.pe,Activo
+EMP0029,Karla Bravo Condori,49936265,Almacén,Coordinador,2025-06-15,,k.bravo@transportes.com.pe,Activo
+EMP0030,Carmen Apaza Ramos,27370994,Gerencia,Asistente,2021-06-10,,c.apaza@transportes.com.pe,Activo
+EMP0031,Ana Rivera Cutipa,21105659,Comercial,Practicante,2025-12-02,,a.rivera@transportes.com.pe,Activo
+EMP0032,Karla Torres Bravo,60915348,Contabilidad,Analista,2012-10-14,,k.torres@transportes.com.pe,Activo
+EMP0033,Iván Aguilar Copaja,24347662,Gerencia,Asistente,2017-11-07,,i.aguilar@transportes.com.pe,Activo
+EMP0034,Sofía Vargas Apaza,57654812,Comercial,Analista,2017-02-11,,s.vargas@transportes.com.pe,Activo
+EMP0035,Pedro Cutipa Paredes,61226452,Operaciones,Asistente,2022-12-19,,p.cutipa@transportes.com.pe,Activo
+EMP0036,Carmen Flores Mamani,29788991,Recursos Humanos,Practicante,2014-08-21,,c.flores@transportes.com.pe,Activo
+EMP0037,Rocío Cutipa Cáceres,22203647,Recursos Humanos,Supervisor,2017-03-24,2022-01-20,r.cutipa@transportes.com.pe,Cesado
+EMP0038,Luis Zapana Copaja,19283099,Comercial,Operario,2023-09-19,,l.zapana@transportes.com.pe,Activo
+EMP0039,Carmen Copaja Mamani,36963880,Recursos Humanos,Coordinador,2015-01-13,,c.copaja@transportes.com.pe,Activo
+EMP0040,Marta Maquera Peralta,68633526,Tesorería,Coordinador,2015-06-14,,m.maquera@transportes.com.pe,Activo
+EMP0041,Sofía Colque Flores,49710413,Compras,Practicante,2011-11-20,,s.colque@transportes.com.pe,Activo
+EMP0042,Elena Peralta Nina,26857490,Almacén,Coordinador,2011-10-19,,e.peralta@transportes.com.pe,Activo
+EMP0043,Hugo Núñez Núñez,49495778,Logística,Practicante,2024-03-20,,h.núñez@transportes.com.pe,Activo
+EMP0044,Luis Yufra Chura,61533554,Administración y Finanzas,Asistente,2023-10-18,,l.yufra@transportes.com.pe,Activo
+EMP0045,Hugo Choque Zapana,43261851,Gerencia,Asistente,2024-03-21,,h.choque@transportes.com.pe,Activo
+EMP0046,Silvia Aguilar Chura,31122718,Logística,Asistente,2021-01-25,,s.aguilar@transportes.com.pe,Activo
+EMP0047,Karla Calisaya Torres,55520830,Compras,Asistente,2014-08-10,,k.calisaya@transportes.com.pe,Activo
+EMP0048,Carmen Rivera Núñez,18822154,Operaciones,Analista,2016-11-23,,c.rivera@transportes.com.pe,Activo
+EMP0049,Jorge Condori Ticona,77694824,Almacén,Jefe,2020-07-04,2027-07-17,j.condori@transportes.com.pe,Cesado
+EMP0050,Elena Cutipa Peralta,73173886,Tecnologías de la Información,Jefe,2015-09-14,2021-05-07,e.cutipa@transportes.com.pe,Cesado
+EMP0051,Elena Ticona Cutipa,16427690,Administración y Finanzas,Operario,2014-09-24,,e.ticona@transportes.com.pe,Activo
+EMP0052,Pedro Laura Apaza,39156562,Contabilidad,Jefe,2015-01-07,,p.laura@transportes.com.pe,Activo
+EMP0053,Paola Ticona Salazar,34389005,Tecnologías de la Información,Coordinador,2015-07-21,,p.ticona@transportes.com.pe,Activo
+EMP0054,Nadia Calisaya Ancco,23291891,Logística,Practicante,2011-09-11,,n.calisaya@transportes.com.pe,Activo
+EMP0055,Vanessa Bravo Maquera,36785067,Operaciones,Supervisor,2023-10-10,,v.bravo@transportes.com.pe,Activo
+EMP0056,Álvaro Laura Paredes,41207921,Contabilidad,Analista,2017-08-11,,á.laura@transportes.com.pe,Activo
+EMP0057,Vanessa Medina Ticona,57291290,Gerencia,Operario,2017-10-23,,v.medina@transportes.com.pe,Activo
+EMP0058,Hugo Laura Vargas,15147654,Comercial,Jefe,2016-01-15,,h.laura@transportes.com.pe,Activo
+EMP0059,Karla Quispe Maquera,36020270,Compras,Operario,2019-08-04,,k.quispe@transportes.com.pe,Activo
+EMP0060,Víctor Maquera Bravo,48899430,Recursos Humanos,Analista,2019-02-01,,v.maquera@transportes.com.pe,Activo
+EMP0061,Karla Aguilar Torres,63660478,Contabilidad,Jefe,2015-06-11,2020-09-17,k.aguilar@transportes.com.pe,Cesado
+EMP0062,Jorge Colque Salazar,18829387,Tesorería,Practicante,2019-04-09,,j.colque@transportes.com.pe,Activo
+EMP0063,Álvaro Zapana Vargas,73694664,Operaciones,Practicante,2016-03-06,,á.zapana@transportes.com.pe,Activo
+EMP0064,Pedro Zapana Vargas,72533524,Almacén,Practicante,2025-11-17,2029-08-14,p.zapana@transportes.com.pe,Cesado
+EMP0065,Alberto Calisaya Ilaquita,13949234,Almacén,Supervisor,2019-02-11,2023-10-08,a.calisaya@transportes.com.pe,Cesado
+EMP0066,Rosa Ilaquita Condori,40649995,Contabilidad,Jefe,2023-02-03,,r.ilaquita@transportes.com.pe,Activo
+EMP0067,Teresa Ilaquita Ilaquita,28512472,Tesorería,Analista,2025-04-16,,t.ilaquita@transportes.com.pe,Activo
+EMP0068,Rocío Paredes Rivera,11151491,Contabilidad,Coordinador,2017-07-12,,r.paredes@transportes.com.pe,Activo
+EMP0069,Ana Paredes Núñez,28653715,Tecnologías de la Información,Supervisor,2020-07-26,,a.paredes@transportes.com.pe,Activo
+EMP0070,Iván Núñez Zapana,52388140,Compras,Operario,2019-01-01,,i.núñez@transportes.com.pe,Activo
+EMP0071,Pedro Calisaya Salazar,48750826,Administración y Finanzas,Operario,2024-07-03,,p.calisaya@transportes.com.pe,Activo
+EMP0072,Marco Paredes Bravo,54879975,Gerencia,Coordinador,2024-11-05,,m.paredes@transportes.com.pe,Activo
+EMP0073,Alberto Choque Paredes,69998260,Tecnologías de la Información,Operario,2020-07-05,2024-12-22,a.choque@transportes.com.pe,Cesado
+EMP0074,Óscar Salazar Quispe,17830145,Legal,Analista,2024-06-12,,ó.salazar@transportes.com.pe,Activo
+EMP0075,Marta Choque Nina,50049930,Logística,Coordinador,2014-04-26,2020-07-22,m.choque@transportes.com.pe,Cesado
+EMP0076,Rosa Vargas Peralta,11708660,Tesorería,Operario,2021-03-17,,r.vargas@transportes.com.pe,Activo
+EMP0077,Jorge Aguilar Yufra,42132460,Gerencia,Operario,2023-03-02,2026-10-01,j.aguilar@transportes.com.pe,Cesado
+EMP0078,Diana Medina Copaja,55440360,Almacén,Coordinador,2012-05-26,,d.medina@transportes.com.pe,Activo
+EMP0079,Rosa Ancco Colque,29238986,Compras,Asistente,2019-12-11,,r.ancco@transportes.com.pe,Activo
+EMP0080,Rocío Colque Salazar,55392969,Legal,Jefe,2021-03-18,2023-01-20,r.colque@transportes.com.pe,Cesado
+EMP0081,Carmen Apaza Laura,68236678,Almacén,Analista,2025-10-19,,c.apaza@transportes.com.pe,Activo
+EMP0082,Hugo Medina Laura,39271022,Tesorería,Coordinador,2020-03-05,,h.medina@transportes.com.pe,Activo
+EMP0083,Silvia Medina Cutipa,68008410,Comercial,Asistente,2018-12-16,,s.medina@transportes.com.pe,Activo
+EMP0084,Lucía Ramos Cáceres,46392185,Administración y Finanzas,Operario,2013-10-09,,l.ramos@transportes.com.pe,Activo
+EMP0085,Víctor Choque Torres,32485193,Administración y Finanzas,Operario,2018-06-13,,v.choque@transportes.com.pe,Activo
+EMP0086,Iván Zapana Paredes,61023469,Legal,Jefe,2025-07-25,,i.zapana@transportes.com.pe,Activo
+EMP0087,Rocío Quispe Bravo,63040675,Tecnologías de la Información,Jefe,2016-10-15,,r.quispe@transportes.com.pe,Activo
+EMP0088,Carmen Aguilar Nina,22514220,Logística,Operario,2022-03-08,,c.aguilar@transportes.com.pe,Activo
+EMP0089,Nadia Laura Núñez,61820115,Tecnologías de la Información,Analista,2016-03-14,,n.laura@transportes.com.pe,Activo
+EMP0090,Rosa Zapana Condori,69510017,Tecnologías de la Información,Coordinador,2021-04-07,,r.zapana@transportes.com.pe,Activo
+EMP0091,Rocío Ticona Ticona,33017372,Almacén,Jefe,2018-10-25,,r.ticona@transportes.com.pe,Activo
+EMP0092,Óscar Medina Copaja,49632899,Almacén,Operario,2020-03-03,,ó.medina@transportes.com.pe,Activo
+EMP0093,Alberto Flores Bravo,72823883,Operaciones,Asistente,2024-11-05,,a.flores@transportes.com.pe,Activo
+EMP0094,Rocío Huanca Huanca,71204826,Comercial,Analista,2013-10-08,,r.huanca@transportes.com.pe,Activo
+EMP0095,Gabriela Ramos Quispe,63223320,Tecnologías de la Información,Practicante,2024-03-25,,g.ramos@transportes.com.pe,Activo
+EMP0096,Jorge Mamani Peralta,60390031,Tecnologías de la Información,Practicante,2019-03-07,,j.mamani@transportes.com.pe,Activo
+EMP0097,Álvaro Torres Condori,35545224,Contabilidad,Analista,2022-12-24,,á.torres@transportes.com.pe,Activo
+EMP0098,Gabriela Rivera Ramos,75661594,Tecnologías de la Información,Jefe,2019-04-21,,g.rivera@transportes.com.pe,Activo
+EMP0099,Hugo Bravo Cutipa,10237074,Tecnologías de la Información,Coordinador,2022-08-05,,h.bravo@transportes.com.pe,Activo
+EMP0100,Raúl Aguilar Copaja,28730754,Legal,Operario,2018-08-10,,r.aguilar@transportes.com.pe,Activo
+EMP0101,Diana Medina Yufra,14862237,Almacén,Operario,2015-11-13,2022-10-22,d.medina@transportes.com.pe,Cesado
+EMP0102,Raúl Apaza Cáceres,66239292,Tesorería,Practicante,2012-04-17,,r.apaza@transportes.com.pe,Activo
+EMP0103,Rosa Salazar Apaza,36534889,Tecnologías de la Información,Coordinador,2023-10-21,,r.salazar@transportes.com.pe,Activo
+EMP0104,Álvaro Chura Colque,36810060,Operaciones,Analista,2022-01-21,,á.chura@transportes.com.pe,Activo
+EMP0105,Julio Ilaquita Ticona,71016871,Contabilidad,Supervisor,2024-12-12,,j.ilaquita@transportes.com.pe,Activo
+EMP0106,Marta Ticona Ramos,65978099,Tecnologías de la Información,Practicante,2017-05-19,,m.ticona@transportes.com.pe,Activo
+EMP0107,Iván Rivera Torres,16969749,Comercial,Asistente,2018-10-10,,i.rivera@transportes.com.pe,Activo
+EMP0108,Víctor Choque Quispe,61694228,Recursos Humanos,Coordinador,2023-04-07,2024-03-20,v.choque@transportes.com.pe,Cesado
+EMP0109,Miguel Flores Zapana,64690070,Operaciones,Practicante,2018-09-06,,m.flores@transportes.com.pe,Activo
+EMP0110,Carmen Aguilar Paredes,39222237,Tesorería,Asistente,2018-08-06,,c.aguilar@transportes.com.pe,Activo
+EMP0111,Álvaro Núñez Mamani,28367739,Recursos Humanos,Jefe,2025-04-01,,á.núñez@transportes.com.pe,Activo
+EMP0112,Nelson Colque Apaza,79668590,Administración y Finanzas,Supervisor,2020-07-13,,n.colque@transportes.com.pe,Activo
+EMP0113,Rocío Núñez Ilaquita,47035532,Compras,Practicante,2024-07-17,,r.núñez@transportes.com.pe,Activo
+EMP0114,Ana Maquera Flores,38696600,Contabilidad,Operario,2014-04-10,,a.maquera@transportes.com.pe,Activo
+EMP0115,Diana Cáceres Condori,68208435,Administración y Finanzas,Supervisor,2025-08-05,2031-04-18,d.cáceres@transportes.com.pe,Cesado
+EMP0116,Alberto Choque Nina,47946323,Compras,Analista,2022-12-21,,a.choque@transportes.com.pe,Activo
+EMP0117,Carlos Rivera Chura,71739374,Almacén,Asistente,2020-02-09,,c.rivera@transportes.com.pe,Activo
+EMP0118,Carlos Aguilar Calisaya,57814133,Operaciones,Analista,2024-02-06,2024-11-16,c.aguilar@transportes.com.pe,Cesado
+EMP0119,Julia Rivera Aguilar,52039068,Gerencia,Jefe,2024-07-15,,j.rivera@transportes.com.pe,Activo
+EMP0120,Diana Vargas Maquera,48344496,Tesorería,Jefe,2012-09-10,,d.vargas@transportes.com.pe,Activo
+EMP0121,Luis Cáceres Condori,15977149,Comercial,Coordinador,2021-12-24,,l.cáceres@transportes.com.pe,Activo
+EMP0122,Teresa Nina Nina,60709390,Administración y Finanzas,Coordinador,2012-08-25,,t.nina@transportes.com.pe,Activo
+EMP0123,Víctor Maquera Nina,68136526,Operaciones,Operario,2016-02-08,,v.maquera@transportes.com.pe,Activo
+EMP0124,Karla Condori Condori,44235592,Administración y Finanzas,Jefe,2014-05-26,,k.condori@transportes.com.pe,Activo
+EMP0125,Teresa Choque Torres,74548664,Recursos Humanos,Operario,2023-09-23,,t.choque@transportes.com.pe,Activo
+EMP0126,Diana Laura Laura,10943055,Comercial,Operario,2017-05-08,,d.laura@transportes.com.pe,Activo
+EMP0127,Carmen Ancco Cáceres,51258282,Almacén,Coordinador,2021-12-15,,c.ancco@transportes.com.pe,Activo
+EMP0128,Nadia Quispe Bravo,74708080,Recursos Humanos,Jefe,2016-08-03,,n.quispe@transportes.com.pe,Activo
+EMP0129,Lucía Calisaya Laura,31152909,Administración y Finanzas,Jefe,2023-04-13,,l.calisaya@transportes.com.pe,Activo
+EMP0130,Nelson Salazar Zapana,54448334,Gerencia,Analista,2021-10-09,2023-10-17,n.salazar@transportes.com.pe,Cesado
+EMP0131,Elena Ticona Torres,27966816,Contabilidad,Asistente,2018-10-14,2021-03-21,e.ticona@transportes.com.pe,Cesado
+EMP0132,Rosa Ancco Maquera,72982568,Recursos Humanos,Supervisor,2019-02-20,,r.ancco@transportes.com.pe,Activo
+EMP0133,Iván Condori Paredes,77956467,Contabilidad,Coordinador,2025-05-25,,i.condori@transportes.com.pe,Activo
+EMP0134,Diana Calisaya Ilaquita,22607296,Recursos Humanos,Asistente,2016-07-24,,d.calisaya@transportes.com.pe,Activo
+EMP0135,Miguel Apaza Calisaya,15730354,Contabilidad,Jefe,2024-11-05,,m.apaza@transportes.com.pe,Activo
+EMP0136,Alberto Yufra Núñez,31326476,Gerencia,Practicante,2012-03-12,,a.yufra@transportes.com.pe,Activo
+EMP0137,Vanessa Paredes Laura,49815370,Compras,Supervisor,2025-02-09,,v.paredes@transportes.com.pe,Activo
+EMP0138,Rosa Aguilar Quispe,44693939,Legal,Jefe,2019-07-12,,r.aguilar@transportes.com.pe,Activo
+EMP0139,Ana Apaza Apaza,24094302,Recursos Humanos,Operario,2017-02-08,,a.apaza@transportes.com.pe,Activo
+EMP0140,Hugo Peralta Quispe,38004932,Almacén,Supervisor,2017-11-15,,h.peralta@transportes.com.pe,Activo
+EMP0141,Julia Yufra Huanca,39583179,Tecnologías de la Información,Practicante,2024-09-19,,j.yufra@transportes.com.pe,Activo
+EMP0142,Jorge Medina Bravo,75906273,Administración y Finanzas,Analista,2024-05-18,,j.medina@transportes.com.pe,Activo
+EMP0143,Sofía Peralta Cutipa,62967869,Gerencia,Jefe,2018-02-08,,s.peralta@transportes.com.pe,Activo
+EMP0144,Vanessa Chura Chura,70135814,Tesorería,Asistente,2020-12-15,,v.chura@transportes.com.pe,Activo
+EMP0145,Carmen Flores Salazar,70294977,Contabilidad,Supervisor,2019-01-17,,c.flores@transportes.com.pe,Activo
+EMP0146,Marta Torres Aguilar,20891406,Administración y Finanzas,Coordinador,2022-01-08,,m.torres@transportes.com.pe,Activo
+EMP0147,Miguel Ticona Copaja,64609805,Administración y Finanzas,Supervisor,2019-09-12,2023-06-05,m.ticona@transportes.com.pe,Cesado
+EMP0148,Lucía Choque Bravo,79428459,Administración y Finanzas,Coordinador,2024-11-22,,l.choque@transportes.com.pe,Activo
+EMP0149,Karla Vargas Zapana,39171779,Tesorería,Jefe,2016-02-23,,k.vargas@transportes.com.pe,Activo
+EMP0150,Julia Zapana Chura,57464533,Almacén,Asistente,2011-08-22,,j.zapana@transportes.com.pe,Activo
+EMP0151,Óscar Vargas Cáceres,43916178,Almacén,Coordinador,2025-08-08,,ó.vargas@transportes.com.pe,Activo
+EMP0152,Julio Colque Calisaya,69265952,Comercial,Coordinador,2022-08-10,,j.colque@transportes.com.pe,Activo
+EMP0153,Álvaro Choque Huanca,54392264,Legal,Operario,2025-05-09,2031-06-12,á.choque@transportes.com.pe,Cesado
+EMP0154,Marco Medina Ancco,13656275,Administración y Finanzas,Practicante,2019-04-12,,m.medina@transportes.com.pe,Activo
+EMP0155,Óscar Choque Yufra,39837601,Logística,Coordinador,2011-11-08,,ó.choque@transportes.com.pe,Activo
+EMP0156,Ana Medina Condori,59175416,Logística,Coordinador,2025-05-24,,a.medina@transportes.com.pe,Activo
+EMP0157,Hugo Peralta Paredes,37162753,Operaciones,Practicante,2025-02-08,,h.peralta@transportes.com.pe,Activo
+EMP0158,Elena Salazar Flores,60187170,Almacén,Jefe,2025-06-24,,e.salazar@transportes.com.pe,Activo
+EMP0159,Miguel Condori Medina,37747549,Operaciones,Practicante,2011-06-25,,m.condori@transportes.com.pe,Activo
+EMP0160,Marta Yufra Torres,67957594,Gerencia,Practicante,2018-09-13,,m.yufra@transportes.com.pe,Activo
+EMP0161,Víctor Laura Mamani,66480946,Contabilidad,Operario,2025-01-23,,v.laura@transportes.com.pe,Activo
+EMP0162,Pedro Calisaya Medina,55750292,Logística,Coordinador,2016-03-09,,p.calisaya@transportes.com.pe,Activo
+EMP0163,Carmen Choque Choque,28417331,Tesorería,Supervisor,2019-01-25,,c.choque@transportes.com.pe,Activo
+EMP0164,Lucía Paredes Maquera,13303783,Legal,Operario,2022-08-19,,l.paredes@transportes.com.pe,Activo
+EMP0165,Marco Núñez Ramos,62329469,Administración y Finanzas,Operario,2013-10-27,,m.núñez@transportes.com.pe,Activo
+EMP0166,Víctor Calisaya Torres,77756123,Legal,Analista,2023-11-07,,v.calisaya@transportes.com.pe,Activo
+EMP0167,Nadia Ticona Laura,62296321,Legal,Supervisor,2018-05-14,2025-04-20,n.ticona@transportes.com.pe,Cesado
+EMP0168,Paola Nina Mamani,54796165,Administración y Finanzas,Supervisor,2018-01-09,,p.nina@transportes.com.pe,Activo
+EMP0169,Marta Nina Condori,18914115,Comercial,Asistente,2017-09-03,,m.nina@transportes.com.pe,Activo
+EMP0170,Miguel Núñez Ilaquita,16578192,Contabilidad,Jefe,2022-04-14,,m.núñez@transportes.com.pe,Activo
+EMP0171,Julia Maquera Núñez,65786243,Administración y Finanzas,Asistente,2023-12-08,,j.maquera@transportes.com.pe,Activo
+EMP0172,Iván Aguilar Núñez,39210343,Operaciones,Asistente,2024-10-01,,i.aguilar@transportes.com.pe,Activo
+EMP0173,Sofía Calisaya Quispe,70429739,Comercial,Jefe,2013-10-12,,s.calisaya@transportes.com.pe,Activo
+EMP0174,Miguel Calisaya Maquera,51366242,Recursos Humanos,Coordinador,2019-02-16,,m.calisaya@transportes.com.pe,Activo
+EMP0175,Álvaro Flores Vargas,60515304,Logística,Operario,2022-11-22,,á.flores@transportes.com.pe,Activo
+EMP0176,Iván Huanca Rivera,76586614,Comercial,Coordinador,2011-01-05,,i.huanca@transportes.com.pe,Activo
+EMP0177,Diana Núñez Rivera,34610650,Legal,Asistente,2012-11-11,,d.núñez@transportes.com.pe,Activo
+EMP0178,Marta Laura Aguilar,66376880,Legal,Supervisor,2025-07-20,,m.laura@transportes.com.pe,Activo
+EMP0179,Carmen Ilaquita Ancco,42039722,Gerencia,Practicante,2016-09-26,,c.ilaquita@transportes.com.pe,Activo
+EMP0180,Vanessa Colque Mamani,35056677,Gerencia,Coordinador,2024-03-06,,v.colque@transportes.com.pe,Activo
+EMP0181,Ana Cáceres Aguilar,48756138,Tecnologías de la Información,Practicante,2020-10-12,,a.cáceres@transportes.com.pe,Activo
+EMP0182,Pedro Ramos Peralta,13673578,Tecnologías de la Información,Coordinador,2020-08-14,,p.ramos@transportes.com.pe,Activo
+EMP0183,Elena Maquera Núñez,47224574,Comercial,Asistente,2017-07-24,2022-12-15,e.maquera@transportes.com.pe,Cesado
+EMP0184,Karla Colque Choque,17708012,Gerencia,Coordinador,2011-02-20,,k.colque@transportes.com.pe,Activo
+EMP0185,Pedro Apaza Torres,57142707,Operaciones,Analista,2022-11-04,,p.apaza@transportes.com.pe,Activo
+EMP0186,Marco Maquera Zapana,57087776,Compras,Practicante,2017-09-26,,m.maquera@transportes.com.pe,Activo
+EMP0187,Ana Calisaya Copaja,55130053,Administración y Finanzas,Asistente,2022-11-03,2023-07-22,a.calisaya@transportes.com.pe,Cesado
+EMP0188,Lucía Calisaya Cáceres,20536541,Recursos Humanos,Coordinador,2012-05-24,,l.calisaya@transportes.com.pe,Activo
+EMP0189,Silvia Cutipa Ilaquita,42929737,Tecnologías de la Información,Operario,2013-09-16,2019-04-15,s.cutipa@transportes.com.pe,Cesado
+EMP0190,Alberto Chura Laura,43435888,Operaciones,Analista,2023-08-16,,a.chura@transportes.com.pe,Activo
+EMP0191,Teresa Ramos Huanca,39458323,Tecnologías de la Información,Operario,2016-02-25,2019-10-03,t.ramos@transportes.com.pe,Cesado
+EMP0192,Ricardo Ilaquita Yufra,74970198,Tecnologías de la Información,Jefe,2019-03-25,,r.ilaquita@transportes.com.pe,Activo
+EMP0193,Vanessa Yufra Ilaquita,71289779,Tecnologías de la Información,Operario,2016-11-18,,v.yufra@transportes.com.pe,Activo
+EMP0194,Julia Ancco Mamani,27811954,Tecnologías de la Información,Jefe,2016-09-22,,j.ancco@transportes.com.pe,Activo
+EMP0195,Ricardo Laura Bravo,27241521,Logística,Operario,2019-07-15,2024-12-11,r.laura@transportes.com.pe,Cesado
+EMP0196,Julio Paredes Ilaquita,12090559,Gerencia,Asistente,2021-11-13,,j.paredes@transportes.com.pe,Activo
+EMP0197,Luis Choque Ticona,79945180,Administración y Finanzas,Coordinador,2017-02-25,,l.choque@transportes.com.pe,Activo
+EMP0198,Óscar Rivera Cáceres,56405207,Comercial,Operario,2025-06-02,,ó.rivera@transportes.com.pe,Activo
+EMP0199,Fernando Medina Rivera,42902326,Contabilidad,Operario,2016-09-13,,f.medina@transportes.com.pe,Activo
+EMP0200,Álvaro Colque Núñez,42318471,Tecnologías de la Información,Asistente,2011-06-25,,á.colque@transportes.com.pe,Activo
+EMP0201,Ricardo Huanca Cáceres,74042077,Recursos Humanos,Asistente,2018-11-12,,r.huanca@transportes.com.pe,Activo
+EMP0202,Diana Nina Cutipa,65981347,Almacén,Coordinador,2020-05-10,,d.nina@transportes.com.pe,Activo
+EMP0203,Jorge Copaja Vargas,42772003,Recursos Humanos,Operario,2014-07-11,,j.copaja@transportes.com.pe,Activo
+EMP0204,Fernando Ramos Apaza,13346830,Legal,Operario,2025-06-27,,f.ramos@transportes.com.pe,Activo
+EMP0205,Elena Bravo Ticona,77731195,Comercial,Coordinador,2019-11-04,,e.bravo@transportes.com.pe,Activo
+EMP0206,Paola Zapana Copaja,41819396,Administración y Finanzas,Analista,2013-03-16,2016-08-24,p.zapana@transportes.com.pe,Cesado
+EMP0207,Álvaro Aguilar Bravo,29267277,Tesorería,Asistente,2018-08-25,,á.aguilar@transportes.com.pe,Activo
+EMP0208,Fernando Nina Torres,68536318,Compras,Supervisor,2023-06-06,,f.nina@transportes.com.pe,Activo
+EMP0209,Rocío Zapana Bravo,68436899,Legal,Asistente,2014-05-16,,r.zapana@transportes.com.pe,Activo
+EMP0210,Lucía Apaza Laura,38645572,Tecnologías de la Información,Analista,2023-11-09,,l.apaza@transportes.com.pe,Activo
+EMP0211,Rosa Salazar Copaja,36215045,Almacén,Operario,2015-06-10,,r.salazar@transportes.com.pe,Activo
+EMP0212,Teresa Chura Ramos,44709535,Tecnologías de la Información,Analista,2019-08-05,,t.chura@transportes.com.pe,Activo
+EMP0213,Julia Mamani Ticona,50563876,Comercial,Coordinador,2012-09-12,,j.mamani@transportes.com.pe,Activo
+EMP0214,Ricardo Laura Quispe,32234048,Operaciones,Operario,2013-09-14,,r.laura@transportes.com.pe,Activo
+EMP0215,Julio Calisaya Huanca,58250091,Compras,Jefe,2021-12-05,,j.calisaya@transportes.com.pe,Activo
+EMP0216,Marta Ilaquita Colque,21821443,Administración y Finanzas,Analista,2022-07-13,,m.ilaquita@transportes.com.pe,Activo
+EMP0217,Nelson Bravo Zapana,23244003,Tesorería,Asistente,2014-03-26,,n.bravo@transportes.com.pe,Activo
+EMP0218,Gabriela Salazar Copaja,75995662,Tecnologías de la Información,Asistente,2013-11-12,,g.salazar@transportes.com.pe,Activo
+EMP0219,Nadia Ramos Paredes,70246100,Operaciones,Practicante,2023-03-08,,n.ramos@transportes.com.pe,Activo
+EMP0220,Karla Núñez Flores,37975527,Compras,Operario,2013-05-07,,k.núñez@transportes.com.pe,Activo
+EMP0221,Diana Apaza Aguilar,24775411,Tesorería,Practicante,2013-05-09,,d.apaza@transportes.com.pe,Activo
+EMP0222,Fernando Núñez Zapana,39405555,Administración y Finanzas,Operario,2018-10-25,,f.núñez@transportes.com.pe,Activo
+EMP0223,Karla Paredes Paredes,56178642,Gerencia,Practicante,2023-03-26,,k.paredes@transportes.com.pe,Activo
+EMP0224,Marta Vargas Huanca,72234000,Compras,Coordinador,2025-05-15,,m.vargas@transportes.com.pe,Activo
+EMP0225,Marco Copaja Mamani,61281824,Operaciones,Practicante,2016-10-22,,m.copaja@transportes.com.pe,Activo
+EMP0226,Miguel Flores Ramos,56657839,Compras,Jefe,2024-06-17,,m.flores@transportes.com.pe,Activo
+EMP0227,Gabriela Salazar Mamani,31635389,Operaciones,Analista,2021-09-24,,g.salazar@transportes.com.pe,Activo
+EMP0228,Marco Choque Copaja,68451418,Tesorería,Practicante,2024-02-06,,m.choque@transportes.com.pe,Activo
+EMP0229,Sofía Maquera Ancco,54627255,Tecnologías de la Información,Practicante,2020-08-09,,s.maquera@transportes.com.pe,Activo
+EMP0230,Diana Ilaquita Núñez,37480747,Logística,Analista,2012-02-15,,d.ilaquita@transportes.com.pe,Activo
+EMP0231,Elena Vargas Calisaya,25258744,Comercial,Asistente,2011-05-07,,e.vargas@transportes.com.pe,Activo
+EMP0232,Elena Quispe Ramos,17373868,Gerencia,Jefe,2020-07-27,,e.quispe@transportes.com.pe,Activo
+EMP0233,Miguel Rivera Colque,56643640,Administración y Finanzas,Coordinador,2025-12-19,,m.rivera@transportes.com.pe,Activo
+EMP0234,Pedro Bravo Flores,71691170,Logística,Supervisor,2025-02-12,2027-09-17,p.bravo@transportes.com.pe,Cesado
+EMP0235,Rosa Chura Mamani,60671921,Contabilidad,Supervisor,2017-10-01,,r.chura@transportes.com.pe,Activo
+EMP0236,Óscar Maquera Vargas,75897886,Comercial,Practicante,2012-03-27,2017-03-05,ó.maquera@transportes.com.pe,Cesado
+EMP0237,Paola Huanca Peralta,21280714,Contabilidad,Supervisor,2020-09-01,,p.huanca@transportes.com.pe,Activo
+EMP0238,Víctor Cutipa Ancco,33876721,Compras,Analista,2015-07-03,2018-01-08,v.cutipa@transportes.com.pe,Cesado
+EMP0239,Víctor Huanca Maquera,12851216,Logística,Operario,2016-12-12,,v.huanca@transportes.com.pe,Activo
+EMP0240,Vanessa Mamani Salazar,18233446,Gerencia,Supervisor,2024-08-01,,v.mamani@transportes.com.pe,Activo
+EMP0241,Nelson Rivera Aguilar,42206851,Almacén,Jefe,2018-10-26,,n.rivera@transportes.com.pe,Activo
+EMP0242,Raúl Rivera Laura,17346111,Recursos Humanos,Practicante,2024-12-19,2027-12-22,r.rivera@transportes.com.pe,Cesado
+EMP0243,Julia Ticona Condori,16862740,Administración y Finanzas,Coordinador,2020-03-16,,j.ticona@transportes.com.pe,Activo
+EMP0244,Jorge Apaza Calisaya,25096431,Operaciones,Coordinador,2019-03-07,,j.apaza@transportes.com.pe,Activo
+EMP0245,Silvia Calisaya Laura,48922326,Almacén,Analista,2018-05-06,,s.calisaya@transportes.com.pe,Activo
+EMP0246,Gabriela Yufra Huanca,61498915,Tecnologías de la Información,Analista,2018-08-11,,g.yufra@transportes.com.pe,Activo
+EMP0247,Paola Apaza Copaja,56245319,Tesorería,Practicante,2021-01-19,,p.apaza@transportes.com.pe,Activo
+EMP0248,Raúl Peralta Bravo,10685367,Tesorería,Supervisor,2023-04-24,,r.peralta@transportes.com.pe,Activo
+EMP0249,Carmen Bravo Zapana,62660534,Legal,Jefe,2025-07-25,,c.bravo@transportes.com.pe,Activo
+EMP0250,Álvaro Apaza Paredes,52181052,Administración y Finanzas,Coordinador,2024-02-04,2027-04-12,á.apaza@transportes.com.pe,Cesado
+EMP0251,Sofía Copaja Huanca,23958361,Legal,Coordinador,2018-03-13,,s.copaja@transportes.com.pe,Activo
+EMP0252,Nelson Ilaquita Choque,34902799,Compras,Asistente,2016-06-23,2022-06-14,n.ilaquita@transportes.com.pe,Cesado
+EMP0253,Miguel Laura Medina,53464617,Compras,Jefe,2016-06-14,,m.laura@transportes.com.pe,Activo
+EMP0254,Teresa Laura Aguilar,35980992,Gerencia,Practicante,2012-03-11,,t.laura@transportes.com.pe,Activo
+EMP0255,Sofía Núñez Colque,34513754,Tesorería,Analista,2019-04-25,,s.núñez@transportes.com.pe,Activo
+EMP0256,Iván Ramos Zapana,12194551,Compras,Operario,2014-11-09,,i.ramos@transportes.com.pe,Activo
+EMP0257,Silvia Bravo Salazar,62751439,Operaciones,Supervisor,2013-06-20,2017-09-09,s.bravo@transportes.com.pe,Cesado
+EMP0258,Jorge Rivera Salazar,69170079,Comercial,Operario,2017-07-09,,j.rivera@transportes.com.pe,Activo
+EMP0259,Paola Salazar Cutipa,52438528,Operaciones,Analista,2013-04-01,,p.salazar@transportes.com.pe,Activo
+EMP0260,Vanessa Ilaquita Quispe,62381537,Gerencia,Supervisor,2013-02-15,,v.ilaquita@transportes.com.pe,Activo
+EMP0261,Hugo Choque Rivera,63343859,Contabilidad,Operario,2022-01-21,,h.choque@transportes.com.pe,Activo
+EMP0262,Rocío Cáceres Peralta,44813870,Recursos Humanos,Asistente,2017-07-25,,r.cáceres@transportes.com.pe,Activo
+EMP0263,Carmen Calisaya Salazar,32424107,Comercial,Supervisor,2018-05-26,,c.calisaya@transportes.com.pe,Activo
+EMP0264,Karla Huanca Bravo,36957751,Compras,Operario,2014-08-18,,k.huanca@transportes.com.pe,Activo
+EMP0265,Marta Calisaya Calisaya,48049462,Tecnologías de la Información,Practicante,2015-04-03,,m.calisaya@transportes.com.pe,Activo
+EMP0266,Carlos Ramos Ilaquita,71497864,Administración y Finanzas,Coordinador,2022-02-03,,c.ramos@transportes.com.pe,Activo
+EMP0267,Alberto Copaja Apaza,28461144,Gerencia,Jefe,2011-02-16,,a.copaja@transportes.com.pe,Activo
+EMP0268,Alberto Aguilar Maquera,57489864,Recursos Humanos,Jefe,2019-03-09,,a.aguilar@transportes.com.pe,Activo

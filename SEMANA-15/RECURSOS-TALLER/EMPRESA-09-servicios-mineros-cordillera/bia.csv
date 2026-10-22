@@ -1,0 +1,7 @@
+id,proceso,criticidad,rto_horas,rpo_horas,sistema_soporte,responsable,impacto_24h,ultima_prueba
+BIA01,Licitación y contratación con el cliente minero,Alta,24,48,ERP corporativo,Lucía Mamani Nina,Bajo,
+BIA02,Planificación y ejecución de servicios en operación,Alta,72,48,ERP corporativo,Miguel Apaza Medina,Alto,
+BIA03,Gestión de seguridad y salud ocupacional,Alta,4,8,Gestión de seguridad y salud ocupacional,Luis Colque Núñez,Alto,2025-08-07
+BIA04,Control de personal y campamento,Alta,48,1,Control de personal en campamento,Hugo Mamani Ancco,Alto,
+BIA05,Mantenimiento de equipos,Baja,4,24,Gestión de mantenimiento de equipos,Teresa Medina Torres,Medio,2025-11-01
+BIA06,Facturación y valorizaciones,Alta,72,24,ERP corporativo,Óscar Ilaquita Núñez,Bajo,2025-01-02

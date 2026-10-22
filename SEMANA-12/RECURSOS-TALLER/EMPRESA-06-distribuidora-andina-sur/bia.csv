@@ -1,0 +1,7 @@
+id,proceso,criticidad,rto_horas,rpo_horas,sistema_soporte,responsable,impacto_24h,ultima_prueba
+BIA01,Compras a proveedores y reposición,Media,12,36,ERP comercial,Sofía Aguilar Rivera,Bajo,
+BIA02,Almacenamiento y despacho,Alta,72,8,Gestión de almacén,Ricardo Mamani Huanca,Bajo,2025-09-10
+BIA03,Venta y distribución en ruta,Alta,2,8,Fuerza de ventas móvil,Rocío Peralta Peralta,Alto,2025-07-02
+BIA04,Cobranza y crédito a clientes,Alta,72,1,ERP comercial,Ricardo Medina Salazar,Medio,2025-06-18
+BIA05,Tesorería y pagos,Baja,8,48,ERP comercial,Diana Zapana Núñez,Alto,
+BIA06,Contabilidad y cierre,Media,2,8,ERP comercial,Miguel Yufra Cáceres,Bajo,2025-06-07

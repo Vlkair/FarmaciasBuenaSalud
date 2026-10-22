@@ -1,0 +1,89 @@
+codigo_empleado,nombre,documento,area,cargo,fecha_ingreso,fecha_cese,correo,estado
+EMP0001,Hugo Choque Quispe,60039865,Contabilidad,Jefe,2017-05-14,,h.choque@instituto.com.pe,Activo
+EMP0002,Ana Medina Ilaquita,51323205,Comercial,Asistente,2022-10-17,,a.medina@instituto.com.pe,Activo
+EMP0003,Julio Copaja Flores,16528051,Compras,Asistente,2019-04-13,,j.copaja@instituto.com.pe,Activo
+EMP0004,Nadia Apaza Copaja,53607038,Administración y Finanzas,Jefe,2012-07-06,,n.apaza@instituto.com.pe,Activo
+EMP0005,Carlos Calisaya Paredes,48355374,Administración y Finanzas,Analista,2023-08-20,,c.calisaya@instituto.com.pe,Activo
+EMP0006,Julio Zapana Calisaya,46207764,Operaciones,Asistente,2025-02-06,2026-03-08,j.zapana@instituto.com.pe,Cesado
+EMP0007,Lucía Ramos Apaza,48180625,Operaciones,Supervisor,2025-10-20,,l.ramos@instituto.com.pe,Activo
+EMP0008,Luis Torres Apaza,49536635,Tecnologías de la Información,Asistente,2025-03-05,,l.torres@instituto.com.pe,Activo
+EMP0009,Alberto Bravo Cutipa,18443448,Tecnologías de la Información,Jefe,2016-12-02,,a.bravo@instituto.com.pe,Activo
+EMP0010,Alberto Bravo Yufra,23057924,Logística,Supervisor,2015-01-04,,a.bravo@instituto.com.pe,Activo
+EMP0011,Elena Ticona Ramos,59701914,Compras,Analista,2015-02-06,,e.ticona@instituto.com.pe,Activo
+EMP0012,Ricardo Cáceres Choque,18861637,Compras,Supervisor,2012-11-18,,r.cáceres@instituto.com.pe,Activo
+EMP0013,Elena Zapana Peralta,64023029,Compras,Operario,2012-05-24,,e.zapana@instituto.com.pe,Activo
+EMP0014,Fernando Flores Copaja,33928930,Almacén,Jefe,2015-04-23,,f.flores@instituto.com.pe,Activo
+EMP0015,Hugo Ilaquita Mamani,25918187,Tesorería,Operario,2012-04-08,,h.ilaquita@instituto.com.pe,Activo
+EMP0016,Elena Colque Cáceres,57848712,Comercial,Jefe,2015-02-16,,e.colque@instituto.com.pe,Activo
+EMP0017,Elena Vargas Rivera,69132956,Compras,Asistente,2025-02-06,,e.vargas@instituto.com.pe,Activo
+EMP0018,Álvaro Huanca Vargas,32770737,Compras,Coordinador,2015-05-01,,á.huanca@instituto.com.pe,Activo
+EMP0019,Sofía Bravo Zapana,66218727,Contabilidad,Jefe,2017-11-13,,s.bravo@instituto.com.pe,Activo
+EMP0020,Alberto Copaja Ilaquita,27307464,Contabilidad,Coordinador,2024-06-06,,a.copaja@instituto.com.pe,Activo
+EMP0021,Marco Chura Medina,32009023,Legal,Asistente,2025-08-24,,m.chura@instituto.com.pe,Activo
+EMP0022,Rosa Choque Maquera,63375918,Logística,Analista,2019-09-27,,r.choque@instituto.com.pe,Activo
+EMP0023,Lucía Núñez Aguilar,65663617,Legal,Analista,2011-09-13,,l.núñez@instituto.com.pe,Activo
+EMP0024,Julia Vargas Ramos,72925320,Operaciones,Operario,2015-02-17,,j.vargas@instituto.com.pe,Activo
+EMP0025,Karla Rivera Choque,59823449,Compras,Jefe,2016-10-27,,k.rivera@instituto.com.pe,Activo
+EMP0026,Carlos Choque Calisaya,50677573,Logística,Supervisor,2013-07-16,,c.choque@instituto.com.pe,Activo
+EMP0027,Rosa Colque Bravo,47013885,Administración y Finanzas,Operario,2017-10-26,,r.colque@instituto.com.pe,Activo
+EMP0028,Silvia Flores Paredes,11472194,Comercial,Operario,2013-06-02,,s.flores@instituto.com.pe,Activo
+EMP0029,Carmen Bravo Aguilar,31408457,Almacén,Coordinador,2020-03-10,,c.bravo@instituto.com.pe,Activo
+EMP0030,Lucía Colque Huanca,70584159,Administración y Finanzas,Supervisor,2015-10-20,2019-09-25,l.colque@instituto.com.pe,Cesado
+EMP0031,Sofía Copaja Colque,31169111,Administración y Finanzas,Coordinador,2013-05-15,2015-04-26,s.copaja@instituto.com.pe,Cesado
+EMP0032,Álvaro Ticona Ticona,54213986,Gerencia,Practicante,2012-09-07,,á.ticona@instituto.com.pe,Activo
+EMP0033,Jorge Vargas Torres,29733209,Tesorería,Coordinador,2013-08-04,,j.vargas@instituto.com.pe,Activo
+EMP0034,Óscar Apaza Calisaya,71797690,Comercial,Supervisor,2020-07-23,,ó.apaza@instituto.com.pe,Activo
+EMP0035,Óscar Copaja Zapana,15965931,Tesorería,Coordinador,2011-12-01,,ó.copaja@instituto.com.pe,Activo
+EMP0036,Diana Condori Ticona,35877180,Gerencia,Practicante,2020-02-27,,d.condori@instituto.com.pe,Activo
+EMP0037,Diana Ancco Choque,70094204,Legal,Practicante,2017-09-06,,d.ancco@instituto.com.pe,Activo
+EMP0038,Sofía Yufra Maquera,50942373,Legal,Practicante,2014-05-14,,s.yufra@instituto.com.pe,Activo
+EMP0039,Raúl Ticona Condori,40267224,Tesorería,Analista,2012-09-21,,r.ticona@instituto.com.pe,Activo
+EMP0040,Teresa Laura Núñez,36982103,Legal,Coordinador,2019-04-21,,t.laura@instituto.com.pe,Activo
+EMP0041,Silvia Zapana Peralta,45061163,Tesorería,Analista,2023-11-19,,s.zapana@instituto.com.pe,Activo
+EMP0042,Álvaro Huanca Nina,42310078,Administración y Finanzas,Coordinador,2024-09-02,,á.huanca@instituto.com.pe,Activo
+EMP0043,Lucía Bravo Flores,21400225,Tesorería,Practicante,2018-02-15,,l.bravo@instituto.com.pe,Activo
+EMP0044,Álvaro Medina Aguilar,10053935,Logística,Jefe,2018-09-15,,á.medina@instituto.com.pe,Activo
+EMP0045,Carmen Flores Calisaya,61105591,Comercial,Supervisor,2022-12-07,,c.flores@instituto.com.pe,Activo
+EMP0046,Marta Vargas Ramos,38465281,Recursos Humanos,Asistente,2020-10-18,2024-02-12,m.vargas@instituto.com.pe,Cesado
+EMP0047,Paola Vargas Salazar,65845765,Logística,Coordinador,2016-10-19,,p.vargas@instituto.com.pe,Activo
+EMP0048,Pedro Ancco Maquera,52555415,Tesorería,Analista,2011-03-21,,p.ancco@instituto.com.pe,Activo
+EMP0049,Rosa Colque Nina,65834135,Recursos Humanos,Coordinador,2024-09-25,,r.colque@instituto.com.pe,Activo
+EMP0050,Ana Peralta Bravo,33568110,Almacén,Supervisor,2012-02-05,,a.peralta@instituto.com.pe,Activo
+EMP0051,Silvia Huanca Paredes,77926566,Contabilidad,Coordinador,2013-05-27,,s.huanca@instituto.com.pe,Activo
+EMP0052,Álvaro Paredes Copaja,48927655,Contabilidad,Operario,2025-12-12,,á.paredes@instituto.com.pe,Activo
+EMP0053,Carmen Huanca Huanca,55393827,Comercial,Supervisor,2018-05-19,,c.huanca@instituto.com.pe,Activo
+EMP0054,Rosa Calisaya Maquera,59660797,Recursos Humanos,Asistente,2013-10-08,,r.calisaya@instituto.com.pe,Activo
+EMP0055,Óscar Laura Salazar,77118821,Operaciones,Supervisor,2015-02-02,,ó.laura@instituto.com.pe,Activo
+EMP0056,Carlos Vargas Cáceres,14216985,Logística,Supervisor,2012-08-24,2016-06-22,c.vargas@instituto.com.pe,Cesado
+EMP0057,Víctor Aguilar Apaza,20319461,Comercial,Supervisor,2020-09-02,,v.aguilar@instituto.com.pe,Activo
+EMP0058,Carlos Colque Flores,65235733,Almacén,Analista,2012-02-10,,c.colque@instituto.com.pe,Activo
+EMP0059,Alberto Quispe Choque,79454653,Operaciones,Practicante,2025-08-06,,a.quispe@instituto.com.pe,Activo
+EMP0060,Nadia Ancco Huanca,44798857,Tecnologías de la Información,Supervisor,2016-05-26,,n.ancco@instituto.com.pe,Activo
+EMP0061,Ricardo Yufra Torres,77527343,Tesorería,Coordinador,2014-09-10,,r.yufra@instituto.com.pe,Activo
+EMP0062,Nelson Rivera Ramos,26386529,Tesorería,Practicante,2025-07-14,,n.rivera@instituto.com.pe,Activo
+EMP0063,Gabriela Salazar Copaja,43253860,Tesorería,Operario,2014-01-11,,g.salazar@instituto.com.pe,Activo
+EMP0064,Miguel Flores Paredes,78052194,Tesorería,Practicante,2016-05-14,,m.flores@instituto.com.pe,Activo
+EMP0065,Karla Ancco Ticona,52875026,Logística,Jefe,2012-11-04,,k.ancco@instituto.com.pe,Activo
+EMP0066,Ana Ticona Ilaquita,43505113,Administración y Finanzas,Supervisor,2021-06-10,,a.ticona@instituto.com.pe,Activo
+EMP0067,Gabriela Maquera Núñez,65724855,Recursos Humanos,Supervisor,2025-02-01,,g.maquera@instituto.com.pe,Activo
+EMP0068,Sofía Ilaquita Copaja,23852900,Recursos Humanos,Analista,2012-08-13,,s.ilaquita@instituto.com.pe,Activo
+EMP0069,Julia Bravo Bravo,44017124,Compras,Supervisor,2025-10-19,,j.bravo@instituto.com.pe,Activo
+EMP0070,Lucía Ticona Mamani,20119867,Administración y Finanzas,Supervisor,2021-05-07,2023-10-25,l.ticona@instituto.com.pe,Cesado
+EMP0071,Vanessa Ticona Maquera,78506003,Recursos Humanos,Supervisor,2022-02-24,,v.ticona@instituto.com.pe,Activo
+EMP0072,Víctor Cáceres Aguilar,20796163,Administración y Finanzas,Operario,2017-07-11,,v.cáceres@instituto.com.pe,Activo
+EMP0073,Lucía Cáceres Salazar,29553044,Operaciones,Coordinador,2016-09-06,,l.cáceres@instituto.com.pe,Activo
+EMP0074,Diana Condori Copaja,18638724,Recursos Humanos,Analista,2019-04-08,2022-04-06,d.condori@instituto.com.pe,Cesado
+EMP0075,Julio Núñez Bravo,49849011,Tecnologías de la Información,Asistente,2017-11-13,,j.núñez@instituto.com.pe,Activo
+EMP0076,Lucía Maquera Apaza,14365160,Comercial,Analista,2022-09-20,,l.maquera@instituto.com.pe,Activo
+EMP0077,Fernando Nina Torres,27090528,Comercial,Supervisor,2012-02-15,,f.nina@instituto.com.pe,Activo
+EMP0078,Teresa Zapana Ramos,12180396,Legal,Coordinador,2017-01-26,,t.zapana@instituto.com.pe,Activo
+EMP0079,Gabriela Choque Chura,46807003,Almacén,Jefe,2021-11-02,,g.choque@instituto.com.pe,Activo
+EMP0080,Raúl Ticona Vargas,59136300,Recursos Humanos,Practicante,2012-03-10,,r.ticona@instituto.com.pe,Activo
+EMP0081,Raúl Ramos Bravo,65388816,Tesorería,Coordinador,2024-12-16,,r.ramos@instituto.com.pe,Activo
+EMP0082,Pedro Condori Cáceres,70040838,Legal,Operario,2016-06-22,,p.condori@instituto.com.pe,Activo
+EMP0083,Vanessa Ramos Ramos,65674554,Administración y Finanzas,Supervisor,2023-09-15,,v.ramos@instituto.com.pe,Activo
+EMP0084,Vanessa Ticona Zapana,47128153,Comercial,Coordinador,2025-03-14,,v.ticona@instituto.com.pe,Activo
+EMP0085,Alberto Calisaya Bravo,59512829,Contabilidad,Practicante,2016-06-05,,a.calisaya@instituto.com.pe,Activo
+EMP0086,Álvaro Apaza Chura,51509761,Contabilidad,Coordinador,2023-03-02,,á.apaza@instituto.com.pe,Activo
+EMP0087,Julia Ramos Ticona,63777259,Comercial,Coordinador,2011-03-19,,j.ramos@instituto.com.pe,Activo
+EMP0088,Karla Choque Condori,30442134,Tesorería,Practicante,2023-11-18,,k.choque@instituto.com.pe,Activo

@@ -1,0 +1,4 @@
+id,nombre,anio,presupuesto,ejecutado,beneficio_declarado,beneficio_medido,responsable
+INV01,Videovigilancia,2025,297960.6,481693.41,Cumplimiento normativo,No se midió,Miguel Chura Cutipa
+INV02,Actualización de licencias,2025,122789.0,141758.23,Reducción de tiempo de proceso,No se midió,Víctor Flores Flores
+INV03,Enlace de datos redundante,2025,68244.93,84706.75,Ahorro en licencias,Parcial,Luis Quispe Calisaya

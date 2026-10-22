@@ -1,0 +1,313 @@
+codigo_empleado,nombre,documento,area,cargo,fecha_ingreso,fecha_cese,correo,estado
+EMP0001,Teresa Zapana Condori,40611020,Administración y Finanzas,Supervisor,2019-07-27,2024-10-28,t.zapana@eps.com.pe,Cesado
+EMP0002,Alberto Núñez Cáceres,61757364,Operaciones,Jefe,2014-05-23,,a.núñez@eps.com.pe,Activo
+EMP0003,Rocío Torres Zapana,57530939,Administración y Finanzas,Operario,2017-10-01,,r.torres@eps.com.pe,Activo
+EMP0004,Óscar Zapana Salazar,76644622,Operaciones,Analista,2013-09-11,,ó.zapana@eps.com.pe,Activo
+EMP0005,Ricardo Nina Mamani,67582932,Tecnologías de la Información,Analista,2018-06-27,,r.nina@eps.com.pe,Activo
+EMP0006,Víctor Laura Torres,56671550,Operaciones,Coordinador,2022-01-10,2022-08-25,v.laura@eps.com.pe,Cesado
+EMP0007,Marco Apaza Quispe,29044091,Operaciones,Operario,2013-09-14,,m.apaza@eps.com.pe,Activo
+EMP0008,Rosa Choque Nina,48957060,Recursos Humanos,Supervisor,2020-12-13,,r.choque@eps.com.pe,Activo
+EMP0009,Jorge Bravo Nina,39644303,Almacén,Asistente,2021-09-13,2023-04-22,j.bravo@eps.com.pe,Cesado
+EMP0010,Marco Salazar Ilaquita,19762454,Tecnologías de la Información,Practicante,2015-07-08,,m.salazar@eps.com.pe,Activo
+EMP0011,Jorge Condori Cutipa,31137237,Logística,Supervisor,2014-05-12,,j.condori@eps.com.pe,Activo
+EMP0012,Diana Salazar Laura,14569640,Contabilidad,Analista,2020-02-17,,d.salazar@eps.com.pe,Activo
+EMP0013,Jorge Apaza Flores,51344562,Logística,Jefe,2018-08-02,,j.apaza@eps.com.pe,Activo
+EMP0014,Rocío Zapana Núñez,30012555,Logística,Analista,2019-09-24,,r.zapana@eps.com.pe,Activo
+EMP0015,Ana Cutipa Núñez,48880854,Administración y Finanzas,Coordinador,2022-02-22,,a.cutipa@eps.com.pe,Activo
+EMP0016,Alberto Calisaya Maquera,21388932,Administración y Finanzas,Jefe,2011-02-09,,a.calisaya@eps.com.pe,Activo
+EMP0017,Luis Zapana Ilaquita,75539861,Comercial,Asistente,2022-10-16,,l.zapana@eps.com.pe,Activo
+EMP0018,Óscar Peralta Peralta,40127262,Comercial,Jefe,2024-02-23,,ó.peralta@eps.com.pe,Activo
+EMP0019,Nelson Salazar Ticona,77439906,Administración y Finanzas,Supervisor,2020-11-16,,n.salazar@eps.com.pe,Activo
+EMP0020,Carmen Zapana Rivera,46532980,Contabilidad,Practicante,2013-04-01,,c.zapana@eps.com.pe,Activo
+EMP0021,Jorge Apaza Núñez,46007951,Administración y Finanzas,Analista,2019-07-03,,j.apaza@eps.com.pe,Activo
+EMP0022,Gabriela Bravo Quispe,59381582,Gerencia,Supervisor,2025-02-20,2031-08-30,g.bravo@eps.com.pe,Cesado
+EMP0023,Iván Vargas Ilaquita,74398463,Administración y Finanzas,Jefe,2024-03-06,,i.vargas@eps.com.pe,Activo
+EMP0024,Pedro Condori Ilaquita,53554605,Gerencia,Practicante,2018-11-20,,p.condori@eps.com.pe,Activo
+EMP0025,Carmen Cáceres Colque,32906424,Contabilidad,Analista,2015-02-06,,c.cáceres@eps.com.pe,Activo
+EMP0026,Álvaro Chura Maquera,18056400,Comercial,Operario,2023-08-24,,á.chura@eps.com.pe,Activo
+EMP0027,Teresa Maquera Núñez,69190905,Legal,Analista,2014-01-02,,t.maquera@eps.com.pe,Activo
+EMP0028,Paola Ticona Ilaquita,44469392,Gerencia,Jefe,2016-12-03,,p.ticona@eps.com.pe,Activo
+EMP0029,Vanessa Chura Vargas,78937075,Gerencia,Jefe,2020-02-05,,v.chura@eps.com.pe,Activo
+EMP0030,Óscar Salazar Rivera,47043951,Almacén,Practicante,2011-06-25,,ó.salazar@eps.com.pe,Activo
+EMP0031,Vanessa Chura Cutipa,59316774,Administración y Finanzas,Practicante,2016-11-02,,v.chura@eps.com.pe,Activo
+EMP0032,Pedro Torres Laura,29660744,Contabilidad,Supervisor,2018-07-12,,p.torres@eps.com.pe,Activo
+EMP0033,Marco Zapana Nina,20711011,Compras,Analista,2017-01-01,,m.zapana@eps.com.pe,Activo
+EMP0034,Carmen Calisaya Núñez,53462446,Legal,Jefe,2011-12-11,,c.calisaya@eps.com.pe,Activo
+EMP0035,Sofía Chura Cáceres,42050704,Tecnologías de la Información,Analista,2018-08-02,,s.chura@eps.com.pe,Activo
+EMP0036,Karla Ancco Torres,23903228,Tesorería,Practicante,2015-04-10,,k.ancco@eps.com.pe,Activo
+EMP0037,Carlos Cutipa Huanca,77860982,Tesorería,Supervisor,2013-02-07,,c.cutipa@eps.com.pe,Activo
+EMP0038,Nadia Copaja Salazar,44309890,Operaciones,Supervisor,2012-05-13,,n.copaja@eps.com.pe,Activo
+EMP0039,Carmen Aguilar Chura,71085773,Gerencia,Analista,2023-08-24,,c.aguilar@eps.com.pe,Activo
+EMP0040,Lucía Vargas Ancco,40658751,Compras,Jefe,2019-10-11,,l.vargas@eps.com.pe,Activo
+EMP0041,Nelson Ancco Chura,45346152,Almacén,Analista,2017-05-11,,n.ancco@eps.com.pe,Activo
+EMP0042,Lucía Ticona Huanca,73482579,Tesorería,Coordinador,2013-05-25,,l.ticona@eps.com.pe,Activo
+EMP0043,Carlos Nina Peralta,44174214,Comercial,Analista,2015-02-12,2021-07-29,c.nina@eps.com.pe,Cesado
+EMP0044,Nelson Peralta Copaja,54265998,Almacén,Practicante,2020-11-26,2022-02-08,n.peralta@eps.com.pe,Cesado
+EMP0045,Ricardo Medina Aguilar,53534470,Almacén,Jefe,2014-06-10,,r.medina@eps.com.pe,Activo
+EMP0046,Gabriela Zapana Choque,24024289,Recursos Humanos,Analista,2019-12-10,,g.zapana@eps.com.pe,Activo
+EMP0047,Iván Yufra Paredes,42192524,Gerencia,Operario,2022-10-26,,i.yufra@eps.com.pe,Activo
+EMP0048,Víctor Peralta Salazar,78425350,Almacén,Operario,2015-05-12,,v.peralta@eps.com.pe,Activo
+EMP0049,Pedro Ilaquita Mamani,56828412,Legal,Analista,2020-03-06,2026-03-30,p.ilaquita@eps.com.pe,Cesado
+EMP0050,Álvaro Rivera Cutipa,25175854,Almacén,Supervisor,2021-05-15,2024-08-30,á.rivera@eps.com.pe,Cesado
+EMP0051,Óscar Peralta Rivera,70176140,Tesorería,Operario,2022-06-18,,ó.peralta@eps.com.pe,Activo
+EMP0052,Karla Copaja Rivera,50539554,Contabilidad,Analista,2013-12-09,,k.copaja@eps.com.pe,Activo
+EMP0053,Ricardo Núñez Ramos,71506046,Operaciones,Supervisor,2014-03-20,,r.núñez@eps.com.pe,Activo
+EMP0054,Paola Colque Yufra,65065344,Recursos Humanos,Coordinador,2025-06-03,,p.colque@eps.com.pe,Activo
+EMP0055,Lucía Vargas Yufra,18044148,Compras,Analista,2019-03-01,,l.vargas@eps.com.pe,Activo
+EMP0056,Pedro Ancco Torres,76037724,Legal,Asistente,2016-10-08,,p.ancco@eps.com.pe,Activo
+EMP0057,Vanessa Flores Paredes,25034443,Almacén,Analista,2024-03-14,,v.flores@eps.com.pe,Activo
+EMP0058,Marco Yufra Peralta,18641679,Tecnologías de la Información,Analista,2025-01-25,,m.yufra@eps.com.pe,Activo
+EMP0059,Raúl Torres Colque,16495510,Administración y Finanzas,Jefe,2014-05-25,,r.torres@eps.com.pe,Activo
+EMP0060,Lucía Peralta Peralta,33965994,Tecnologías de la Información,Asistente,2014-11-15,,l.peralta@eps.com.pe,Activo
+EMP0061,Rocío Choque Vargas,23688862,Tesorería,Practicante,2012-06-09,,r.choque@eps.com.pe,Activo
+EMP0062,Nadia Cutipa Medina,52626520,Tesorería,Supervisor,2017-08-17,,n.cutipa@eps.com.pe,Activo
+EMP0063,Luis Salazar Ramos,56502837,Recursos Humanos,Operario,2018-11-24,,l.salazar@eps.com.pe,Activo
+EMP0064,Teresa Mamani Peralta,74561393,Administración y Finanzas,Operario,2015-10-25,,t.mamani@eps.com.pe,Activo
+EMP0065,Víctor Rivera Rivera,70343282,Tesorería,Jefe,2021-12-22,,v.rivera@eps.com.pe,Activo
+EMP0066,Ricardo Quispe Chura,47515478,Tesorería,Coordinador,2023-12-16,,r.quispe@eps.com.pe,Activo
+EMP0067,Alberto Calisaya Peralta,17228849,Logística,Asistente,2023-06-13,2027-12-26,a.calisaya@eps.com.pe,Cesado
+EMP0068,Paola Cáceres Copaja,59917010,Operaciones,Jefe,2014-01-04,,p.cáceres@eps.com.pe,Activo
+EMP0069,Fernando Ticona Huanca,20920576,Gerencia,Jefe,2015-08-22,2017-09-13,f.ticona@eps.com.pe,Cesado
+EMP0070,Marta Apaza Yufra,34153318,Logística,Operario,2022-07-05,2029-04-27,m.apaza@eps.com.pe,Cesado
+EMP0071,Carlos Vargas Ticona,30802665,Tesorería,Supervisor,2014-01-23,,c.vargas@eps.com.pe,Activo
+EMP0072,Miguel Mamani Salazar,12891874,Tesorería,Supervisor,2015-10-25,2017-11-27,m.mamani@eps.com.pe,Cesado
+EMP0073,Ricardo Vargas Cáceres,67900468,Gerencia,Asistente,2018-02-10,,r.vargas@eps.com.pe,Activo
+EMP0074,Karla Flores Torres,71128651,Legal,Asistente,2011-05-10,,k.flores@eps.com.pe,Activo
+EMP0075,Iván Ancco Mamani,34154406,Logística,Coordinador,2014-11-23,,i.ancco@eps.com.pe,Activo
+EMP0076,Iván Flores Cutipa,49655946,Recursos Humanos,Operario,2021-11-03,,i.flores@eps.com.pe,Activo
+EMP0077,Hugo Núñez Paredes,21370357,Operaciones,Jefe,2020-04-05,,h.núñez@eps.com.pe,Activo
+EMP0078,Ana Huanca Bravo,74211910,Recursos Humanos,Asistente,2015-10-03,2019-08-17,a.huanca@eps.com.pe,Cesado
+EMP0079,Alberto Mamani Flores,32451225,Compras,Operario,2019-05-03,,a.mamani@eps.com.pe,Activo
+EMP0080,Carlos Peralta Colque,60603727,Tecnologías de la Información,Asistente,2020-11-24,2025-11-23,c.peralta@eps.com.pe,Cesado
+EMP0081,Óscar Cáceres Calisaya,75433647,Gerencia,Analista,2023-06-18,,ó.cáceres@eps.com.pe,Activo
+EMP0082,Raúl Ilaquita Flores,46497630,Operaciones,Analista,2013-08-14,,r.ilaquita@eps.com.pe,Activo
+EMP0083,Rocío Choque Cáceres,40939298,Gerencia,Analista,2011-03-17,2011-12-17,r.choque@eps.com.pe,Cesado
+EMP0084,Carlos Flores Chura,63697451,Operaciones,Analista,2014-07-06,,c.flores@eps.com.pe,Activo
+EMP0085,Iván Vargas Yufra,35558332,Contabilidad,Practicante,2018-03-12,,i.vargas@eps.com.pe,Activo
+EMP0086,Fernando Cutipa Ticona,25220791,Legal,Asistente,2025-05-01,,f.cutipa@eps.com.pe,Activo
+EMP0087,Vanessa Salazar Copaja,22015566,Comercial,Supervisor,2012-05-15,,v.salazar@eps.com.pe,Activo
+EMP0088,Álvaro Flores Ticona,32258281,Tecnologías de la Información,Practicante,2024-11-12,,á.flores@eps.com.pe,Activo
+EMP0089,Ricardo Ramos Yufra,69926907,Gerencia,Asistente,2022-04-06,,r.ramos@eps.com.pe,Activo
+EMP0090,Víctor Quispe Ticona,31514436,Contabilidad,Analista,2019-07-13,,v.quispe@eps.com.pe,Activo
+EMP0091,Karla Rivera Chura,37294766,Compras,Coordinador,2020-03-03,,k.rivera@eps.com.pe,Activo
+EMP0092,Víctor Nina Quispe,75232723,Logística,Jefe,2016-06-19,,v.nina@eps.com.pe,Activo
+EMP0093,Lucía Peralta Maquera,34183431,Administración y Finanzas,Analista,2020-12-25,2021-12-29,l.peralta@eps.com.pe,Cesado
+EMP0094,Álvaro Maquera Chura,15764559,Gerencia,Operario,2016-11-12,,á.maquera@eps.com.pe,Activo
+EMP0095,Víctor Ilaquita Calisaya,78283273,Contabilidad,Supervisor,2020-04-25,,v.ilaquita@eps.com.pe,Activo
+EMP0096,Elena Condori Bravo,44623272,Recursos Humanos,Supervisor,2015-09-07,,e.condori@eps.com.pe,Activo
+EMP0097,Hugo Ticona Vargas,75736929,Logística,Supervisor,2015-02-12,,h.ticona@eps.com.pe,Activo
+EMP0098,Nadia Choque Zapana,76805483,Gerencia,Operario,2025-04-20,,n.choque@eps.com.pe,Activo
+EMP0099,Teresa Huanca Maquera,18863345,Tecnologías de la Información,Coordinador,2012-04-27,,t.huanca@eps.com.pe,Activo
+EMP0100,Iván Rivera Paredes,75514972,Almacén,Analista,2011-02-20,2016-08-21,i.rivera@eps.com.pe,Cesado
+EMP0101,Silvia Rivera Ticona,49960832,Almacén,Coordinador,2011-12-04,2012-07-25,s.rivera@eps.com.pe,Cesado
+EMP0102,Iván Laura Ramos,26597599,Logística,Practicante,2021-02-21,,i.laura@eps.com.pe,Activo
+EMP0103,Marta Cutipa Colque,54460435,Comercial,Practicante,2022-09-21,,m.cutipa@eps.com.pe,Activo
+EMP0104,Julio Paredes Ramos,19462738,Almacén,Operario,2018-12-15,,j.paredes@eps.com.pe,Activo
+EMP0105,Rocío Ticona Peralta,69803984,Contabilidad,Operario,2019-06-12,,r.ticona@eps.com.pe,Activo
+EMP0106,Álvaro Ilaquita Torres,64932720,Contabilidad,Jefe,2013-03-12,,á.ilaquita@eps.com.pe,Activo
+EMP0107,Ricardo Ramos Huanca,42346616,Tesorería,Practicante,2015-10-20,,r.ramos@eps.com.pe,Activo
+EMP0108,Elena Rivera Salazar,56923710,Gerencia,Practicante,2016-07-01,,e.rivera@eps.com.pe,Activo
+EMP0109,Álvaro Choque Chura,78374362,Logística,Coordinador,2025-09-21,2032-05-19,á.choque@eps.com.pe,Cesado
+EMP0110,Carlos Peralta Colque,48361079,Contabilidad,Asistente,2019-01-12,,c.peralta@eps.com.pe,Activo
+EMP0111,Víctor Núñez Nina,16536268,Tesorería,Operario,2014-01-01,2019-11-14,v.núñez@eps.com.pe,Cesado
+EMP0112,Miguel Peralta Maquera,59207562,Contabilidad,Asistente,2021-05-13,,m.peralta@eps.com.pe,Activo
+EMP0113,Lucía Yufra Apaza,62540659,Compras,Practicante,2021-05-12,,l.yufra@eps.com.pe,Activo
+EMP0114,Gabriela Paredes Mamani,12378902,Comercial,Asistente,2012-03-11,2013-01-18,g.paredes@eps.com.pe,Cesado
+EMP0115,Rocío Apaza Medina,73759487,Gerencia,Coordinador,2011-05-15,,r.apaza@eps.com.pe,Activo
+EMP0116,Víctor Bravo Cáceres,63985653,Comercial,Operario,2025-11-26,,v.bravo@eps.com.pe,Activo
+EMP0117,Raúl Peralta Medina,56278119,Gerencia,Practicante,2019-10-13,,r.peralta@eps.com.pe,Activo
+EMP0118,Diana Rivera Aguilar,51479156,Contabilidad,Coordinador,2019-02-15,,d.rivera@eps.com.pe,Activo
+EMP0119,Silvia Apaza Ancco,49291698,Almacén,Operario,2021-08-02,,s.apaza@eps.com.pe,Activo
+EMP0120,Nelson Cutipa Ramos,10219159,Logística,Operario,2025-08-09,,n.cutipa@eps.com.pe,Activo
+EMP0121,Marco Zapana Ramos,60248364,Contabilidad,Jefe,2013-08-12,,m.zapana@eps.com.pe,Activo
+EMP0122,Karla Ancco Maquera,33969193,Legal,Practicante,2022-03-27,,k.ancco@eps.com.pe,Activo
+EMP0123,Nelson Choque Huanca,30509070,Operaciones,Operario,2024-05-01,,n.choque@eps.com.pe,Activo
+EMP0124,Paola Colque Núñez,47239348,Administración y Finanzas,Asistente,2016-06-03,,p.colque@eps.com.pe,Activo
+EMP0125,Lucía Colque Rivera,36525571,Recursos Humanos,Practicante,2024-08-15,,l.colque@eps.com.pe,Activo
+EMP0126,Nadia Ticona Apaza,29642584,Comercial,Analista,2017-02-27,,n.ticona@eps.com.pe,Activo
+EMP0127,Miguel Chura Ticona,33315821,Administración y Finanzas,Coordinador,2014-05-01,,m.chura@eps.com.pe,Activo
+EMP0128,Ana Apaza Salazar,14076956,Comercial,Asistente,2018-07-12,,a.apaza@eps.com.pe,Activo
+EMP0129,Marta Núñez Copaja,59443386,Contabilidad,Supervisor,2012-09-02,,m.núñez@eps.com.pe,Activo
+EMP0130,Miguel Maquera Zapana,47719433,Comercial,Practicante,2024-05-24,,m.maquera@eps.com.pe,Activo
+EMP0131,Óscar Vargas Ticona,45099102,Contabilidad,Analista,2011-08-27,,ó.vargas@eps.com.pe,Activo
+EMP0132,Nelson Salazar Vargas,58045890,Contabilidad,Jefe,2022-01-09,,n.salazar@eps.com.pe,Activo
+EMP0133,Diana Zapana Rivera,69893031,Administración y Finanzas,Analista,2017-01-10,,d.zapana@eps.com.pe,Activo
+EMP0134,Fernando Ramos Ancco,25732645,Operaciones,Jefe,2021-05-03,,f.ramos@eps.com.pe,Activo
+EMP0135,Carlos Flores Vargas,60531178,Gerencia,Practicante,2013-11-11,,c.flores@eps.com.pe,Activo
+EMP0136,Óscar Medina Flores,52816320,Compras,Asistente,2025-01-21,,ó.medina@eps.com.pe,Activo
+EMP0137,Diana Ticona Salazar,10056464,Logística,Analista,2012-01-21,,d.ticona@eps.com.pe,Activo
+EMP0138,Pedro Ilaquita Rivera,66889798,Gerencia,Practicante,2019-11-09,,p.ilaquita@eps.com.pe,Activo
+EMP0139,Fernando Ramos Ticona,37066002,Compras,Coordinador,2022-07-09,,f.ramos@eps.com.pe,Activo
+EMP0140,Elena Vargas Salazar,71770879,Recursos Humanos,Supervisor,2020-07-10,,e.vargas@eps.com.pe,Activo
+EMP0141,Carmen Medina Rivera,64942413,Tecnologías de la Información,Practicante,2024-11-14,2028-10-18,c.medina@eps.com.pe,Cesado
+EMP0142,Elena Apaza Bravo,75375074,Recursos Humanos,Practicante,2013-01-01,,e.apaza@eps.com.pe,Activo
+EMP0143,Julia Ancco Chura,17526257,Compras,Jefe,2011-04-09,2016-09-03,j.ancco@eps.com.pe,Cesado
+EMP0144,Hugo Yufra Cutipa,10723014,Tesorería,Supervisor,2020-09-09,,h.yufra@eps.com.pe,Activo
+EMP0145,Gabriela Choque Cutipa,20394946,Comercial,Analista,2024-03-14,2029-04-03,g.choque@eps.com.pe,Cesado
+EMP0146,Pedro Zapana Ramos,12411242,Comercial,Asistente,2024-08-25,2030-09-06,p.zapana@eps.com.pe,Cesado
+EMP0147,Nelson Peralta Salazar,10180781,Tecnologías de la Información,Supervisor,2022-05-15,,n.peralta@eps.com.pe,Activo
+EMP0148,Julio Apaza Nina,60694533,Administración y Finanzas,Practicante,2013-10-15,,j.apaza@eps.com.pe,Activo
+EMP0149,Víctor Bravo Ticona,35981637,Almacén,Supervisor,2014-05-03,,v.bravo@eps.com.pe,Activo
+EMP0150,Carmen Huanca Maquera,42704481,Logística,Operario,2019-11-10,,c.huanca@eps.com.pe,Activo
+EMP0151,Rocío Cáceres Peralta,17887528,Recursos Humanos,Asistente,2011-03-08,,r.cáceres@eps.com.pe,Activo
+EMP0152,Vanessa Maquera Salazar,30776695,Administración y Finanzas,Supervisor,2025-05-08,,v.maquera@eps.com.pe,Activo
+EMP0153,Carmen Núñez Flores,75896728,Gerencia,Asistente,2014-05-04,,c.núñez@eps.com.pe,Activo
+EMP0154,Raúl Apaza Apaza,62461095,Tesorería,Asistente,2013-08-13,2017-09-02,r.apaza@eps.com.pe,Cesado
+EMP0155,Ricardo Ancco Paredes,39751507,Compras,Coordinador,2016-09-18,,r.ancco@eps.com.pe,Activo
+EMP0156,Julia Ancco Ilaquita,17226539,Tecnologías de la Información,Jefe,2012-03-23,,j.ancco@eps.com.pe,Activo
+EMP0157,Lucía Bravo Copaja,78701670,Recursos Humanos,Coordinador,2021-09-04,,l.bravo@eps.com.pe,Activo
+EMP0158,Diana Vargas Yufra,30713368,Administración y Finanzas,Operario,2013-07-24,,d.vargas@eps.com.pe,Activo
+EMP0159,Teresa Calisaya Zapana,74404463,Administración y Finanzas,Practicante,2017-08-13,,t.calisaya@eps.com.pe,Activo
+EMP0160,Iván Maquera Cutipa,19543475,Comercial,Operario,2019-01-04,,i.maquera@eps.com.pe,Activo
+EMP0161,Vanessa Yufra Paredes,48696000,Administración y Finanzas,Coordinador,2023-09-04,,v.yufra@eps.com.pe,Activo
+EMP0162,Marco Yufra Calisaya,12963837,Operaciones,Supervisor,2025-10-11,2031-01-03,m.yufra@eps.com.pe,Cesado
+EMP0163,Iván Salazar Núñez,54945411,Gerencia,Coordinador,2021-05-20,,i.salazar@eps.com.pe,Activo
+EMP0164,Álvaro Bravo Flores,58600858,Legal,Operario,2024-01-21,,á.bravo@eps.com.pe,Activo
+EMP0165,Iván Cáceres Núñez,36778430,Gerencia,Coordinador,2013-12-19,,i.cáceres@eps.com.pe,Activo
+EMP0166,Pedro Núñez Copaja,20528091,Contabilidad,Jefe,2022-05-27,2026-02-23,p.núñez@eps.com.pe,Cesado
+EMP0167,Raúl Bravo Paredes,46851056,Tesorería,Analista,2012-09-21,,r.bravo@eps.com.pe,Activo
+EMP0168,Elena Bravo Copaja,37694296,Contabilidad,Coordinador,2018-12-25,,e.bravo@eps.com.pe,Activo
+EMP0169,Óscar Chura Peralta,37586371,Comercial,Practicante,2018-08-16,2021-11-03,ó.chura@eps.com.pe,Cesado
+EMP0170,Marta Mamani Rivera,28535622,Recursos Humanos,Analista,2020-02-23,,m.mamani@eps.com.pe,Activo
+EMP0171,Carlos Núñez Ancco,11148449,Logística,Analista,2019-03-17,,c.núñez@eps.com.pe,Activo
+EMP0172,Pedro Vargas Aguilar,74988989,Recursos Humanos,Coordinador,2022-03-22,2027-06-21,p.vargas@eps.com.pe,Cesado
+EMP0173,Iván Vargas Vargas,10280845,Almacén,Operario,2022-12-11,,i.vargas@eps.com.pe,Activo
+EMP0174,Rocío Ancco Ancco,23244263,Tesorería,Coordinador,2016-08-09,,r.ancco@eps.com.pe,Activo
+EMP0175,Ana Paredes Paredes,77408410,Compras,Operario,2021-04-21,,a.paredes@eps.com.pe,Activo
+EMP0176,Ana Aguilar Núñez,12295369,Gerencia,Coordinador,2024-02-13,,a.aguilar@eps.com.pe,Activo
+EMP0177,Óscar Condori Peralta,23782320,Compras,Jefe,2015-01-15,2020-03-06,ó.condori@eps.com.pe,Cesado
+EMP0178,Óscar Condori Salazar,68302202,Administración y Finanzas,Operario,2020-01-02,,ó.condori@eps.com.pe,Activo
+EMP0179,Teresa Nina Ticona,39096484,Gerencia,Operario,2014-10-10,,t.nina@eps.com.pe,Activo
+EMP0180,Carlos Yufra Medina,66439313,Contabilidad,Analista,2017-04-17,,c.yufra@eps.com.pe,Activo
+EMP0181,Silvia Cáceres Núñez,53992404,Gerencia,Asistente,2015-01-01,,s.cáceres@eps.com.pe,Activo
+EMP0182,Paola Quispe Torres,17054022,Legal,Jefe,2025-09-01,,p.quispe@eps.com.pe,Activo
+EMP0183,Karla Flores Zapana,52079274,Tecnologías de la Información,Supervisor,2018-05-17,,k.flores@eps.com.pe,Activo
+EMP0184,Karla Vargas Cáceres,26148880,Tecnologías de la Información,Operario,2011-02-18,2017-07-22,k.vargas@eps.com.pe,Cesado
+EMP0185,Paola Zapana Chura,32083582,Recursos Humanos,Jefe,2011-07-15,,p.zapana@eps.com.pe,Activo
+EMP0186,Diana Condori Peralta,51232251,Operaciones,Analista,2016-08-21,,d.condori@eps.com.pe,Activo
+EMP0187,Julia Medina Vargas,13551345,Recursos Humanos,Coordinador,2011-09-13,,j.medina@eps.com.pe,Activo
+EMP0188,Julia Cutipa Huanca,11471435,Contabilidad,Asistente,2016-04-10,,j.cutipa@eps.com.pe,Activo
+EMP0189,Sofía Chura Aguilar,43202202,Legal,Analista,2020-08-14,,s.chura@eps.com.pe,Activo
+EMP0190,Carmen Cutipa Chura,16149381,Recursos Humanos,Supervisor,2019-08-09,,c.cutipa@eps.com.pe,Activo
+EMP0191,Silvia Choque Peralta,35363272,Contabilidad,Supervisor,2016-06-06,,s.choque@eps.com.pe,Activo
+EMP0192,Carlos Ticona Aguilar,73903649,Recursos Humanos,Supervisor,2013-11-27,2019-01-10,c.ticona@eps.com.pe,Cesado
+EMP0193,Jorge Núñez Zapana,49890047,Operaciones,Supervisor,2019-08-17,,j.núñez@eps.com.pe,Activo
+EMP0194,Álvaro Peralta Flores,72863950,Tesorería,Asistente,2019-02-16,,á.peralta@eps.com.pe,Activo
+EMP0195,Rocío Bravo Vargas,69595298,Tesorería,Practicante,2021-04-22,,r.bravo@eps.com.pe,Activo
+EMP0196,Vanessa Laura Ticona,75825935,Compras,Analista,2022-06-07,,v.laura@eps.com.pe,Activo
+EMP0197,Raúl Chura Ancco,57538096,Logística,Asistente,2017-04-26,,r.chura@eps.com.pe,Activo
+EMP0198,Vanessa Apaza Mamani,28179168,Tecnologías de la Información,Asistente,2014-05-25,,v.apaza@eps.com.pe,Activo
+EMP0199,Rocío Medina Vargas,29735903,Tecnologías de la Información,Coordinador,2021-11-02,,r.medina@eps.com.pe,Activo
+EMP0200,Carlos Zapana Copaja,23008486,Contabilidad,Analista,2021-01-25,,c.zapana@eps.com.pe,Activo
+EMP0201,Silvia Huanca Chura,31775018,Contabilidad,Asistente,2020-10-26,,s.huanca@eps.com.pe,Activo
+EMP0202,Silvia Laura Nina,48648419,Logística,Analista,2016-10-14,,s.laura@eps.com.pe,Activo
+EMP0203,Elena Peralta Quispe,64648233,Tecnologías de la Información,Supervisor,2019-03-01,,e.peralta@eps.com.pe,Activo
+EMP0204,Carmen Chura Bravo,75720689,Compras,Practicante,2024-02-19,,c.chura@eps.com.pe,Activo
+EMP0205,Nadia Choque Yufra,73494460,Recursos Humanos,Jefe,2020-07-10,,n.choque@eps.com.pe,Activo
+EMP0206,Álvaro Nina Aguilar,65877176,Tecnologías de la Información,Operario,2016-08-17,2017-04-08,á.nina@eps.com.pe,Cesado
+EMP0207,Luis Chura Paredes,41076363,Contabilidad,Supervisor,2018-10-26,,l.chura@eps.com.pe,Activo
+EMP0208,Vanessa Choque Quispe,39742610,Contabilidad,Practicante,2022-10-23,,v.choque@eps.com.pe,Activo
+EMP0209,Teresa Ramos Vargas,76304222,Comercial,Supervisor,2022-03-05,,t.ramos@eps.com.pe,Activo
+EMP0210,Julio Choque Vargas,16529115,Tesorería,Practicante,2021-10-11,,j.choque@eps.com.pe,Activo
+EMP0211,Paola Mamani Peralta,44565151,Gerencia,Analista,2013-07-07,,p.mamani@eps.com.pe,Activo
+EMP0212,Álvaro Ancco Cutipa,12961022,Administración y Finanzas,Coordinador,2012-03-17,,á.ancco@eps.com.pe,Activo
+EMP0213,Óscar Chura Colque,72628819,Tecnologías de la Información,Operario,2016-10-25,,ó.chura@eps.com.pe,Activo
+EMP0214,Ana Copaja Torres,47550280,Administración y Finanzas,Jefe,2013-11-02,2018-07-03,a.copaja@eps.com.pe,Cesado
+EMP0215,Raúl Salazar Chura,62882791,Administración y Finanzas,Operario,2022-07-14,,r.salazar@eps.com.pe,Activo
+EMP0216,Silvia Cáceres Apaza,10224668,Compras,Operario,2018-06-11,2021-02-19,s.cáceres@eps.com.pe,Cesado
+EMP0217,Iván Yufra Cáceres,44507892,Comercial,Coordinador,2012-02-27,,i.yufra@eps.com.pe,Activo
+EMP0218,Víctor Maquera Cutipa,32514519,Tecnologías de la Información,Coordinador,2017-04-19,,v.maquera@eps.com.pe,Activo
+EMP0219,Luis Choque Chura,44960246,Operaciones,Operario,2015-03-09,,l.choque@eps.com.pe,Activo
+EMP0220,Raúl Laura Choque,28671160,Contabilidad,Operario,2024-07-05,,r.laura@eps.com.pe,Activo
+EMP0221,Paola Calisaya Calisaya,30869073,Compras,Supervisor,2021-09-12,,p.calisaya@eps.com.pe,Activo
+EMP0222,Marco Núñez Aguilar,29507149,Operaciones,Analista,2013-05-21,,m.núñez@eps.com.pe,Activo
+EMP0223,Karla Apaza Ticona,16354123,Recursos Humanos,Analista,2013-01-08,,k.apaza@eps.com.pe,Activo
+EMP0224,Carmen Calisaya Bravo,45959627,Tecnologías de la Información,Jefe,2011-09-04,,c.calisaya@eps.com.pe,Activo
+EMP0225,Nelson Torres Núñez,66172644,Gerencia,Operario,2020-10-21,,n.torres@eps.com.pe,Activo
+EMP0226,Fernando Flores Cáceres,77314049,Tesorería,Coordinador,2012-01-15,,f.flores@eps.com.pe,Activo
+EMP0227,Luis Cutipa Ramos,42619164,Contabilidad,Analista,2019-02-20,,l.cutipa@eps.com.pe,Activo
+EMP0228,Vanessa Cáceres Mamani,62992505,Contabilidad,Analista,2017-03-14,,v.cáceres@eps.com.pe,Activo
+EMP0229,Jorge Condori Chura,63429237,Almacén,Analista,2012-02-09,,j.condori@eps.com.pe,Activo
+EMP0230,Lucía Nina Núñez,49231127,Compras,Coordinador,2018-11-07,,l.nina@eps.com.pe,Activo
+EMP0231,Julio Cáceres Núñez,38596786,Logística,Asistente,2024-01-06,,j.cáceres@eps.com.pe,Activo
+EMP0232,Nadia Flores Yufra,79603995,Legal,Operario,2014-10-10,,n.flores@eps.com.pe,Activo
+EMP0233,Julio Laura Núñez,21027012,Contabilidad,Coordinador,2021-04-12,,j.laura@eps.com.pe,Activo
+EMP0234,Ana Cutipa Maquera,59586896,Contabilidad,Operario,2016-07-18,2017-06-11,a.cutipa@eps.com.pe,Cesado
+EMP0235,Fernando Paredes Mamani,25853435,Recursos Humanos,Supervisor,2019-12-02,,f.paredes@eps.com.pe,Activo
+EMP0236,Óscar Chura Peralta,78050573,Administración y Finanzas,Supervisor,2014-06-10,2020-10-24,ó.chura@eps.com.pe,Cesado
+EMP0237,Iván Salazar Medina,73952363,Contabilidad,Analista,2022-01-06,,i.salazar@eps.com.pe,Activo
+EMP0238,Sofía Ilaquita Ticona,14168738,Recursos Humanos,Jefe,2016-03-26,,s.ilaquita@eps.com.pe,Activo
+EMP0239,Jorge Ilaquita Chura,56608330,Gerencia,Operario,2014-07-01,,j.ilaquita@eps.com.pe,Activo
+EMP0240,Jorge Ancco Cáceres,75847106,Almacén,Supervisor,2024-08-26,,j.ancco@eps.com.pe,Activo
+EMP0241,Miguel Laura Mamani,10145777,Operaciones,Jefe,2015-09-17,,m.laura@eps.com.pe,Activo
+EMP0242,Rocío Peralta Colque,18436912,Comercial,Practicante,2011-11-18,,r.peralta@eps.com.pe,Activo
+EMP0243,Nadia Medina Ramos,67112421,Operaciones,Practicante,2016-12-19,,n.medina@eps.com.pe,Activo
+EMP0244,Diana Ancco Ancco,68984574,Legal,Practicante,2018-12-03,,d.ancco@eps.com.pe,Activo
+EMP0245,Miguel Ramos Yufra,67550408,Contabilidad,Operario,2024-10-20,2025-06-28,m.ramos@eps.com.pe,Cesado
+EMP0246,Pedro Copaja Zapana,18404656,Comercial,Coordinador,2023-02-09,,p.copaja@eps.com.pe,Activo
+EMP0247,Marco Flores Huanca,36802675,Gerencia,Jefe,2018-04-21,,m.flores@eps.com.pe,Activo
+EMP0248,Alberto Chura Maquera,63345134,Tecnologías de la Información,Operario,2023-09-23,2027-05-30,a.chura@eps.com.pe,Cesado
+EMP0249,Marco Vargas Yufra,13810029,Legal,Operario,2025-01-16,,m.vargas@eps.com.pe,Activo
+EMP0250,Nelson Ancco Ticona,76296253,Legal,Asistente,2015-03-22,,n.ancco@eps.com.pe,Activo
+EMP0251,Fernando Paredes Cutipa,79366699,Almacén,Jefe,2015-07-15,,f.paredes@eps.com.pe,Activo
+EMP0252,Karla Apaza Vargas,39685456,Contabilidad,Practicante,2019-12-08,,k.apaza@eps.com.pe,Activo
+EMP0253,Silvia Quispe Medina,50333354,Compras,Analista,2019-02-19,2024-07-26,s.quispe@eps.com.pe,Cesado
+EMP0254,Paola Chura Ancco,21467534,Almacén,Practicante,2018-05-12,,p.chura@eps.com.pe,Activo
+EMP0255,Óscar Calisaya Rivera,39190481,Contabilidad,Asistente,2024-01-04,2026-08-25,ó.calisaya@eps.com.pe,Cesado
+EMP0256,Miguel Cáceres Ramos,70646657,Administración y Finanzas,Coordinador,2020-01-15,,m.cáceres@eps.com.pe,Activo
+EMP0257,Marco Copaja Maquera,48461685,Tecnologías de la Información,Supervisor,2021-03-23,,m.copaja@eps.com.pe,Activo
+EMP0258,Álvaro Medina Ticona,41283733,Contabilidad,Practicante,2022-04-17,,á.medina@eps.com.pe,Activo
+EMP0259,Jorge Salazar Choque,54185054,Logística,Analista,2018-03-25,,j.salazar@eps.com.pe,Activo
+EMP0260,Carlos Cutipa Yufra,51949110,Compras,Asistente,2013-02-07,,c.cutipa@eps.com.pe,Activo
+EMP0261,Carlos Flores Torres,10689387,Administración y Finanzas,Supervisor,2021-05-20,,c.flores@eps.com.pe,Activo
+EMP0262,Lucía Salazar Medina,71486816,Tecnologías de la Información,Coordinador,2016-02-12,,l.salazar@eps.com.pe,Activo
+EMP0263,Julio Rivera Cutipa,34024054,Operaciones,Operario,2023-05-02,2023-12-12,j.rivera@eps.com.pe,Cesado
+EMP0264,Ricardo Nina Huanca,74252644,Tecnologías de la Información,Practicante,2016-12-15,,r.nina@eps.com.pe,Activo
+EMP0265,Julio Laura Ticona,58858028,Almacén,Supervisor,2012-09-16,,j.laura@eps.com.pe,Activo
+EMP0266,Alberto Núñez Condori,66739668,Operaciones,Operario,2013-02-03,,a.núñez@eps.com.pe,Activo
+EMP0267,Paola Cáceres Aguilar,21128690,Contabilidad,Analista,2014-10-08,2018-03-19,p.cáceres@eps.com.pe,Cesado
+EMP0268,Silvia Ancco Condori,44257238,Tesorería,Practicante,2018-04-02,,s.ancco@eps.com.pe,Activo
+EMP0269,Ana Colque Chura,41044322,Comercial,Analista,2017-12-02,,a.colque@eps.com.pe,Activo
+EMP0270,Pedro Vargas Ilaquita,61236145,Comercial,Practicante,2012-07-25,,p.vargas@eps.com.pe,Activo
+EMP0271,Paola Bravo Aguilar,54121332,Administración y Finanzas,Operario,2012-06-18,,p.bravo@eps.com.pe,Activo
+EMP0272,Lucía Cáceres Ticona,54864619,Contabilidad,Coordinador,2021-02-08,,l.cáceres@eps.com.pe,Activo
+EMP0273,Julia Flores Flores,35660486,Legal,Coordinador,2015-05-03,,j.flores@eps.com.pe,Activo
+EMP0274,Carmen Aguilar Copaja,44745979,Logística,Analista,2018-12-22,,c.aguilar@eps.com.pe,Activo
+EMP0275,Jorge Peralta Ancco,50975032,Contabilidad,Analista,2015-12-02,,j.peralta@eps.com.pe,Activo
+EMP0276,Paola Aguilar Zapana,75605664,Almacén,Analista,2024-12-24,,p.aguilar@eps.com.pe,Activo
+EMP0277,Karla Ticona Paredes,44233259,Tecnologías de la Información,Coordinador,2012-01-22,,k.ticona@eps.com.pe,Activo
+EMP0278,Óscar Huanca Ancco,28047578,Gerencia,Asistente,2022-07-26,2028-04-24,ó.huanca@eps.com.pe,Cesado
+EMP0279,Diana Copaja Apaza,71967594,Contabilidad,Supervisor,2020-06-13,,d.copaja@eps.com.pe,Activo
+EMP0280,Alberto Yufra Flores,70276334,Compras,Practicante,2016-09-27,,a.yufra@eps.com.pe,Activo
+EMP0281,Paola Vargas Bravo,62674921,Tecnologías de la Información,Analista,2023-06-15,,p.vargas@eps.com.pe,Activo
+EMP0282,Carlos Colque Medina,57228322,Comercial,Jefe,2019-09-12,,c.colque@eps.com.pe,Activo
+EMP0283,Ricardo Ramos Flores,44648706,Legal,Coordinador,2017-12-25,,r.ramos@eps.com.pe,Activo
+EMP0284,Jorge Flores Rivera,19961024,Contabilidad,Practicante,2023-11-17,,j.flores@eps.com.pe,Activo
+EMP0285,Gabriela Salazar Ramos,32789532,Comercial,Operario,2016-04-16,,g.salazar@eps.com.pe,Activo
+EMP0286,Miguel Huanca Mamani,52846881,Logística,Practicante,2018-06-05,,m.huanca@eps.com.pe,Activo
+EMP0287,Raúl Vargas Yufra,66400093,Recursos Humanos,Jefe,2023-08-26,,r.vargas@eps.com.pe,Activo
+EMP0288,Lucía Ancco Ancco,35068195,Compras,Supervisor,2013-04-26,2016-10-12,l.ancco@eps.com.pe,Cesado
+EMP0289,Álvaro Calisaya Apaza,32585979,Operaciones,Coordinador,2012-12-12,,á.calisaya@eps.com.pe,Activo
+EMP0290,Julio Condori Mamani,15063549,Tecnologías de la Información,Supervisor,2018-06-04,2019-10-18,j.condori@eps.com.pe,Cesado
+EMP0291,Miguel Cáceres Apaza,26459286,Contabilidad,Asistente,2012-06-22,,m.cáceres@eps.com.pe,Activo
+EMP0292,Nadia Aguilar Ticona,41522750,Comercial,Jefe,2024-10-14,,n.aguilar@eps.com.pe,Activo
+EMP0293,Diana Ticona Rivera,69887763,Almacén,Coordinador,2019-08-21,,d.ticona@eps.com.pe,Activo
+EMP0294,Hugo Flores Vargas,64333676,Operaciones,Practicante,2022-10-10,,h.flores@eps.com.pe,Activo
+EMP0295,Teresa Nina Aguilar,45828864,Recursos Humanos,Practicante,2016-03-27,,t.nina@eps.com.pe,Activo
+EMP0296,Carmen Torres Mamani,27858494,Comercial,Jefe,2011-03-09,,c.torres@eps.com.pe,Activo
+EMP0297,Raúl Paredes Medina,42548064,Comercial,Practicante,2021-09-18,,r.paredes@eps.com.pe,Activo
+EMP0298,Karla Laura Condori,78282297,Recursos Humanos,Operario,2015-12-24,,k.laura@eps.com.pe,Activo
+EMP0299,Carmen Aguilar Calisaya,37916175,Almacén,Coordinador,2024-06-04,,c.aguilar@eps.com.pe,Activo
+EMP0300,Fernando Zapana Maquera,26379044,Almacén,Operario,2024-11-03,,f.zapana@eps.com.pe,Activo
+EMP0301,Ricardo Ticona Laura,56892276,Comercial,Coordinador,2014-04-12,,r.ticona@eps.com.pe,Activo
+EMP0302,Miguel Calisaya Cáceres,19348346,Logística,Practicante,2019-09-25,2023-06-18,m.calisaya@eps.com.pe,Cesado
+EMP0303,Alberto Ancco Ancco,47656279,Almacén,Supervisor,2017-11-05,,a.ancco@eps.com.pe,Activo
+EMP0304,Jorge Colque Zapana,64914669,Comercial,Analista,2025-06-20,,j.colque@eps.com.pe,Activo
+EMP0305,Raúl Cáceres Copaja,57851799,Recursos Humanos,Practicante,2012-06-16,,r.cáceres@eps.com.pe,Activo
+EMP0306,Hugo Chura Copaja,33559970,Compras,Coordinador,2021-02-02,,h.chura@eps.com.pe,Activo
+EMP0307,Hugo Bravo Yufra,78474041,Recursos Humanos,Practicante,2012-06-08,,h.bravo@eps.com.pe,Activo
+EMP0308,Silvia Quispe Aguilar,62102640,Legal,Jefe,2019-02-03,,s.quispe@eps.com.pe,Activo
+EMP0309,Jorge Cáceres Ticona,51669904,Logística,Coordinador,2022-07-01,,j.cáceres@eps.com.pe,Activo
+EMP0310,Carmen Aguilar Ramos,69136424,Compras,Supervisor,2022-02-02,,c.aguilar@eps.com.pe,Activo
+EMP0311,Lucía Aguilar Medina,48076742,Tesorería,Analista,2011-08-02,,l.aguilar@eps.com.pe,Activo
+EMP0312,Luis Medina Bravo,53462499,Gerencia,Operario,2019-07-03,,l.medina@eps.com.pe,Activo

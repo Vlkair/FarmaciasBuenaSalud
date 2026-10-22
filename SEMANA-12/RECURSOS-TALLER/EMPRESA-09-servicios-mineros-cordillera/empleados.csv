@@ -1,0 +1,421 @@
+codigo_empleado,nombre,documento,area,cargo,fecha_ingreso,fecha_cese,correo,estado
+EMP0001,Elena Calisaya Ramos,20859446,Recursos Humanos,Asistente,2014-04-23,,e.calisaya@servicios.com.pe,Activo
+EMP0002,Paola Colque Cáceres,77884057,Logística,Asistente,2020-09-03,2025-06-07,p.colque@servicios.com.pe,Cesado
+EMP0003,Hugo Bravo Nina,66756946,Almacén,Operario,2024-04-17,,h.bravo@servicios.com.pe,Activo
+EMP0004,Hugo Núñez Ticona,39900622,Comercial,Analista,2015-09-06,,h.núñez@servicios.com.pe,Activo
+EMP0005,Karla Mamani Ticona,22929491,Tecnologías de la Información,Analista,2020-03-06,,k.mamani@servicios.com.pe,Activo
+EMP0006,Diana Condori Peralta,51905350,Administración y Finanzas,Operario,2020-11-08,,d.condori@servicios.com.pe,Activo
+EMP0007,Jorge Quispe Calisaya,16466245,Administración y Finanzas,Jefe,2020-01-01,,j.quispe@servicios.com.pe,Activo
+EMP0008,Álvaro Choque Huanca,29877019,Contabilidad,Practicante,2014-11-09,2021-08-24,á.choque@servicios.com.pe,Cesado
+EMP0009,Óscar Quispe Condori,30370257,Recursos Humanos,Coordinador,2024-02-12,,ó.quispe@servicios.com.pe,Activo
+EMP0010,Carlos Ancco Colque,55666755,Tesorería,Supervisor,2020-11-15,2026-06-24,c.ancco@servicios.com.pe,Cesado
+EMP0011,Karla Peralta Núñez,19357460,Administración y Finanzas,Analista,2021-11-26,,k.peralta@servicios.com.pe,Activo
+EMP0012,Hugo Ilaquita Torres,21601181,Comercial,Practicante,2021-05-10,,h.ilaquita@servicios.com.pe,Activo
+EMP0013,Fernando Medina Torres,29236943,Legal,Practicante,2021-04-13,,f.medina@servicios.com.pe,Activo
+EMP0014,Rosa Colque Zapana,55690962,Tecnologías de la Información,Analista,2024-02-16,,r.colque@servicios.com.pe,Activo
+EMP0015,Gabriela Ramos Flores,28127473,Almacén,Supervisor,2014-10-25,,g.ramos@servicios.com.pe,Activo
+EMP0016,Miguel Ancco Chura,22473998,Almacén,Asistente,2016-01-17,,m.ancco@servicios.com.pe,Activo
+EMP0017,Óscar Salazar Peralta,66079501,Tecnologías de la Información,Operario,2024-04-17,,ó.salazar@servicios.com.pe,Activo
+EMP0018,Carmen Rivera Condori,45730266,Operaciones,Practicante,2023-02-25,,c.rivera@servicios.com.pe,Activo
+EMP0019,Elena Nina Ilaquita,53700279,Tecnologías de la Información,Jefe,2018-04-11,,e.nina@servicios.com.pe,Activo
+EMP0020,Iván Ilaquita Laura,45760233,Almacén,Operario,2017-10-06,,i.ilaquita@servicios.com.pe,Activo
+EMP0021,Fernando Ancco Ancco,14472671,Comercial,Jefe,2011-11-25,,f.ancco@servicios.com.pe,Activo
+EMP0022,Rocío Colque Apaza,61163497,Compras,Analista,2012-11-17,,r.colque@servicios.com.pe,Activo
+EMP0023,Alberto Núñez Nina,37727682,Legal,Practicante,2020-05-12,,a.núñez@servicios.com.pe,Activo
+EMP0024,Alberto Calisaya Aguilar,19966907,Tecnologías de la Información,Coordinador,2022-12-27,,a.calisaya@servicios.com.pe,Activo
+EMP0025,Sofía Chura Chura,57006208,Tesorería,Coordinador,2024-09-19,,s.chura@servicios.com.pe,Activo
+EMP0026,Karla Peralta Cutipa,77636659,Tesorería,Asistente,2021-08-14,,k.peralta@servicios.com.pe,Activo
+EMP0027,Luis Ilaquita Yufra,48247296,Recursos Humanos,Practicante,2016-03-27,,l.ilaquita@servicios.com.pe,Activo
+EMP0028,Paola Paredes Ilaquita,24947343,Compras,Supervisor,2017-04-18,,p.paredes@servicios.com.pe,Activo
+EMP0029,Nelson Condori Calisaya,67188826,Administración y Finanzas,Coordinador,2021-09-07,,n.condori@servicios.com.pe,Activo
+EMP0030,Nadia Apaza Rivera,17645830,Operaciones,Supervisor,2025-08-07,,n.apaza@servicios.com.pe,Activo
+EMP0031,Rosa Salazar Laura,47671765,Logística,Practicante,2023-03-03,,r.salazar@servicios.com.pe,Activo
+EMP0032,Nelson Salazar Ilaquita,73941758,Logística,Supervisor,2019-05-22,,n.salazar@servicios.com.pe,Activo
+EMP0033,Julio Ilaquita Ticona,29178581,Administración y Finanzas,Asistente,2021-01-06,,j.ilaquita@servicios.com.pe,Activo
+EMP0034,Ana Calisaya Laura,10495500,Almacén,Jefe,2024-12-03,,a.calisaya@servicios.com.pe,Activo
+EMP0035,Julio Rivera Copaja,40940033,Almacén,Operario,2023-02-21,,j.rivera@servicios.com.pe,Activo
+EMP0036,Marta Choque Medina,75175620,Tesorería,Asistente,2011-08-24,,m.choque@servicios.com.pe,Activo
+EMP0037,Nadia Aguilar Cutipa,30801082,Logística,Asistente,2019-01-07,,n.aguilar@servicios.com.pe,Activo
+EMP0038,Fernando Condori Cutipa,60388797,Tesorería,Analista,2014-06-21,2015-02-28,f.condori@servicios.com.pe,Cesado
+EMP0039,Carlos Núñez Yufra,52132478,Operaciones,Analista,2014-02-27,,c.núñez@servicios.com.pe,Activo
+EMP0040,Miguel Torres Núñez,42698190,Almacén,Asistente,2022-06-26,,m.torres@servicios.com.pe,Activo
+EMP0041,Álvaro Condori Huanca,66731209,Tesorería,Operario,2018-09-03,,á.condori@servicios.com.pe,Activo
+EMP0042,Iván Nina Bravo,44590848,Administración y Finanzas,Jefe,2019-05-27,,i.nina@servicios.com.pe,Activo
+EMP0043,Julia Choque Copaja,53792222,Almacén,Supervisor,2019-03-11,,j.choque@servicios.com.pe,Activo
+EMP0044,Elena Copaja Torres,71139296,Contabilidad,Analista,2016-03-08,,e.copaja@servicios.com.pe,Activo
+EMP0045,Julio Ancco Ticona,36249081,Legal,Coordinador,2023-07-17,2028-04-20,j.ancco@servicios.com.pe,Cesado
+EMP0046,Nadia Núñez Bravo,19987890,Legal,Jefe,2023-03-10,2028-11-05,n.núñez@servicios.com.pe,Cesado
+EMP0047,Iván Apaza Paredes,32679290,Contabilidad,Coordinador,2025-06-23,,i.apaza@servicios.com.pe,Activo
+EMP0048,Diana Yufra Ticona,65553892,Legal,Coordinador,2018-07-07,,d.yufra@servicios.com.pe,Activo
+EMP0049,Lucía Cáceres Calisaya,26405821,Operaciones,Asistente,2019-12-07,,l.cáceres@servicios.com.pe,Activo
+EMP0050,Óscar Apaza Cutipa,45604021,Operaciones,Analista,2018-08-26,,ó.apaza@servicios.com.pe,Activo
+EMP0051,Elena Yufra Peralta,36140984,Legal,Supervisor,2011-02-24,,e.yufra@servicios.com.pe,Activo
+EMP0052,Elena Nina Vargas,52220730,Administración y Finanzas,Asistente,2015-09-06,,e.nina@servicios.com.pe,Activo
+EMP0053,Marco Paredes Choque,71022987,Legal,Operario,2021-09-07,,m.paredes@servicios.com.pe,Activo
+EMP0054,Raúl Nina Salazar,41961275,Compras,Operario,2013-04-06,,r.nina@servicios.com.pe,Activo
+EMP0055,Nadia Aguilar Vargas,71294388,Recursos Humanos,Analista,2015-04-23,,n.aguilar@servicios.com.pe,Activo
+EMP0056,Nadia Vargas Apaza,13966563,Operaciones,Analista,2014-07-03,,n.vargas@servicios.com.pe,Activo
+EMP0057,Elena Peralta Ilaquita,49547396,Almacén,Practicante,2016-12-03,,e.peralta@servicios.com.pe,Activo
+EMP0058,Gabriela Torres Ticona,22955089,Tesorería,Operario,2015-08-17,,g.torres@servicios.com.pe,Activo
+EMP0059,Carlos Mamani Ilaquita,74235358,Tesorería,Asistente,2014-02-23,,c.mamani@servicios.com.pe,Activo
+EMP0060,Marco Medina Chura,78062259,Operaciones,Jefe,2018-01-27,,m.medina@servicios.com.pe,Activo
+EMP0061,Julia Mamani Yufra,25058373,Almacén,Operario,2012-09-13,,j.mamani@servicios.com.pe,Activo
+EMP0062,Elena Quispe Yufra,64266651,Contabilidad,Practicante,2014-05-22,,e.quispe@servicios.com.pe,Activo
+EMP0063,Lucía Condori Vargas,63177698,Operaciones,Asistente,2022-09-07,,l.condori@servicios.com.pe,Activo
+EMP0064,Hugo Apaza Medina,75358398,Comercial,Analista,2018-09-02,,h.apaza@servicios.com.pe,Activo
+EMP0065,Ana Zapana Huanca,21911990,Almacén,Practicante,2014-10-04,,a.zapana@servicios.com.pe,Activo
+EMP0066,Alberto Zapana Nina,35910747,Tecnologías de la Información,Operario,2012-12-27,2019-04-21,a.zapana@servicios.com.pe,Cesado
+EMP0067,Víctor Medina Calisaya,53372070,Compras,Operario,2012-06-04,2015-10-02,v.medina@servicios.com.pe,Cesado
+EMP0068,Lucía Vargas Calisaya,25624274,Administración y Finanzas,Supervisor,2020-07-23,,l.vargas@servicios.com.pe,Activo
+EMP0069,Miguel Flores Maquera,23610754,Recursos Humanos,Jefe,2015-11-22,2022-07-11,m.flores@servicios.com.pe,Cesado
+EMP0070,Luis Núñez Calisaya,15009715,Tecnologías de la Información,Jefe,2015-10-17,,l.núñez@servicios.com.pe,Activo
+EMP0071,Karla Condori Yufra,67305629,Almacén,Coordinador,2024-10-01,,k.condori@servicios.com.pe,Activo
+EMP0072,Paola Torres Zapana,64177146,Recursos Humanos,Operario,2015-11-05,2020-10-20,p.torres@servicios.com.pe,Cesado
+EMP0073,Sofía Peralta Ilaquita,39677600,Contabilidad,Practicante,2017-06-14,,s.peralta@servicios.com.pe,Activo
+EMP0074,Gabriela Ramos Copaja,24261272,Logística,Coordinador,2014-10-09,,g.ramos@servicios.com.pe,Activo
+EMP0075,Luis Flores Vargas,16927765,Almacén,Supervisor,2016-06-19,2023-01-30,l.flores@servicios.com.pe,Cesado
+EMP0076,Luis Peralta Zapana,26909999,Gerencia,Practicante,2020-10-16,,l.peralta@servicios.com.pe,Activo
+EMP0077,Elena Quispe Laura,28165333,Comercial,Practicante,2022-10-21,,e.quispe@servicios.com.pe,Activo
+EMP0078,Hugo Colque Colque,43621088,Contabilidad,Supervisor,2017-01-26,,h.colque@servicios.com.pe,Activo
+EMP0079,Óscar Flores Ticona,76358267,Almacén,Asistente,2016-09-23,,ó.flores@servicios.com.pe,Activo
+EMP0080,Sofía Yufra Huanca,16238676,Recursos Humanos,Analista,2011-05-08,,s.yufra@servicios.com.pe,Activo
+EMP0081,Ana Paredes Yufra,72015585,Operaciones,Operario,2023-07-15,,a.paredes@servicios.com.pe,Activo
+EMP0082,Vanessa Ancco Medina,42063682,Administración y Finanzas,Asistente,2016-12-03,,v.ancco@servicios.com.pe,Activo
+EMP0083,Miguel Yufra Vargas,54948626,Legal,Jefe,2013-10-20,,m.yufra@servicios.com.pe,Activo
+EMP0084,Jorge Ancco Mamani,30946457,Contabilidad,Supervisor,2019-09-02,2024-03-20,j.ancco@servicios.com.pe,Cesado
+EMP0085,Nelson Medina Ilaquita,28290708,Logística,Asistente,2011-02-01,,n.medina@servicios.com.pe,Activo
+EMP0086,Jorge Chura Peralta,46882476,Operaciones,Operario,2025-03-15,,j.chura@servicios.com.pe,Activo
+EMP0087,Marco Ticona Copaja,34498880,Tecnologías de la Información,Operario,2012-04-15,,m.ticona@servicios.com.pe,Activo
+EMP0088,Lucía Medina Mamani,25694828,Compras,Practicante,2012-10-11,,l.medina@servicios.com.pe,Activo
+EMP0089,Pedro Rivera Torres,65579985,Recursos Humanos,Operario,2021-04-04,2022-07-04,p.rivera@servicios.com.pe,Cesado
+EMP0090,Elena Medina Medina,41558661,Legal,Jefe,2025-02-10,,e.medina@servicios.com.pe,Activo
+EMP0091,Teresa Choque Calisaya,39371704,Tecnologías de la Información,Analista,2017-07-15,2020-09-06,t.choque@servicios.com.pe,Cesado
+EMP0092,Julia Torres Nina,32780628,Recursos Humanos,Supervisor,2024-05-18,,j.torres@servicios.com.pe,Activo
+EMP0093,Elena Aguilar Laura,31372143,Tesorería,Asistente,2015-04-18,2018-11-16,e.aguilar@servicios.com.pe,Cesado
+EMP0094,Marco Nina Rivera,55412474,Gerencia,Supervisor,2025-02-23,,m.nina@servicios.com.pe,Activo
+EMP0095,Marco Ancco Ticona,58066796,Operaciones,Practicante,2015-05-04,,m.ancco@servicios.com.pe,Activo
+EMP0096,Elena Cutipa Ilaquita,27715375,Tecnologías de la Información,Supervisor,2014-07-15,,e.cutipa@servicios.com.pe,Activo
+EMP0097,Julia Calisaya Cutipa,26741217,Comercial,Coordinador,2025-10-05,,j.calisaya@servicios.com.pe,Activo
+EMP0098,Diana Medina Medina,70105204,Administración y Finanzas,Operario,2023-07-04,,d.medina@servicios.com.pe,Activo
+EMP0099,Gabriela Paredes Maquera,17298865,Operaciones,Coordinador,2016-04-09,,g.paredes@servicios.com.pe,Activo
+EMP0100,Víctor Condori Zapana,29966280,Logística,Analista,2013-11-20,,v.condori@servicios.com.pe,Activo
+EMP0101,Elena Quispe Ramos,10724132,Almacén,Operario,2011-05-09,,e.quispe@servicios.com.pe,Activo
+EMP0102,Rosa Torres Bravo,65230799,Tecnologías de la Información,Supervisor,2012-03-05,,r.torres@servicios.com.pe,Activo
+EMP0103,Elena Choque Peralta,38393521,Almacén,Supervisor,2016-09-19,,e.choque@servicios.com.pe,Activo
+EMP0104,Nelson Aguilar Paredes,62172970,Administración y Finanzas,Practicante,2015-02-11,,n.aguilar@servicios.com.pe,Activo
+EMP0105,Ana Paredes Cáceres,62276048,Logística,Operario,2025-06-25,2031-07-07,a.paredes@servicios.com.pe,Cesado
+EMP0106,Julio Yufra Huanca,40510480,Tecnologías de la Información,Analista,2023-02-14,,j.yufra@servicios.com.pe,Activo
+EMP0107,Elena Ramos Colque,45375582,Compras,Operario,2024-01-13,,e.ramos@servicios.com.pe,Activo
+EMP0108,Nelson Chura Ancco,39954093,Gerencia,Supervisor,2017-12-20,,n.chura@servicios.com.pe,Activo
+EMP0109,Marco Vargas Paredes,34065018,Almacén,Supervisor,2013-07-21,2018-01-17,m.vargas@servicios.com.pe,Cesado
+EMP0110,Rocío Rivera Yufra,45383497,Tecnologías de la Información,Jefe,2015-10-09,,r.rivera@servicios.com.pe,Activo
+EMP0111,Paola Cáceres Nina,46295207,Legal,Practicante,2020-04-14,,p.cáceres@servicios.com.pe,Activo
+EMP0112,Hugo Ramos Condori,18464166,Administración y Finanzas,Coordinador,2013-10-27,,h.ramos@servicios.com.pe,Activo
+EMP0113,Óscar Ancco Medina,41122986,Tecnologías de la Información,Analista,2014-05-22,,ó.ancco@servicios.com.pe,Activo
+EMP0114,Luis Colque Huanca,21178068,Almacén,Supervisor,2023-12-17,,l.colque@servicios.com.pe,Activo
+EMP0115,Miguel Zapana Núñez,37671862,Almacén,Operario,2021-01-27,,m.zapana@servicios.com.pe,Activo
+EMP0116,Elena Peralta Chura,59959336,Recursos Humanos,Operario,2015-04-20,,e.peralta@servicios.com.pe,Activo
+EMP0117,Raúl Ilaquita Ticona,45198502,Gerencia,Jefe,2011-05-16,,r.ilaquita@servicios.com.pe,Activo
+EMP0118,Lucía Ramos Quispe,75603583,Operaciones,Supervisor,2020-05-23,,l.ramos@servicios.com.pe,Activo
+EMP0119,Jorge Bravo Ticona,12588061,Logística,Coordinador,2024-09-11,,j.bravo@servicios.com.pe,Activo
+EMP0120,Ricardo Ticona Bravo,57698387,Contabilidad,Supervisor,2011-06-05,,r.ticona@servicios.com.pe,Activo
+EMP0121,Marco Mamani Nina,62429056,Tesorería,Analista,2022-03-23,,m.mamani@servicios.com.pe,Activo
+EMP0122,Miguel Quispe Aguilar,15713429,Tecnologías de la Información,Analista,2018-01-16,,m.quispe@servicios.com.pe,Activo
+EMP0123,Vanessa Rivera Ilaquita,74742710,Operaciones,Jefe,2013-12-20,,v.rivera@servicios.com.pe,Activo
+EMP0124,Víctor Laura Apaza,42767473,Almacén,Practicante,2015-09-03,,v.laura@servicios.com.pe,Activo
+EMP0125,Gabriela Núñez Rivera,20055741,Legal,Coordinador,2021-05-16,,g.núñez@servicios.com.pe,Activo
+EMP0126,Carlos Ilaquita Condori,51307771,Tesorería,Supervisor,2018-12-11,,c.ilaquita@servicios.com.pe,Activo
+EMP0127,Pedro Vargas Yufra,13108298,Tesorería,Supervisor,2016-09-13,2018-06-28,p.vargas@servicios.com.pe,Cesado
+EMP0128,Julia Ancco Zapana,36736749,Contabilidad,Asistente,2018-10-21,,j.ancco@servicios.com.pe,Activo
+EMP0129,Carmen Maquera Cutipa,13827085,Tesorería,Asistente,2016-01-08,,c.maquera@servicios.com.pe,Activo
+EMP0130,Lucía Laura Aguilar,21342846,Recursos Humanos,Operario,2019-06-22,,l.laura@servicios.com.pe,Activo
+EMP0131,Karla Huanca Nina,67768647,Administración y Finanzas,Supervisor,2024-09-13,,k.huanca@servicios.com.pe,Activo
+EMP0132,Paola Calisaya Calisaya,38456028,Almacén,Practicante,2016-01-05,,p.calisaya@servicios.com.pe,Activo
+EMP0133,Gabriela Paredes Ramos,50403607,Comercial,Analista,2020-05-24,,g.paredes@servicios.com.pe,Activo
+EMP0134,Jorge Núñez Ilaquita,14860349,Logística,Jefe,2023-10-04,,j.núñez@servicios.com.pe,Activo
+EMP0135,Silvia Torres Vargas,50925965,Almacén,Analista,2014-11-24,,s.torres@servicios.com.pe,Activo
+EMP0136,Gabriela Zapana Condori,73229274,Recursos Humanos,Analista,2024-01-23,,g.zapana@servicios.com.pe,Activo
+EMP0137,Raúl Ramos Medina,50180366,Gerencia,Practicante,2023-02-18,,r.ramos@servicios.com.pe,Activo
+EMP0138,Teresa Yufra Peralta,48945084,Operaciones,Asistente,2015-07-17,,t.yufra@servicios.com.pe,Activo
+EMP0139,Alberto Chura Salazar,76959738,Recursos Humanos,Supervisor,2021-03-22,2024-01-21,a.chura@servicios.com.pe,Cesado
+EMP0140,Lucía Cáceres Salazar,23267188,Tesorería,Operario,2011-10-27,,l.cáceres@servicios.com.pe,Activo
+EMP0141,Carlos Copaja Flores,38182453,Almacén,Analista,2022-03-10,,c.copaja@servicios.com.pe,Activo
+EMP0142,Carmen Copaja Cáceres,59035035,Operaciones,Supervisor,2021-11-12,,c.copaja@servicios.com.pe,Activo
+EMP0143,Jorge Ticona Medina,25646050,Contabilidad,Asistente,2021-08-04,,j.ticona@servicios.com.pe,Activo
+EMP0144,Paola Yufra Apaza,10366659,Compras,Jefe,2023-12-06,,p.yufra@servicios.com.pe,Activo
+EMP0145,Fernando Salazar Ramos,33675377,Gerencia,Coordinador,2015-12-20,,f.salazar@servicios.com.pe,Activo
+EMP0146,Fernando Apaza Quispe,27166674,Comercial,Asistente,2020-12-12,2026-11-20,f.apaza@servicios.com.pe,Cesado
+EMP0147,Lucía Paredes Quispe,46752274,Recursos Humanos,Supervisor,2024-09-07,,l.paredes@servicios.com.pe,Activo
+EMP0148,Carmen Calisaya Nina,54385891,Tecnologías de la Información,Supervisor,2015-03-25,,c.calisaya@servicios.com.pe,Activo
+EMP0149,Pedro Aguilar Calisaya,59192721,Recursos Humanos,Asistente,2016-12-08,,p.aguilar@servicios.com.pe,Activo
+EMP0150,Fernando Colque Medina,64821474,Logística,Supervisor,2024-03-05,,f.colque@servicios.com.pe,Activo
+EMP0151,Iván Bravo Condori,65596376,Contabilidad,Operario,2014-03-13,,i.bravo@servicios.com.pe,Activo
+EMP0152,Ricardo Maquera Paredes,45707998,Compras,Operario,2019-11-15,,r.maquera@servicios.com.pe,Activo
+EMP0153,Luis Bravo Choque,75440958,Legal,Coordinador,2022-11-06,,l.bravo@servicios.com.pe,Activo
+EMP0154,Nadia Colque Chura,70730027,Compras,Analista,2024-10-27,,n.colque@servicios.com.pe,Activo
+EMP0155,Nelson Torres Chura,56359808,Tecnologías de la Información,Analista,2024-02-27,,n.torres@servicios.com.pe,Activo
+EMP0156,Óscar Salazar Bravo,51232637,Contabilidad,Analista,2019-06-27,,ó.salazar@servicios.com.pe,Activo
+EMP0157,Alberto Mamani Ilaquita,74388816,Compras,Coordinador,2013-04-05,,a.mamani@servicios.com.pe,Activo
+EMP0158,Óscar Copaja Nina,75083060,Tecnologías de la Información,Analista,2023-03-07,,ó.copaja@servicios.com.pe,Activo
+EMP0159,Karla Choque Chura,43696566,Logística,Analista,2012-07-11,,k.choque@servicios.com.pe,Activo
+EMP0160,Óscar Nina Ilaquita,28911870,Recursos Humanos,Analista,2020-05-27,,ó.nina@servicios.com.pe,Activo
+EMP0161,Víctor Apaza Ancco,79555837,Logística,Supervisor,2025-05-13,,v.apaza@servicios.com.pe,Activo
+EMP0162,Marta Zapana Salazar,25365150,Logística,Asistente,2012-11-24,,m.zapana@servicios.com.pe,Activo
+EMP0163,Paola Copaja Cáceres,68380263,Gerencia,Supervisor,2011-08-09,2018-08-06,p.copaja@servicios.com.pe,Cesado
+EMP0164,Nadia Flores Ticona,60281564,Recursos Humanos,Asistente,2018-06-15,,n.flores@servicios.com.pe,Activo
+EMP0165,Nadia Ancco Huanca,47138147,Legal,Analista,2025-04-09,,n.ancco@servicios.com.pe,Activo
+EMP0166,Diana Rivera Aguilar,24897166,Compras,Analista,2015-08-14,,d.rivera@servicios.com.pe,Activo
+EMP0167,Iván Torres Medina,44165321,Comercial,Analista,2016-12-12,,i.torres@servicios.com.pe,Activo
+EMP0168,Carmen Quispe Colque,10689198,Legal,Coordinador,2025-04-05,,c.quispe@servicios.com.pe,Activo
+EMP0169,Lucía Calisaya Nina,18345744,Tesorería,Jefe,2018-04-12,2021-09-03,l.calisaya@servicios.com.pe,Cesado
+EMP0170,Fernando Choque Copaja,57479476,Compras,Practicante,2020-09-03,,f.choque@servicios.com.pe,Activo
+EMP0171,Nadia Salazar Paredes,59780170,Legal,Practicante,2018-05-10,,n.salazar@servicios.com.pe,Activo
+EMP0172,Diana Vargas Flores,50336817,Legal,Practicante,2023-06-22,,d.vargas@servicios.com.pe,Activo
+EMP0173,Hugo Núñez Vargas,35454935,Tesorería,Operario,2012-03-25,2015-06-22,h.núñez@servicios.com.pe,Cesado
+EMP0174,Jorge Nina Vargas,45524854,Compras,Jefe,2011-12-05,,j.nina@servicios.com.pe,Activo
+EMP0175,Gabriela Apaza Apaza,70936570,Logística,Supervisor,2014-06-02,,g.apaza@servicios.com.pe,Activo
+EMP0176,Marco Copaja Huanca,65170954,Recursos Humanos,Practicante,2015-09-03,,m.copaja@servicios.com.pe,Activo
+EMP0177,Carlos Mamani Mamani,23888162,Compras,Jefe,2018-06-09,,c.mamani@servicios.com.pe,Activo
+EMP0178,Nadia Aguilar Nina,29901160,Tesorería,Jefe,2015-11-24,,n.aguilar@servicios.com.pe,Activo
+EMP0179,Rocío Yufra Peralta,24766303,Administración y Finanzas,Operario,2018-01-09,,r.yufra@servicios.com.pe,Activo
+EMP0180,Teresa Ancco Rivera,70644326,Almacén,Operario,2019-08-27,,t.ancco@servicios.com.pe,Activo
+EMP0181,Paola Colque Yufra,31564423,Compras,Analista,2012-05-05,,p.colque@servicios.com.pe,Activo
+EMP0182,Julia Copaja Rivera,60795158,Almacén,Analista,2022-11-27,,j.copaja@servicios.com.pe,Activo
+EMP0183,Teresa Maquera Rivera,13312952,Contabilidad,Supervisor,2016-05-17,,t.maquera@servicios.com.pe,Activo
+EMP0184,Teresa Zapana Paredes,78880303,Comercial,Operario,2011-11-20,,t.zapana@servicios.com.pe,Activo
+EMP0185,Vanessa Ilaquita Apaza,72432115,Operaciones,Analista,2011-11-23,2018-03-29,v.ilaquita@servicios.com.pe,Cesado
+EMP0186,Carmen Medina Zapana,23642809,Administración y Finanzas,Operario,2023-08-12,,c.medina@servicios.com.pe,Activo
+EMP0187,Julio Ticona Zapana,45634817,Administración y Finanzas,Coordinador,2016-12-14,,j.ticona@servicios.com.pe,Activo
+EMP0188,Jorge Maquera Maquera,69328972,Gerencia,Coordinador,2022-02-18,,j.maquera@servicios.com.pe,Activo
+EMP0189,Gabriela Nina Aguilar,54541444,Recursos Humanos,Operario,2011-12-22,,g.nina@servicios.com.pe,Activo
+EMP0190,Marta Vargas Yufra,63900853,Almacén,Operario,2018-01-27,2021-04-06,m.vargas@servicios.com.pe,Cesado
+EMP0191,Miguel Yufra Apaza,79922618,Almacén,Analista,2017-07-13,,m.yufra@servicios.com.pe,Activo
+EMP0192,Rosa Copaja Laura,45157693,Comercial,Jefe,2024-04-26,,r.copaja@servicios.com.pe,Activo
+EMP0193,Óscar Maquera Condori,75085531,Legal,Analista,2019-03-08,,ó.maquera@servicios.com.pe,Activo
+EMP0194,Jorge Flores Huanca,56533177,Gerencia,Practicante,2015-01-18,,j.flores@servicios.com.pe,Activo
+EMP0195,Nadia Ramos Rivera,44588964,Legal,Operario,2025-10-08,2031-06-07,n.ramos@servicios.com.pe,Cesado
+EMP0196,Carmen Colque Laura,20712631,Comercial,Jefe,2019-05-18,,c.colque@servicios.com.pe,Activo
+EMP0197,Elena Mamani Calisaya,65760559,Administración y Finanzas,Jefe,2016-12-20,,e.mamani@servicios.com.pe,Activo
+EMP0198,Pedro Bravo Ticona,62176527,Legal,Analista,2021-02-24,2027-09-29,p.bravo@servicios.com.pe,Cesado
+EMP0199,Carmen Peralta Flores,11988541,Contabilidad,Analista,2013-12-03,,c.peralta@servicios.com.pe,Activo
+EMP0200,Silvia Choque Zapana,54495170,Legal,Operario,2013-10-16,,s.choque@servicios.com.pe,Activo
+EMP0201,Nadia Flores Cáceres,15975112,Logística,Supervisor,2024-08-01,,n.flores@servicios.com.pe,Activo
+EMP0202,Marco Apaza Torres,65043253,Comercial,Jefe,2020-10-23,,m.apaza@servicios.com.pe,Activo
+EMP0203,Sofía Flores Ticona,11987322,Tesorería,Analista,2017-12-23,,s.flores@servicios.com.pe,Activo
+EMP0204,Nelson Apaza Copaja,52922387,Contabilidad,Asistente,2013-09-07,,n.apaza@servicios.com.pe,Activo
+EMP0205,Carlos Núñez Vargas,52328150,Administración y Finanzas,Analista,2025-12-13,2028-07-10,c.núñez@servicios.com.pe,Cesado
+EMP0206,Hugo Condori Calisaya,13887468,Almacén,Supervisor,2019-12-06,,h.condori@servicios.com.pe,Activo
+EMP0207,Silvia Laura Huanca,13894667,Legal,Asistente,2021-07-08,,s.laura@servicios.com.pe,Activo
+EMP0208,Iván Vargas Ilaquita,46306488,Tecnologías de la Información,Supervisor,2019-09-02,,i.vargas@servicios.com.pe,Activo
+EMP0209,Paola Ancco Maquera,78183225,Almacén,Practicante,2011-08-21,,p.ancco@servicios.com.pe,Activo
+EMP0210,Rocío Paredes Cáceres,38871786,Tesorería,Practicante,2011-10-23,,r.paredes@servicios.com.pe,Activo
+EMP0211,Gabriela Vargas Apaza,32323297,Legal,Jefe,2022-05-06,,g.vargas@servicios.com.pe,Activo
+EMP0212,Rocío Vargas Medina,14546012,Recursos Humanos,Asistente,2015-10-23,,r.vargas@servicios.com.pe,Activo
+EMP0213,Fernando Huanca Flores,40823387,Operaciones,Practicante,2023-09-05,,f.huanca@servicios.com.pe,Activo
+EMP0214,Luis Ancco Núñez,73772917,Contabilidad,Analista,2021-04-12,,l.ancco@servicios.com.pe,Activo
+EMP0215,Julio Laura Choque,50343460,Comercial,Operario,2021-08-05,,j.laura@servicios.com.pe,Activo
+EMP0216,Carmen Bravo Quispe,19247012,Operaciones,Asistente,2018-07-04,,c.bravo@servicios.com.pe,Activo
+EMP0217,Carmen Medina Cáceres,69880752,Logística,Supervisor,2012-03-14,,c.medina@servicios.com.pe,Activo
+EMP0218,Silvia Maquera Ancco,75080285,Administración y Finanzas,Asistente,2022-01-09,,s.maquera@servicios.com.pe,Activo
+EMP0219,Raúl Aguilar Bravo,74725893,Compras,Analista,2016-11-06,2023-03-28,r.aguilar@servicios.com.pe,Cesado
+EMP0220,Alberto Vargas Cáceres,46932179,Logística,Analista,2015-07-18,,a.vargas@servicios.com.pe,Activo
+EMP0221,Pedro Apaza Choque,10271452,Recursos Humanos,Operario,2025-02-03,,p.apaza@servicios.com.pe,Activo
+EMP0222,Alberto Cáceres Zapana,16377651,Administración y Finanzas,Supervisor,2022-06-06,,a.cáceres@servicios.com.pe,Activo
+EMP0223,Fernando Flores Paredes,65562333,Tecnologías de la Información,Jefe,2025-01-06,,f.flores@servicios.com.pe,Activo
+EMP0224,Diana Huanca Yufra,13450369,Administración y Finanzas,Jefe,2020-09-19,,d.huanca@servicios.com.pe,Activo
+EMP0225,Silvia Laura Flores,41276440,Tesorería,Analista,2018-09-27,,s.laura@servicios.com.pe,Activo
+EMP0226,Hugo Condori Cutipa,40167253,Compras,Supervisor,2025-04-07,,h.condori@servicios.com.pe,Activo
+EMP0227,Gabriela Cutipa Torres,53933462,Legal,Supervisor,2021-02-21,,g.cutipa@servicios.com.pe,Activo
+EMP0228,Fernando Apaza Laura,45887216,Logística,Supervisor,2019-04-04,,f.apaza@servicios.com.pe,Activo
+EMP0229,Gabriela Bravo Ancco,21867848,Tesorería,Asistente,2020-06-11,2023-09-12,g.bravo@servicios.com.pe,Cesado
+EMP0230,Julia Vargas Salazar,39871221,Tesorería,Operario,2013-07-26,,j.vargas@servicios.com.pe,Activo
+EMP0231,Fernando Apaza Vargas,45485249,Almacén,Coordinador,2013-06-05,,f.apaza@servicios.com.pe,Activo
+EMP0232,Teresa Copaja Choque,50459909,Legal,Practicante,2020-10-04,,t.copaja@servicios.com.pe,Activo
+EMP0233,Karla Ilaquita Condori,66109716,Tecnologías de la Información,Coordinador,2020-07-13,,k.ilaquita@servicios.com.pe,Activo
+EMP0234,Óscar Nina Vargas,12979118,Tecnologías de la Información,Analista,2015-05-15,,ó.nina@servicios.com.pe,Activo
+EMP0235,Jorge Medina Copaja,64518468,Compras,Supervisor,2011-06-11,2014-07-22,j.medina@servicios.com.pe,Cesado
+EMP0236,Sofía Bravo Paredes,21685281,Contabilidad,Supervisor,2011-05-16,2018-04-08,s.bravo@servicios.com.pe,Cesado
+EMP0237,Diana Salazar Ramos,74832289,Tecnologías de la Información,Jefe,2025-10-09,,d.salazar@servicios.com.pe,Activo
+EMP0238,Silvia Copaja Quispe,32446576,Compras,Coordinador,2013-09-02,,s.copaja@servicios.com.pe,Activo
+EMP0239,Marco Ramos Torres,26461231,Operaciones,Coordinador,2017-09-16,,m.ramos@servicios.com.pe,Activo
+EMP0240,Vanessa Copaja Paredes,40080147,Contabilidad,Asistente,2013-05-12,,v.copaja@servicios.com.pe,Activo
+EMP0241,Hugo Ticona Vargas,76487559,Compras,Asistente,2023-04-09,,h.ticona@servicios.com.pe,Activo
+EMP0242,Julio Chura Medina,55398818,Operaciones,Jefe,2024-02-22,,j.chura@servicios.com.pe,Activo
+EMP0243,Karla Vargas Colque,12212011,Tesorería,Asistente,2017-08-22,,k.vargas@servicios.com.pe,Activo
+EMP0244,Karla Peralta Cáceres,33180887,Operaciones,Supervisor,2016-04-17,,k.peralta@servicios.com.pe,Activo
+EMP0245,Nelson Núñez Apaza,16165233,Comercial,Supervisor,2021-07-27,,n.núñez@servicios.com.pe,Activo
+EMP0246,Nelson Mamani Maquera,40084524,Almacén,Operario,2021-11-01,,n.mamani@servicios.com.pe,Activo
+EMP0247,Julio Ilaquita Cáceres,23303241,Operaciones,Analista,2020-12-19,,j.ilaquita@servicios.com.pe,Activo
+EMP0248,Rosa Condori Zapana,63992589,Legal,Practicante,2021-02-01,,r.condori@servicios.com.pe,Activo
+EMP0249,Julio Choque Vargas,74746911,Recursos Humanos,Asistente,2025-05-12,,j.choque@servicios.com.pe,Activo
+EMP0250,Carmen Medina Bravo,25242448,Recursos Humanos,Analista,2022-01-03,,c.medina@servicios.com.pe,Activo
+EMP0251,Teresa Flores Chura,56400411,Tesorería,Operario,2011-05-15,,t.flores@servicios.com.pe,Activo
+EMP0252,Nelson Laura Peralta,30582565,Operaciones,Coordinador,2016-10-08,,n.laura@servicios.com.pe,Activo
+EMP0253,Silvia Núñez Núñez,21779571,Almacén,Asistente,2013-01-23,,s.núñez@servicios.com.pe,Activo
+EMP0254,Pedro Ancco Salazar,38007441,Legal,Jefe,2015-08-27,,p.ancco@servicios.com.pe,Activo
+EMP0255,Vanessa Núñez Quispe,35870241,Logística,Operario,2021-04-23,,v.núñez@servicios.com.pe,Activo
+EMP0256,Alberto Bravo Paredes,18486938,Compras,Jefe,2016-07-08,,a.bravo@servicios.com.pe,Activo
+EMP0257,Pedro Yufra Torres,35039737,Tecnologías de la Información,Analista,2013-03-18,,p.yufra@servicios.com.pe,Activo
+EMP0258,Julia Mamani Maquera,70044219,Compras,Supervisor,2020-05-11,2022-11-02,j.mamani@servicios.com.pe,Cesado
+EMP0259,Luis Quispe Núñez,67974601,Administración y Finanzas,Practicante,2013-05-05,,l.quispe@servicios.com.pe,Activo
+EMP0260,Carlos Ilaquita Aguilar,71580739,Tesorería,Operario,2022-03-19,,c.ilaquita@servicios.com.pe,Activo
+EMP0261,Silvia Cáceres Torres,13236589,Administración y Finanzas,Jefe,2020-01-01,,s.cáceres@servicios.com.pe,Activo
+EMP0262,Teresa Aguilar Colque,24928980,Administración y Finanzas,Jefe,2014-02-10,,t.aguilar@servicios.com.pe,Activo
+EMP0263,Óscar Apaza Cáceres,48780739,Almacén,Operario,2023-03-26,,ó.apaza@servicios.com.pe,Activo
+EMP0264,Pedro Paredes Cutipa,30505642,Tesorería,Coordinador,2022-02-01,,p.paredes@servicios.com.pe,Activo
+EMP0265,Julio Colque Torres,53023463,Logística,Practicante,2016-03-12,,j.colque@servicios.com.pe,Activo
+EMP0266,Alberto Paredes Medina,51282614,Operaciones,Asistente,2017-10-17,2022-07-30,a.paredes@servicios.com.pe,Cesado
+EMP0267,Jorge Maquera Quispe,32428372,Compras,Asistente,2016-06-21,,j.maquera@servicios.com.pe,Activo
+EMP0268,Nelson Rivera Mamani,32756026,Tecnologías de la Información,Jefe,2025-12-20,,n.rivera@servicios.com.pe,Activo
+EMP0269,Álvaro Copaja Torres,46503609,Tecnologías de la Información,Practicante,2012-12-19,,á.copaja@servicios.com.pe,Activo
+EMP0270,Rosa Ancco Mamani,25230943,Legal,Coordinador,2024-07-04,,r.ancco@servicios.com.pe,Activo
+EMP0271,Iván Salazar Cáceres,76420922,Logística,Practicante,2017-03-17,,i.salazar@servicios.com.pe,Activo
+EMP0272,Fernando Condori Núñez,73871732,Administración y Finanzas,Analista,2015-10-20,,f.condori@servicios.com.pe,Activo
+EMP0273,Nelson Yufra Cáceres,24213447,Gerencia,Coordinador,2025-02-05,2031-09-30,n.yufra@servicios.com.pe,Cesado
+EMP0274,Luis Mamani Condori,67487895,Compras,Coordinador,2011-02-01,,l.mamani@servicios.com.pe,Activo
+EMP0275,Lucía Condori Huanca,44009982,Gerencia,Analista,2021-06-06,,l.condori@servicios.com.pe,Activo
+EMP0276,Óscar Ilaquita Aguilar,72581179,Compras,Supervisor,2017-12-14,2024-11-23,ó.ilaquita@servicios.com.pe,Cesado
+EMP0277,Julia Copaja Ticona,61178051,Logística,Jefe,2017-06-09,2023-10-06,j.copaja@servicios.com.pe,Cesado
+EMP0278,Rocío Núñez Vargas,39579108,Gerencia,Operario,2019-04-16,,r.núñez@servicios.com.pe,Activo
+EMP0279,Sofía Apaza Choque,67524641,Almacén,Jefe,2019-09-02,,s.apaza@servicios.com.pe,Activo
+EMP0280,Fernando Chura Condori,23241211,Almacén,Asistente,2025-12-03,,f.chura@servicios.com.pe,Activo
+EMP0281,Vanessa Peralta Ramos,76244045,Recursos Humanos,Analista,2020-09-24,,v.peralta@servicios.com.pe,Activo
+EMP0282,Alberto Copaja Flores,28834798,Administración y Finanzas,Jefe,2021-01-12,2027-12-09,a.copaja@servicios.com.pe,Cesado
+EMP0283,Ricardo Quispe Zapana,55192451,Logística,Practicante,2017-11-08,,r.quispe@servicios.com.pe,Activo
+EMP0284,Karla Flores Copaja,15341441,Compras,Supervisor,2011-02-05,,k.flores@servicios.com.pe,Activo
+EMP0285,Óscar Aguilar Huanca,22238371,Administración y Finanzas,Supervisor,2013-10-02,,ó.aguilar@servicios.com.pe,Activo
+EMP0286,Nelson Calisaya Rivera,24556700,Recursos Humanos,Asistente,2022-11-05,,n.calisaya@servicios.com.pe,Activo
+EMP0287,Ana Paredes Torres,50545677,Logística,Jefe,2022-09-09,,a.paredes@servicios.com.pe,Activo
+EMP0288,Paola Ancco Cutipa,76610015,Legal,Jefe,2022-02-21,,p.ancco@servicios.com.pe,Activo
+EMP0289,Nelson Laura Vargas,20184512,Recursos Humanos,Supervisor,2011-12-21,,n.laura@servicios.com.pe,Activo
+EMP0290,Ricardo Ramos Mamani,38986815,Almacén,Practicante,2018-01-05,,r.ramos@servicios.com.pe,Activo
+EMP0291,Vanessa Yufra Maquera,29784072,Contabilidad,Operario,2018-05-14,,v.yufra@servicios.com.pe,Activo
+EMP0292,Marta Aguilar Apaza,39241604,Gerencia,Practicante,2011-07-14,,m.aguilar@servicios.com.pe,Activo
+EMP0293,Miguel Chura Colque,51087459,Tesorería,Supervisor,2015-03-17,,m.chura@servicios.com.pe,Activo
+EMP0294,Hugo Laura Choque,36322016,Almacén,Analista,2024-04-17,,h.laura@servicios.com.pe,Activo
+EMP0295,Lucía Rivera Calisaya,33384356,Comercial,Analista,2025-04-26,,l.rivera@servicios.com.pe,Activo
+EMP0296,Iván Medina Copaja,26636644,Administración y Finanzas,Coordinador,2021-06-17,2026-05-22,i.medina@servicios.com.pe,Cesado
+EMP0297,Hugo Vargas Mamani,58014180,Operaciones,Supervisor,2013-03-21,,h.vargas@servicios.com.pe,Activo
+EMP0298,Elena Peralta Laura,18079344,Administración y Finanzas,Practicante,2020-10-15,,e.peralta@servicios.com.pe,Activo
+EMP0299,Carlos Copaja Bravo,19453003,Comercial,Coordinador,2016-07-23,,c.copaja@servicios.com.pe,Activo
+EMP0300,Julia Yufra Apaza,79644860,Gerencia,Coordinador,2012-04-19,,j.yufra@servicios.com.pe,Activo
+EMP0301,Paola Zapana Colque,12929747,Administración y Finanzas,Supervisor,2020-08-27,,p.zapana@servicios.com.pe,Activo
+EMP0302,Rocío Peralta Cutipa,77095123,Tesorería,Asistente,2017-06-16,,r.peralta@servicios.com.pe,Activo
+EMP0303,Nadia Ancco Laura,15036696,Compras,Analista,2016-08-12,,n.ancco@servicios.com.pe,Activo
+EMP0304,Iván Quispe Colque,39593445,Operaciones,Asistente,2024-02-03,,i.quispe@servicios.com.pe,Activo
+EMP0305,Teresa Cutipa Flores,66196130,Operaciones,Operario,2013-10-07,,t.cutipa@servicios.com.pe,Activo
+EMP0306,Nelson Bravo Nina,48880111,Operaciones,Jefe,2013-10-25,,n.bravo@servicios.com.pe,Activo
+EMP0307,Nelson Bravo Ramos,10299191,Operaciones,Practicante,2018-12-15,2023-04-26,n.bravo@servicios.com.pe,Cesado
+EMP0308,Marco Bravo Bravo,59150755,Legal,Coordinador,2022-08-04,,m.bravo@servicios.com.pe,Activo
+EMP0309,Elena Ilaquita Colque,36587937,Logística,Practicante,2017-12-24,,e.ilaquita@servicios.com.pe,Activo
+EMP0310,Miguel Mamani Peralta,72168448,Logística,Operario,2016-05-14,,m.mamani@servicios.com.pe,Activo
+EMP0311,Silvia Quispe Condori,14311948,Tesorería,Asistente,2014-05-01,,s.quispe@servicios.com.pe,Activo
+EMP0312,Julio Ilaquita Laura,31837927,Gerencia,Analista,2023-12-04,,j.ilaquita@servicios.com.pe,Activo
+EMP0313,Rosa Huanca Mamani,38565424,Operaciones,Practicante,2014-08-27,2021-08-31,r.huanca@servicios.com.pe,Cesado
+EMP0314,Sofía Paredes Bravo,24233679,Operaciones,Operario,2015-12-07,,s.paredes@servicios.com.pe,Activo
+EMP0315,Karla Yufra Torres,12852284,Administración y Finanzas,Operario,2020-04-18,,k.yufra@servicios.com.pe,Activo
+EMP0316,Vanessa Torres Zapana,54816730,Comercial,Operario,2013-11-01,,v.torres@servicios.com.pe,Activo
+EMP0317,Luis Torres Maquera,61596176,Operaciones,Practicante,2014-09-11,,l.torres@servicios.com.pe,Activo
+EMP0318,Nelson Zapana Ticona,56248936,Contabilidad,Jefe,2014-08-20,2018-06-07,n.zapana@servicios.com.pe,Cesado
+EMP0319,Luis Ancco Chura,32039215,Legal,Analista,2015-02-26,,l.ancco@servicios.com.pe,Activo
+EMP0320,Gabriela Calisaya Ticona,62665092,Comercial,Analista,2014-06-20,,g.calisaya@servicios.com.pe,Activo
+EMP0321,Ricardo Calisaya Laura,63651480,Tesorería,Jefe,2011-04-15,2017-12-13,r.calisaya@servicios.com.pe,Cesado
+EMP0322,Hugo Chura Salazar,34810855,Tecnologías de la Información,Practicante,2019-10-14,2020-08-25,h.chura@servicios.com.pe,Cesado
+EMP0323,Marta Peralta Cutipa,18909610,Contabilidad,Practicante,2018-03-01,,m.peralta@servicios.com.pe,Activo
+EMP0324,Teresa Calisaya Ramos,40026875,Recursos Humanos,Coordinador,2021-06-24,,t.calisaya@servicios.com.pe,Activo
+EMP0325,Ricardo Peralta Torres,12474870,Contabilidad,Coordinador,2023-09-07,,r.peralta@servicios.com.pe,Activo
+EMP0326,Raúl Yufra Núñez,20112002,Tesorería,Jefe,2023-11-21,,r.yufra@servicios.com.pe,Activo
+EMP0327,Luis Huanca Zapana,16548467,Comercial,Jefe,2020-04-06,,l.huanca@servicios.com.pe,Activo
+EMP0328,Ana Ilaquita Torres,72596223,Legal,Operario,2019-01-27,,a.ilaquita@servicios.com.pe,Activo
+EMP0329,Paola Peralta Aguilar,70320996,Gerencia,Jefe,2025-02-19,2030-05-31,p.peralta@servicios.com.pe,Cesado
+EMP0330,Víctor Mamani Salazar,60189809,Almacén,Asistente,2015-11-02,,v.mamani@servicios.com.pe,Activo
+EMP0331,Óscar Laura Rivera,50177878,Logística,Coordinador,2017-07-21,2020-01-25,ó.laura@servicios.com.pe,Cesado
+EMP0332,Álvaro Bravo Quispe,64831779,Recursos Humanos,Coordinador,2014-12-16,,á.bravo@servicios.com.pe,Activo
+EMP0333,Carmen Zapana Paredes,18888518,Recursos Humanos,Analista,2014-02-26,2016-07-09,c.zapana@servicios.com.pe,Cesado
+EMP0334,Paola Zapana Bravo,59323347,Administración y Finanzas,Operario,2018-01-15,,p.zapana@servicios.com.pe,Activo
+EMP0335,Marco Medina Núñez,25563563,Administración y Finanzas,Operario,2016-10-20,,m.medina@servicios.com.pe,Activo
+EMP0336,Karla Salazar Vargas,16030196,Tecnologías de la Información,Coordinador,2015-05-24,,k.salazar@servicios.com.pe,Activo
+EMP0337,Rosa Núñez Quispe,30029412,Contabilidad,Practicante,2011-03-18,,r.núñez@servicios.com.pe,Activo
+EMP0338,Nelson Colque Núñez,68458676,Recursos Humanos,Coordinador,2019-11-20,,n.colque@servicios.com.pe,Activo
+EMP0339,Fernando Mamani Vargas,66020877,Contabilidad,Coordinador,2016-03-23,2022-12-22,f.mamani@servicios.com.pe,Cesado
+EMP0340,Pedro Ilaquita Yufra,59698878,Almacén,Jefe,2018-12-11,,p.ilaquita@servicios.com.pe,Activo
+EMP0341,Lucía Ilaquita Paredes,65583083,Gerencia,Supervisor,2020-09-14,,l.ilaquita@servicios.com.pe,Activo
+EMP0342,Marta Colque Ilaquita,56056044,Administración y Finanzas,Jefe,2023-12-11,,m.colque@servicios.com.pe,Activo
+EMP0343,Carlos Rivera Ticona,20309189,Administración y Finanzas,Jefe,2014-07-04,,c.rivera@servicios.com.pe,Activo
+EMP0344,Teresa Chura Calisaya,44378244,Recursos Humanos,Operario,2024-05-21,,t.chura@servicios.com.pe,Activo
+EMP0345,Hugo Paredes Zapana,27446532,Compras,Practicante,2018-03-21,,h.paredes@servicios.com.pe,Activo
+EMP0346,Carlos Salazar Condori,77621873,Recursos Humanos,Analista,2025-10-18,2031-12-19,c.salazar@servicios.com.pe,Cesado
+EMP0347,Fernando Torres Rivera,45809885,Legal,Asistente,2024-11-19,,f.torres@servicios.com.pe,Activo
+EMP0348,Jorge Ticona Maquera,10108340,Tesorería,Jefe,2018-10-16,,j.ticona@servicios.com.pe,Activo
+EMP0349,Fernando Chura Ilaquita,24112122,Recursos Humanos,Practicante,2023-01-24,,f.chura@servicios.com.pe,Activo
+EMP0350,Teresa Colque Copaja,21167587,Almacén,Jefe,2018-05-06,,t.colque@servicios.com.pe,Activo
+EMP0351,Paola Laura Condori,59495916,Tesorería,Practicante,2020-07-09,,p.laura@servicios.com.pe,Activo
+EMP0352,Carlos Salazar Chura,28270027,Comercial,Jefe,2017-11-05,,c.salazar@servicios.com.pe,Activo
+EMP0353,Nadia Condori Rivera,27604310,Tecnologías de la Información,Operario,2023-07-13,,n.condori@servicios.com.pe,Activo
+EMP0354,Óscar Yufra Bravo,51789700,Logística,Supervisor,2018-03-21,,ó.yufra@servicios.com.pe,Activo
+EMP0355,Elena Zapana Condori,57067201,Tesorería,Analista,2024-05-06,,e.zapana@servicios.com.pe,Activo
+EMP0356,Óscar Apaza Quispe,52729612,Comercial,Asistente,2011-11-15,,ó.apaza@servicios.com.pe,Activo
+EMP0357,Diana Chura Nina,38288547,Logística,Supervisor,2011-02-08,,d.chura@servicios.com.pe,Activo
+EMP0358,Óscar Yufra Aguilar,66753694,Legal,Practicante,2020-05-02,,ó.yufra@servicios.com.pe,Activo
+EMP0359,Julia Ilaquita Quispe,54000143,Gerencia,Jefe,2018-11-03,,j.ilaquita@servicios.com.pe,Activo
+EMP0360,Álvaro Yufra Aguilar,32150730,Tesorería,Practicante,2020-10-15,,á.yufra@servicios.com.pe,Activo
+EMP0361,Alberto Vargas Cáceres,13603409,Administración y Finanzas,Practicante,2014-05-22,,a.vargas@servicios.com.pe,Activo
+EMP0362,Julio Apaza Mamani,47748386,Administración y Finanzas,Supervisor,2013-09-09,,j.apaza@servicios.com.pe,Activo
+EMP0363,Silvia Chura Nina,57847796,Compras,Supervisor,2022-09-26,,s.chura@servicios.com.pe,Activo
+EMP0364,Teresa Laura Peralta,44623797,Compras,Operario,2017-08-20,,t.laura@servicios.com.pe,Activo
+EMP0365,Fernando Medina Ticona,33966186,Contabilidad,Practicante,2023-04-06,,f.medina@servicios.com.pe,Activo
+EMP0366,Vanessa Ticona Colque,34897887,Recursos Humanos,Supervisor,2021-03-21,,v.ticona@servicios.com.pe,Activo
+EMP0367,Ricardo Choque Laura,14610160,Administración y Finanzas,Asistente,2020-11-22,,r.choque@servicios.com.pe,Activo
+EMP0368,Pedro Condori Condori,58399677,Comercial,Jefe,2011-11-20,,p.condori@servicios.com.pe,Activo
+EMP0369,Rosa Bravo Condori,40769862,Logística,Jefe,2011-09-04,,r.bravo@servicios.com.pe,Activo
+EMP0370,Iván Choque Cutipa,28717565,Administración y Finanzas,Supervisor,2023-08-16,,i.choque@servicios.com.pe,Activo
+EMP0371,Álvaro Quispe Flores,76466612,Gerencia,Operario,2024-03-17,,á.quispe@servicios.com.pe,Activo
+EMP0372,Carmen Mamani Copaja,37685006,Tecnologías de la Información,Asistente,2013-05-08,,c.mamani@servicios.com.pe,Activo
+EMP0373,Hugo Chura Huanca,39532743,Administración y Finanzas,Jefe,2013-08-07,,h.chura@servicios.com.pe,Activo
+EMP0374,Julio Mamani Colque,51523359,Administración y Finanzas,Practicante,2011-04-24,,j.mamani@servicios.com.pe,Activo
+EMP0375,Nelson Núñez Nina,56382134,Almacén,Asistente,2018-09-11,,n.núñez@servicios.com.pe,Activo
+EMP0376,Jorge Paredes Vargas,40709620,Contabilidad,Jefe,2021-03-12,,j.paredes@servicios.com.pe,Activo
+EMP0377,Fernando Peralta Apaza,70797250,Tesorería,Coordinador,2022-04-17,,f.peralta@servicios.com.pe,Activo
+EMP0378,Paola Torres Quispe,21823334,Tecnologías de la Información,Asistente,2021-06-22,,p.torres@servicios.com.pe,Activo
+EMP0379,Ricardo Apaza Laura,79758416,Administración y Finanzas,Operario,2014-08-24,,r.apaza@servicios.com.pe,Activo
+EMP0380,Julio Ancco Flores,18672961,Recursos Humanos,Analista,2022-03-12,,j.ancco@servicios.com.pe,Activo
+EMP0381,Diana Huanca Mamani,37323918,Almacén,Practicante,2016-04-04,,d.huanca@servicios.com.pe,Activo
+EMP0382,Luis Nina Ticona,24065614,Tesorería,Practicante,2018-12-26,,l.nina@servicios.com.pe,Activo
+EMP0383,Elena Quispe Núñez,73970518,Comercial,Asistente,2020-04-08,,e.quispe@servicios.com.pe,Activo
+EMP0384,Pedro Vargas Zapana,28860752,Contabilidad,Asistente,2016-01-25,,p.vargas@servicios.com.pe,Activo
+EMP0385,Sofía Choque Núñez,40594920,Operaciones,Operario,2016-12-15,,s.choque@servicios.com.pe,Activo
+EMP0386,Álvaro Torres Condori,70524135,Recursos Humanos,Coordinador,2023-10-03,,á.torres@servicios.com.pe,Activo
+EMP0387,Vanessa Apaza Quispe,46132735,Tesorería,Asistente,2025-01-15,,v.apaza@servicios.com.pe,Activo
+EMP0388,Karla Laura Calisaya,24097730,Administración y Finanzas,Coordinador,2011-02-24,2016-01-12,k.laura@servicios.com.pe,Cesado
+EMP0389,Julio Núñez Quispe,30252569,Administración y Finanzas,Practicante,2011-05-21,,j.núñez@servicios.com.pe,Activo
+EMP0390,Paola Laura Cutipa,25275124,Tecnologías de la Información,Supervisor,2022-11-03,,p.laura@servicios.com.pe,Activo
+EMP0391,Julia Núñez Rivera,26012085,Gerencia,Practicante,2017-05-18,,j.núñez@servicios.com.pe,Activo
+EMP0392,Iván Maquera Copaja,56636611,Compras,Operario,2023-10-08,,i.maquera@servicios.com.pe,Activo
+EMP0393,Ana Zapana Colque,11842121,Tesorería,Operario,2024-10-09,2026-12-10,a.zapana@servicios.com.pe,Cesado
+EMP0394,Jorge Aguilar Cáceres,31174565,Administración y Finanzas,Jefe,2022-08-08,,j.aguilar@servicios.com.pe,Activo
+EMP0395,Carlos Paredes Bravo,73352000,Legal,Asistente,2013-02-27,,c.paredes@servicios.com.pe,Activo
+EMP0396,Ana Copaja Choque,72903455,Tecnologías de la Información,Asistente,2014-06-23,,a.copaja@servicios.com.pe,Activo
+EMP0397,Carlos Copaja Copaja,73840121,Legal,Analista,2011-01-15,,c.copaja@servicios.com.pe,Activo
+EMP0398,Julia Zapana Quispe,15663950,Legal,Analista,2017-11-03,,j.zapana@servicios.com.pe,Activo
+EMP0399,Carlos Colque Ticona,68052407,Almacén,Analista,2023-02-12,,c.colque@servicios.com.pe,Activo
+EMP0400,Julio Aguilar Medina,66560487,Gerencia,Jefe,2013-12-26,,j.aguilar@servicios.com.pe,Activo
+EMP0401,Carmen Ilaquita Chura,63821806,Tecnologías de la Información,Jefe,2020-12-08,,c.ilaquita@servicios.com.pe,Activo
+EMP0402,Julio Laura Laura,66515214,Legal,Jefe,2024-05-14,,j.laura@servicios.com.pe,Activo
+EMP0403,Óscar Apaza Vargas,73394421,Gerencia,Practicante,2014-04-26,,ó.apaza@servicios.com.pe,Activo
+EMP0404,Ana Laura Rivera,26573539,Comercial,Operario,2021-11-24,,a.laura@servicios.com.pe,Activo
+EMP0405,Raúl Huanca Ticona,26993399,Tecnologías de la Información,Jefe,2025-07-07,,r.huanca@servicios.com.pe,Activo
+EMP0406,Raúl Cáceres Choque,47498722,Tesorería,Analista,2016-11-26,,r.cáceres@servicios.com.pe,Activo
+EMP0407,Rocío Peralta Quispe,56710472,Recursos Humanos,Supervisor,2018-02-10,,r.peralta@servicios.com.pe,Activo
+EMP0408,Carmen Paredes Medina,35365681,Recursos Humanos,Coordinador,2022-03-11,,c.paredes@servicios.com.pe,Activo
+EMP0409,Marco Torres Cutipa,69419579,Recursos Humanos,Supervisor,2015-10-24,,m.torres@servicios.com.pe,Activo
+EMP0410,Rocío Núñez Rivera,11498279,Recursos Humanos,Jefe,2012-02-16,2013-10-02,r.núñez@servicios.com.pe,Cesado
+EMP0411,Fernando Salazar Laura,33096646,Operaciones,Coordinador,2025-08-24,,f.salazar@servicios.com.pe,Activo
+EMP0412,Vanessa Cáceres Condori,51800676,Tecnologías de la Información,Practicante,2018-08-23,2022-05-21,v.cáceres@servicios.com.pe,Cesado
+EMP0413,Carlos Mamani Apaza,57199323,Recursos Humanos,Coordinador,2014-12-11,,c.mamani@servicios.com.pe,Activo
+EMP0414,Carmen Quispe Zapana,57088405,Tesorería,Jefe,2024-10-11,,c.quispe@servicios.com.pe,Activo
+EMP0415,Raúl Flores Colque,20472132,Tesorería,Analista,2012-06-08,,r.flores@servicios.com.pe,Activo
+EMP0416,Diana Copaja Aguilar,28937517,Legal,Analista,2021-01-25,2024-03-28,d.copaja@servicios.com.pe,Cesado
+EMP0417,Rocío Copaja Medina,23402570,Administración y Finanzas,Jefe,2022-06-15,,r.copaja@servicios.com.pe,Activo
+EMP0418,Lucía Cáceres Torres,54956943,Recursos Humanos,Jefe,2021-12-06,,l.cáceres@servicios.com.pe,Activo
+EMP0419,Lucía Peralta Laura,63600416,Contabilidad,Practicante,2013-02-22,,l.peralta@servicios.com.pe,Activo
+EMP0420,Carmen Mamani Bravo,24453619,Almacén,Analista,2025-04-22,,c.mamani@servicios.com.pe,Activo

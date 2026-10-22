@@ -1,0 +1,7 @@
+id,proceso,criticidad,rto_horas,rpo_horas,sistema_soporte,responsable,impacto_24h,ultima_prueba
+BIA01,Admisión y matrícula,Baja,48,72,Sistema académico,Marta Mamani Aguilar,Bajo,
+BIA02,Programación académica y carga docente,Alta,72,24,Sistema académico,Miguel Apaza Ilaquita,Bajo,
+BIA03,Registro de evaluaciones y actas,Alta,4,48,Sistema académico,Nadia Choque Calisaya,Bajo,
+BIA04,Cobranza de pensiones,Media,24,8,Cobranzas y tesorería,Álvaro Salazar Yufra,Medio,
+BIA05,Titulación y certificación,Alta,2,48,Sistema académico,Vanessa Rivera Torres,Bajo,
+BIA06,Bienestar y seguimiento estudiantil,Alta,24,24,Aula virtual,Vanessa Ancco Ramos,Bajo,

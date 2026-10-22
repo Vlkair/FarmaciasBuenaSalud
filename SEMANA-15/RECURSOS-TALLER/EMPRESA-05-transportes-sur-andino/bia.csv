@@ -1,0 +1,7 @@
+id,proceso,criticidad,rto_horas,rpo_horas,sistema_soporte,responsable,impacto_24h,ultima_prueba
+BIA01,Programación de flota y rutas,Baja,8,32,GPS y control de flota,Nelson Ilaquita Calisaya,Bajo,
+BIA02,Venta de pasajes en counter y en línea,Alta,72,24,Venta de pasajes y manifiesto,Silvia Quispe Ilaquita,Alto,
+BIA03,Embarque y manifiesto de pasajeros,Alta,8,48,Venta de pasajes y manifiesto,Vanessa Calisaya Flores,Medio,2025-04-21
+BIA04,Mantenimiento de unidades,Baja,12,48,Mantenimiento de unidades,Julio Nina Flores,Medio,
+BIA05,Control de conductores y descansos,Baja,2,48,Planillas y control de descanso de conductores,Silvia Colque Apaza,Medio,2025-02-11
+BIA06,Encomiendas y carga,Alta,8,1,Venta de pasajes y manifiesto,Silvia Flores Copaja,Medio,

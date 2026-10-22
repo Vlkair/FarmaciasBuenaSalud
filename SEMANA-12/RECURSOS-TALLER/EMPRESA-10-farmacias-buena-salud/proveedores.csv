@@ -1,0 +1,99 @@
+codigo_proveedor,razon_social,ruc,contacto,documento_contacto,telefono,direccion,fecha_alta,estado
+PRV0001,Soluciones Pacífico S.R.L.,20511477625,Karla Quispe Laura,74447557,927690000,"Av. Frontera 729, Tacna",2025-06-11,Activo
+PRV0002,Grupo Frontera S.R.L.,20147958770,Julia Cutipa Salazar,22134863,910153876,"Av. Global 673, Tacna",2025-08-23,Activo
+PRV0003,Representaciones Tacna S.A.C.,20478086233,Raúl Maquera Choque,39472403,995456382,"Av. Costa Verde 1430, Tacna",2025-03-31,Activo
+PRV0004,Grupo Global S.A.,20511924831,Miguel Bravo Ilaquita,52329895,953867198,"Av. Los Andes 285, Tacna",2025-08-20,Activo
+PRV0005,Consorcio Continental E.I.R.L.,20384273055,Ana Ancco Mamani,31366952,930633751,"Av. Global 1761, Tacna",2025-10-23,Activo
+PRV0006,Representaciones Frontera S.A.C.,20378100256,Ricardo Peralta Zapana,68476962,980743824,"Av. Pacífico 1683, Tacna",2025-09-24,Activo
+PRV0007,Distribuidora Integral E.I.R.L.,20238077421,Rosa Torres Paredes,31630378,931701517,"Av. Pacífico 402, Tacna",2025-10-23,Activo
+PRV0008,Negocios Altiplano S.R.L.,20306549289,Rosa Flores Ilaquita,38341721,992150306,"Av. Pacífico 2122, Tacna",2025-11-25,Activo
+PRV0009,Corporación Andina S.A.,20232140582,Pedro Salazar Flores,20827743,985796985,"Av. Bahía 1881, Tacna",2025-08-16,Activo
+PRV0010,Industrias Bahía S.A.C.,20523319751,Víctor Cáceres Ilaquita,14960863,995864273,"Av. Pacífico 1664, Tacna",2025-08-07,Activo
+PRV0011,Comercial Los Andes S.A.C.,20402797411,Elena Paredes Ramos,72352580,944812443,"Av. Pacífico 690, Tacna",2025-05-23,Activo
+PRV0012,Inversiones Tacna S.R.L.,20552532356,Rocío Huanca Nina,38224055,921919321,"Av. Frontera 857, Tacna",2025-04-29,Activo
+PRV0013,Corporación Los Andes S.A.,20389597442,Rosa Zapana Huanca,13918391,940133871,"Av. Frontera 2367, Tacna",2025-07-08,Activo
+PRV0014,Comercial Global S.A.C.,20572229304,Hugo Condori Nina,57318983,923114439,"Av. Altiplano 2117, Tacna",2025-12-21,Activo
+PRV0015,Representaciones Frontera E.I.R.L.,20433502739,Iván Salazar Cáceres,53147528,938474753,"Av. Global 1405, Tacna",2025-10-26,Activo
+PRV0016,Industrias Altiplano S.A.C.,20152582018,Marta Choque Vargas,37428102,924439553,"Av. Pacífico 2223, Tacna",2025-11-08,Activo
+PRV0017,Distribuidora Integral E.I.R.L.,20646434037,Marco Ramos Mamani,47221886,924537730,"Av. del Sur 2367, Tacna",2025-07-07,Activo
+PRV0018,Soluciones del Sur S.A.C.,20383170164,Nelson Huanca Ramos,75922785,957785465,"Av. Global 646, Tacna",2025-08-17,Activo
+PRV0019,Importaciones Continental S.A.,20698488866,Carlos Calisaya Torres,70493151,913532247,"Av. Altiplano 1315, Tacna",2025-05-25,Activo
+PRV0020,Soluciones Integral S.R.L.,20431326371,Pedro Peralta Aguilar,35154596,997182128,"Av. Altiplano 1990, Tacna",2025-11-10,Activo
+PRV0021,Distribuidora Andina S.A.C.,20202149613,Alberto Yufra Copaja,64735652,912410344,"Av. Bahía 1645, Tacna",2025-10-07,Activo
+PRV0022,Comercial Global S.R.L.,20539711761,Álvaro Núñez Cáceres,32574402,987638780,"Av. Los Andes 592, Tacna",2025-04-14,Activo
+PRV0023,Industrias Frontera S.A.C.,20232602195,Pedro Colque Peralta,52040622,997160726,"Av. Frontera 192, Tacna",2025-05-24,Activo
+PRV0024,Industrias Bahía S.R.L.,20640031862,Rocío Quispe Ilaquita,34219654,936608881,"Av. Continental 2192, Tacna",2025-09-23,Activo
+PRV0025,Servicios del Sur S.R.L.,20382061489,Iván Chura Paredes,24369100,952699704,"Av. Integral 1561, Tacna",2025-11-22,Activo
+PRV0026,Consorcio del Sur S.A.,20149330165,Teresa Salazar Medina,53875660,989433141,"Av. Los Andes 855, Tacna",2025-01-30,Activo
+PRV0027,Representaciones Costa Verde S.A.C.,20564422671,Alberto Huanca Ilaquita,37950218,910939119,"Av. Global 588, Tacna",2025-06-01,Activo
+PRV0028,Corporación Altiplano S.A.C.,20338056779,Marta Aguilar Nina,22890390,959515526,"Av. Tacna 1723, Tacna",2025-08-15,Activo
+PRV0029,Consorcio Pacífico S.A.,20404551763,Silvia Mamani Choque,16733143,912641160,"Av. Andina 299, Tacna",2025-10-23,Activo
+PRV0030,Representaciones Los Andes E.I.R.L.,20473423570,Silvia Quispe Chura,28573021,926782082,"Av. Frontera 514, Tacna",2025-03-29,Activo
+PRV0031,Servicios Global S.R.L.,20685794190,Marta Aguilar Choque,22748206,988294417,"Av. Los Andes 2235, Tacna",2025-04-19,Activo
+PRV0032,Corporación Frontera S.R.L.,20361085710,Hugo Torres Zapana,31244606,962450695,"Av. Global 1279, Tacna",2025-11-27,Activo
+PRV0033,Corporación Andina S.A.C.,20563224442,Marco Copaja Flores,10644695,916635105,"Av. Global 296, Tacna",2025-04-16,Activo
+PRV0034,Industrias del Sur S.A.C.,20176563728,Carlos Choque Quispe,47271077,975239174,"Av. Global 951, Tacna",2025-02-14,Activo
+PRV0035,Consorcio Andina S.A.C.,20306616982,Víctor Mamani Paredes,30149545,933607725,"Av. Los Andes 1476, Tacna",2025-10-04,Activo
+PRV0036,Corporación Bahía S.A.C.,20208229877,Raúl Zapana Maquera,52778901,950276075,"Av. Bahía 851, Tacna",2025-07-23,Activo
+PRV0037,Negocios Pacífico E.I.R.L.,20286665555,Hugo Cutipa Choque,68791814,960808810,"Av. Los Andes 631, Tacna",2025-04-23,Activo
+PRV0038,Importaciones Global S.A.,20618416715,Carlos Flores Rivera,79241918,968447411,"Av. Bahía 153, Tacna",2025-10-14,Activo
+PRV0039,Consorcio Tacna E.I.R.L.,20582297260,Sofía Calisaya Laura,54822890,921129556,"Av. Andina 1127, Tacna",2025-11-27,Activo
+PRV0040,Representaciones Costa Verde E.I.R.L.,20219232134,Paola Calisaya Peralta,52086964,992874825,"Av. Altiplano 1818, Tacna",2025-05-03,Activo
+PRV0041,Grupo Continental S.A.C.,20124909605,Miguel Bravo Peralta,39164796,954957196,"Av. Frontera 721, Tacna",2025-03-26,Activo
+PRV0042,Corporación Continental S.A.,20433587054,Nadia Paredes Apaza,67082571,970350298,"Av. Integral 1639, Tacna",2025-01-20,Activo
+PRV0043,Negocios Bahía S.R.L.,20364169798,Karla Cutipa Condori,26431776,985931395,"Av. Frontera 1800, Tacna",2025-04-17,Activo
+PRV0044,Corporación Andina S.A.,20171431756,Gabriela Ticona Vargas,51645188,995584300,"Av. Andina 2090, Tacna",2025-03-19,Activo
+PRV0045,Corporación Altiplano E.I.R.L.,20338127387,Julia Medina Mamani,59436028,921323344,"Av. Costa Verde 1442, Tacna",2025-04-15,Activo
+PRV0046,Importaciones Continental S.A.C.,20636313942,Julio Huanca Ancco,44325778,970582667,"Av. Frontera 1041, Tacna",2025-05-25,Activo
+PRV0047,Representaciones Costa Verde S.A.C.,20689065845,Diana Rivera Nina,16484228,934957006,"Av. Bahía 1948, Tacna",2025-08-23,Activo
+PRV0048,Grupo Frontera E.I.R.L.,20117489000,Rocío Choque Quispe,19289393,942297193,"Av. Altiplano 1889, Tacna",2025-08-11,Activo
+PRV0049,Negocios Pacífico S.A.,20664290199,Ana Yufra Zapana,41163796,998164073,"Av. Costa Verde 1417, Tacna",2025-05-12,Activo
+PRV0050,Corporación Los Andes S.A.C.,20250387638,Diana Torres Yufra,68779094,925052599,"Av. Pacífico 1684, Tacna",2025-07-10,Activo
+PRV0051,Consorcio Integral S.A.,20483454727,Lucía Torres Laura,20311932,912073509,"Av. Bahía 1390, Tacna",2025-10-17,Activo
+PRV0052,Corporación Andina S.R.L.,20259204717,Elena Maquera Cáceres,64879879,949044660,"Av. Bahía 488, Tacna",2025-06-13,Activo
+PRV0053,Soluciones Bahía S.A.,20186412614,Elena Apaza Bravo,50584271,925326559,"Av. Integral 911, Tacna",2025-04-01,Activo
+PRV0054,Inversiones Los Andes S.R.L.,20490171687,Marta Cutipa Vargas,52734991,992150306,"Av. Pacífico 2122, Tacna",2025-07-18,Activo
+PRV0055,Servicios del Sur S.A.,20667805798,Gabriela Colque Ramos,34512581,929280235,"Av. Frontera 2086, Tacna",2025-09-26,Activo
+PRV0056,Negocios Tacna S.A.,20274844093,Vanessa Ancco Chura,45454822,973742703,"Av. Los Andes 1911, Tacna",2025-05-26,Activo
+PRV0057,Representaciones Altiplano E.I.R.L.,20628146464,Miguel Aguilar Choque,16008362,982781334,"Av. Frontera 1383, Tacna",2025-12-20,Activo
+PRV0058,Negocios Altiplano S.A.,20555854878,Elena Cutipa Medina,37541944,967929169,"Av. Altiplano 1198, Tacna",2025-02-28,Activo
+PRV0059,Inversiones del Sur S.R.L.,20513418280,Karla Colque Ilaquita,19964008,915323365,"Av. Bahía 183, Tacna",2025-11-11,Activo
+PRV0060,Grupo Los Andes E.I.R.L.,20129122228,Carlos Medina Aguilar,78335094,976389897,"Av. Costa Verde 1367, Tacna",2025-02-06,Activo
+PRV0061,Corporación Bahía E.I.R.L.,20244424859,Rocío Zapana Cáceres,44648943,910349703,"Av. del Sur 1868, Tacna",2025-10-21,Activo
+PRV0062,Inversiones Costa Verde S.R.L.,20617829858,Raúl Ramos Ramos,46219209,982988173,"Av. Tacna 1613, Tacna",2025-04-29,Activo
+PRV0063,Industrias Global E.I.R.L.,20621314965,Marco Nina Maquera,40685467,917646396,"Av. Altiplano 527, Tacna",2025-01-20,Activo
+PRV0064,Negocios del Sur S.R.L.,20289516788,Karla Huanca Rivera,41875887,940580492,"Av. Altiplano 717, Tacna",2025-03-27,Activo
+PRV0065,Negocios Global S.R.L.,20383261633,Ana Colque Choque,50234016,988093970,"Av. Bahía 1298, Tacna",2025-10-31,Activo
+PRV0066,Soluciones del Sur S.A.,20387874409,Alberto Yufra Núñez,57842985,937311914,"Av. Pacífico 446, Tacna",2025-07-08,Activo
+PRV0067,Inversiones Los Andes S.A.,20156879964,Rocío Chura Quispe,53616320,955231403,"Av. Costa Verde 1818, Tacna",2025-11-19,Activo
+PRV0068,Soluciones Tacna S.R.L.,20195656613,Lucía Peralta Maquera,74291827,915423055,"Av. Andina 2393, Tacna",2025-12-27,Activo
+PRV0069,Corporación Tacna S.A.C.,20637998671,Álvaro Laura Laura,53103931,927760346,"Av. Tacna 1260, Tacna",2025-05-24,Activo
+PRV0070,Comercial Los Andes S.A.,20277766419,Diana Medina Ilaquita,61877244,951621603,"Av. Continental 676, Tacna",2025-03-23,Activo
+PRV0071,Negocios Andina S.R.L.,20528513099,Silvia Rivera Cutipa,60958057,949865086,"Av. Global 1385, Tacna",2025-02-02,Activo
+PRV0072,Consorcio Frontera S.R.L.,20394413891,Vanessa Bravo Rivera,37098560,951203812,"Av. Continental 2135, Tacna",2025-11-26,Activo
+PRV0073,Soluciones Altiplano S.A.,20698544891,Teresa Colque Calisaya,70902446,971722387,"Av. Global 429, Tacna",2025-01-06,Activo
+PRV0074,Importaciones Integral S.A.C.,20202714197,Ana Paredes Huanca,43849485,945077704,"Av. Global 1162, Tacna",2025-11-04,Activo
+PRV0075,Grupo Frontera S.R.L.,20623193549,Julia Núñez Laura,41129987,975481780,"Av. Integral 1141, Tacna",2025-06-20,Activo
+PRV0076,Corporación del Sur E.I.R.L.,20318179652,Elena Flores Vargas,63251723,961554340,"Av. Los Andes 1142, Tacna",2025-04-01,Activo
+PRV0077,Consorcio Global E.I.R.L.,20479266829,Lucía Quispe Salazar,71036586,943514699,"Av. Los Andes 445, Tacna",2025-11-30,Activo
+PRV0078,Soluciones Costa Verde S.R.L.,20200908724,Diana Copaja Núñez,13083794,959878143,"Av. Andina 1658, Tacna",2025-06-03,Activo
+PRV0079,Consorcio Andina S.A.,20507343104,Víctor Condori Ramos,12743983,983366977,"Av. del Sur 434, Tacna",2025-07-08,Activo
+PRV0080,Servicios Pacífico S.A.,20222517500,Jorge Ticona Aguilar,54317792,966531502,"Av. del Sur 2299, Tacna",2025-12-24,Activo
+PRV0081,Grupo Continental S.R.L.,20574464889,Karla Medina Nina,48917296,978777505,"Av. Bahía 894, Tacna",2025-02-02,Activo
+PRV0082,Soluciones Continental S.A.C.,20261920338,Julia Condori Medina,27749124,991008234,"Av. Bahía 1618, Tacna",2025-03-21,Activo
+PRV0083,Comercial Integral S.R.L.,20241587286,Nelson Núñez Aguilar,42703875,965606931,"Av. Tacna 1075, Tacna",2025-06-07,Activo
+PRV0084,Corporación Andina S.A.,20484652939,Teresa Choque Copaja,29491286,964253610,"Av. Global 1484, Tacna",2025-04-14,Activo
+PRV0085,Servicios Continental E.I.R.L.,20664420252,Iván Copaja Calisaya,73001371,920422437,"Av. del Sur 839, Tacna",2025-04-08,Activo
+PRV0086,Grupo Altiplano S.R.L.,20532808505,Karla Zapana Ilaquita,46651299,949595080,"Av. del Sur 2052, Tacna",2025-06-13,Activo
+PRV0087,Corporación Andina S.A.C.,20240103237,Nadia Ticona Apaza,20398600,964640131,"Av. Bahía 1390, Tacna",2025-04-20,Activo
+PRV0088,Soluciones Global S.A.C.,20126679320,Karla Aguilar Zapana,66088604,935476925,"Av. Los Andes 2079, Tacna",2025-11-05,Activo
+PRV0089,Corporación Los Andes S.A.C.,20593731823,Raúl Rivera Condori,58937940,929664818,"Av. Global 1582, Tacna",2025-08-28,Activo
+PRV0090,Servicios Tacna S.R.L.,20620359883,Fernando Peralta Vargas,63892559,987695375,"Av. Continental 1411, Tacna",2025-06-20,Activo
+PRV0091,Consorcio Frontera S.A.C.,20399819024,Karla Maquera Calisaya,18898236,967260398,"Av. Andina 2272, Tacna",2025-04-12,Activo
+PRV0092,Corporación Continental S.A.C.,20145424503,Carmen Paredes Condori,20277520,977731105,"Av. del Sur 1650, Tacna",2025-04-30,Activo
+PRV0093,Servicios Costa Verde S.A.,20361518171,Pedro Medina Ilaquita,66172833,943099576,"Av. Los Andes 1206, Tacna",2025-03-05,Activo
+PRV0094,Importaciones Pacífico S.R.L.,20523194849,Marta Nina Aguilar,51714149,951772258,"Av. Continental 2038, Tacna",2025-07-13,Activo
+PRV0095,Industrias Integral S.A.C.,20576058776,Iván Vargas Ilaquita,39937005,992150306,"Av. Pacífico 2122, Tacna",2025-11-19,Activo
+PRV0096,Distribuidora Tacna S.A.,20255679746,Hugo Flores Núñez,25974876,912068269,"Av. Tacna 2297, Tacna",2025-05-28,Activo
+PRV0097,Importaciones Los Andes E.I.R.L.,20121780951,Silvia Condori Copaja,14909006,923606645,"Av. Frontera 618, Tacna",2025-07-01,Activo
+PRV0098,Soluciones Integral S.A.,20308859719,Luis Calisaya Salazar,50098616,952339710,"Av. Costa Verde 925, Tacna",2025-09-17,Activo

@@ -1,0 +1,7 @@
+id,proceso,criticidad,rto_horas,rpo_horas,sistema_soporte,responsable,impacto_24h,ultima_prueba
+BIA01,Catastro comercial de usuarios,Alta,12,36,Sistema comercial,Julio Bravo Colque,Alto,2025-05-17
+BIA02,Lectura de medidores y facturación,Alta,72,8,Micromedición y lectura,Paola Copaja Ticona,Medio,2025-07-13
+BIA03,Cobranza y corte/reconexión,Alta,48,1,Sistema comercial,Nadia Peralta Zapana,Medio,
+BIA04,Atención de reclamos comerciales,Alta,4,48,Atención de reclamos,Julio Calisaya Núñez,Alto,2025-12-07
+BIA05,Operación de plantas y redes,Alta,2,48,SCADA de plantas y reservorios,Lucía Zapana Ilaquita,Alto,
+BIA06,Contrataciones y presupuesto público,Alta,2,48,SIAF y patrimonio,Víctor Aguilar Cáceres,Bajo,

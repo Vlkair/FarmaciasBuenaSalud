@@ -1,0 +1,158 @@
+codigo_empleado,nombre,documento,area,cargo,fecha_ingreso,fecha_cese,correo,estado
+EMP0001,Nadia Núñez Quispe,29071364,Legal,Practicante,2023-12-16,,n.núñez@distribuidora.com.pe,Activo
+EMP0002,Jorge Torres Aguilar,37967647,Logística,Supervisor,2013-02-01,,j.torres@distribuidora.com.pe,Activo
+EMP0003,Teresa Ticona Vargas,17109921,Almacén,Coordinador,2022-02-21,2028-06-02,t.ticona@distribuidora.com.pe,Cesado
+EMP0004,Nadia Aguilar Laura,68069194,Tesorería,Asistente,2016-10-12,,n.aguilar@distribuidora.com.pe,Activo
+EMP0005,Raúl Zapana Aguilar,74907255,Compras,Supervisor,2014-01-12,2015-02-08,r.zapana@distribuidora.com.pe,Cesado
+EMP0006,Nelson Flores Ramos,36976950,Tesorería,Jefe,2025-04-23,2026-05-24,n.flores@distribuidora.com.pe,Cesado
+EMP0007,Silvia Cutipa Aguilar,21439572,Tecnologías de la Información,Jefe,2021-04-14,,s.cutipa@distribuidora.com.pe,Activo
+EMP0008,Marta Aguilar Mamani,52515891,Tesorería,Practicante,2020-05-06,,m.aguilar@distribuidora.com.pe,Activo
+EMP0009,Alberto Apaza Vargas,25825426,Tecnologías de la Información,Supervisor,2023-06-10,,a.apaza@distribuidora.com.pe,Activo
+EMP0010,Miguel Ticona Vargas,30011752,Tesorería,Jefe,2017-10-12,,m.ticona@distribuidora.com.pe,Activo
+EMP0011,Julio Ancco Salazar,18277091,Tesorería,Analista,2023-12-18,,j.ancco@distribuidora.com.pe,Activo
+EMP0012,Rocío Peralta Mamani,52489365,Administración y Finanzas,Analista,2022-06-04,,r.peralta@distribuidora.com.pe,Activo
+EMP0013,Rocío Colque Medina,50794922,Compras,Coordinador,2013-12-06,,r.colque@distribuidora.com.pe,Activo
+EMP0014,Teresa Cutipa Nina,32755053,Administración y Finanzas,Operario,2019-09-22,2024-01-28,t.cutipa@distribuidora.com.pe,Cesado
+EMP0015,Óscar Ancco Peralta,51114894,Legal,Jefe,2025-02-16,,ó.ancco@distribuidora.com.pe,Activo
+EMP0016,Rosa Medina Chura,59503074,Legal,Operario,2016-03-19,,r.medina@distribuidora.com.pe,Activo
+EMP0017,Alberto Cutipa Copaja,63073549,Compras,Operario,2020-03-14,,a.cutipa@distribuidora.com.pe,Activo
+EMP0018,Álvaro Quispe Chura,49798287,Legal,Analista,2011-08-07,,á.quispe@distribuidora.com.pe,Activo
+EMP0019,Rosa Copaja Vargas,44614501,Almacén,Practicante,2011-04-17,,r.copaja@distribuidora.com.pe,Activo
+EMP0020,Nadia Torres Chura,65613590,Contabilidad,Practicante,2025-01-07,,n.torres@distribuidora.com.pe,Activo
+EMP0021,Karla Maquera Ramos,55958591,Legal,Operario,2017-11-08,2019-09-12,k.maquera@distribuidora.com.pe,Cesado
+EMP0022,Jorge Ancco Vargas,71967483,Comercial,Jefe,2015-03-04,,j.ancco@distribuidora.com.pe,Activo
+EMP0023,Sofía Flores Laura,33868855,Operaciones,Operario,2017-06-04,,s.flores@distribuidora.com.pe,Activo
+EMP0024,Sofía Colque Copaja,21679496,Almacén,Jefe,2015-01-06,,s.colque@distribuidora.com.pe,Activo
+EMP0025,Lucía Calisaya Chura,56152670,Logística,Jefe,2024-04-06,,l.calisaya@distribuidora.com.pe,Activo
+EMP0026,Vanessa Vargas Paredes,68258486,Compras,Supervisor,2017-10-24,2020-11-02,v.vargas@distribuidora.com.pe,Cesado
+EMP0027,Silvia Quispe Medina,15498590,Legal,Practicante,2015-10-02,2017-02-07,s.quispe@distribuidora.com.pe,Cesado
+EMP0028,Nelson Huanca Medina,37576155,Gerencia,Asistente,2024-08-06,,n.huanca@distribuidora.com.pe,Activo
+EMP0029,Teresa Paredes Salazar,18354220,Administración y Finanzas,Operario,2019-10-13,,t.paredes@distribuidora.com.pe,Activo
+EMP0030,Julio Colque Ramos,23147837,Compras,Analista,2025-08-23,,j.colque@distribuidora.com.pe,Activo
+EMP0031,Sofía Chura Aguilar,22967266,Operaciones,Coordinador,2017-03-03,,s.chura@distribuidora.com.pe,Activo
+EMP0032,Marta Copaja Cutipa,68249042,Tesorería,Practicante,2011-02-14,,m.copaja@distribuidora.com.pe,Activo
+EMP0033,Carmen Maquera Ramos,32039301,Compras,Supervisor,2011-11-20,2013-09-19,c.maquera@distribuidora.com.pe,Cesado
+EMP0034,Marco Zapana Cutipa,33802472,Tesorería,Coordinador,2015-08-14,,m.zapana@distribuidora.com.pe,Activo
+EMP0035,Sofía Rivera Choque,46172825,Contabilidad,Operario,2022-06-10,,s.rivera@distribuidora.com.pe,Activo
+EMP0036,Rosa Nina Chura,42392867,Legal,Jefe,2022-05-25,,r.nina@distribuidora.com.pe,Activo
+EMP0037,Iván Colque Bravo,38435655,Operaciones,Asistente,2021-02-22,,i.colque@distribuidora.com.pe,Activo
+EMP0038,Nelson Quispe Núñez,36520901,Contabilidad,Analista,2024-11-13,,n.quispe@distribuidora.com.pe,Activo
+EMP0039,Sofía Huanca Colque,16899975,Comercial,Practicante,2024-03-13,,s.huanca@distribuidora.com.pe,Activo
+EMP0040,Hugo Bravo Mamani,36293247,Comercial,Operario,2021-02-17,,h.bravo@distribuidora.com.pe,Activo
+EMP0041,Víctor Huanca Apaza,32414406,Operaciones,Operario,2025-02-17,,v.huanca@distribuidora.com.pe,Activo
+EMP0042,Marta Flores Peralta,48681802,Almacén,Asistente,2021-05-23,,m.flores@distribuidora.com.pe,Activo
+EMP0043,Julia Huanca Quispe,69392316,Operaciones,Coordinador,2013-09-09,,j.huanca@distribuidora.com.pe,Activo
+EMP0044,Raúl Torres Flores,40191400,Gerencia,Asistente,2013-10-02,,r.torres@distribuidora.com.pe,Activo
+EMP0045,Miguel Condori Paredes,26633511,Operaciones,Supervisor,2022-09-26,,m.condori@distribuidora.com.pe,Activo
+EMP0046,Lucía Ramos Choque,20470550,Operaciones,Analista,2011-08-19,2017-04-16,l.ramos@distribuidora.com.pe,Cesado
+EMP0047,Sofía Calisaya Quispe,66636788,Recursos Humanos,Coordinador,2015-07-02,2017-09-09,s.calisaya@distribuidora.com.pe,Cesado
+EMP0048,Marco Choque Maquera,39972349,Tesorería,Coordinador,2015-01-03,,m.choque@distribuidora.com.pe,Activo
+EMP0049,Carmen Ilaquita Flores,75702867,Operaciones,Supervisor,2017-09-08,,c.ilaquita@distribuidora.com.pe,Activo
+EMP0050,Gabriela Zapana Mamani,18352132,Compras,Jefe,2022-02-04,,g.zapana@distribuidora.com.pe,Activo
+EMP0051,Raúl Vargas Maquera,26822587,Tesorería,Supervisor,2013-08-04,2016-10-29,r.vargas@distribuidora.com.pe,Cesado
+EMP0052,Paola Vargas Torres,53831014,Administración y Finanzas,Practicante,2017-01-11,2018-06-14,p.vargas@distribuidora.com.pe,Cesado
+EMP0053,Carmen Choque Colque,70336909,Tecnologías de la Información,Coordinador,2018-01-08,,c.choque@distribuidora.com.pe,Activo
+EMP0054,Fernando Maquera Ancco,17586614,Compras,Jefe,2015-03-02,,f.maquera@distribuidora.com.pe,Activo
+EMP0055,Rosa Apaza Choque,52000611,Administración y Finanzas,Practicante,2019-11-18,,r.apaza@distribuidora.com.pe,Activo
+EMP0056,Carlos Ramos Condori,51671071,Almacén,Coordinador,2020-04-18,,c.ramos@distribuidora.com.pe,Activo
+EMP0057,Vanessa Maquera Torres,35760529,Gerencia,Supervisor,2012-06-25,,v.maquera@distribuidora.com.pe,Activo
+EMP0058,Diana Flores Medina,29693782,Gerencia,Analista,2018-12-26,,d.flores@distribuidora.com.pe,Activo
+EMP0059,Álvaro Chura Torres,39669497,Legal,Supervisor,2019-11-01,,á.chura@distribuidora.com.pe,Activo
+EMP0060,Luis Torres Laura,58188493,Compras,Asistente,2024-01-18,,l.torres@distribuidora.com.pe,Activo
+EMP0061,Carmen Cáceres Nina,56152881,Tesorería,Coordinador,2022-11-03,,c.cáceres@distribuidora.com.pe,Activo
+EMP0062,Marta Zapana Maquera,30947022,Administración y Finanzas,Asistente,2015-05-17,,m.zapana@distribuidora.com.pe,Activo
+EMP0063,Ricardo Núñez Cutipa,56435362,Tesorería,Practicante,2015-10-08,,r.núñez@distribuidora.com.pe,Activo
+EMP0064,Hugo Núñez Laura,38472321,Operaciones,Practicante,2018-09-19,,h.núñez@distribuidora.com.pe,Activo
+EMP0065,Sofía Vargas Vargas,37320489,Compras,Analista,2019-02-13,,s.vargas@distribuidora.com.pe,Activo
+EMP0066,Nelson Ancco Quispe,39729361,Operaciones,Asistente,2018-12-23,,n.ancco@distribuidora.com.pe,Activo
+EMP0067,Hugo Paredes Huanca,73727692,Compras,Practicante,2025-08-26,,h.paredes@distribuidora.com.pe,Activo
+EMP0068,Diana Zapana Torres,18180796,Legal,Analista,2020-10-20,,d.zapana@distribuidora.com.pe,Activo
+EMP0069,Álvaro Ticona Ramos,11937692,Operaciones,Jefe,2011-12-21,,á.ticona@distribuidora.com.pe,Activo
+EMP0070,Óscar Cáceres Ramos,64938463,Tesorería,Supervisor,2025-07-14,,ó.cáceres@distribuidora.com.pe,Activo
+EMP0071,Luis Núñez Torres,70004696,Compras,Coordinador,2012-07-04,,l.núñez@distribuidora.com.pe,Activo
+EMP0072,Miguel Salazar Calisaya,43945135,Comercial,Jefe,2025-02-26,,m.salazar@distribuidora.com.pe,Activo
+EMP0073,Luis Ilaquita Calisaya,13041395,Legal,Practicante,2014-05-03,,l.ilaquita@distribuidora.com.pe,Activo
+EMP0074,Rocío Paredes Bravo,42678688,Contabilidad,Analista,2022-04-14,,r.paredes@distribuidora.com.pe,Activo
+EMP0075,Ana Apaza Rivera,11364594,Administración y Finanzas,Operario,2017-02-20,,a.apaza@distribuidora.com.pe,Activo
+EMP0076,Gabriela Paredes Rivera,55935526,Contabilidad,Jefe,2022-12-26,,g.paredes@distribuidora.com.pe,Activo
+EMP0077,Nadia Yufra Salazar,78167837,Administración y Finanzas,Operario,2013-03-04,,n.yufra@distribuidora.com.pe,Activo
+EMP0078,Nelson Choque Huanca,71202610,Tesorería,Coordinador,2023-12-13,,n.choque@distribuidora.com.pe,Activo
+EMP0079,Julio Condori Flores,64206196,Recursos Humanos,Jefe,2013-06-14,2015-08-15,j.condori@distribuidora.com.pe,Cesado
+EMP0080,Fernando Ramos Aguilar,44461460,Administración y Finanzas,Jefe,2019-10-09,,f.ramos@distribuidora.com.pe,Activo
+EMP0081,Carmen Cutipa Flores,47437850,Comercial,Analista,2025-07-21,2029-03-07,c.cutipa@distribuidora.com.pe,Cesado
+EMP0082,Julio Colque Nina,74238395,Comercial,Practicante,2018-03-15,,j.colque@distribuidora.com.pe,Activo
+EMP0083,Luis Rivera Nina,74328373,Compras,Analista,2011-10-15,,l.rivera@distribuidora.com.pe,Activo
+EMP0084,Diana Ilaquita Rivera,25641228,Comercial,Operario,2021-08-14,,d.ilaquita@distribuidora.com.pe,Activo
+EMP0085,Ricardo Bravo Ilaquita,49677613,Operaciones,Jefe,2015-03-11,,r.bravo@distribuidora.com.pe,Activo
+EMP0086,Rocío Aguilar Rivera,70322052,Gerencia,Practicante,2023-03-01,,r.aguilar@distribuidora.com.pe,Activo
+EMP0087,Ana Paredes Medina,75284740,Recursos Humanos,Asistente,2024-02-11,2028-03-19,a.paredes@distribuidora.com.pe,Cesado
+EMP0088,Julio Chura Nina,10487920,Comercial,Operario,2015-12-06,,j.chura@distribuidora.com.pe,Activo
+EMP0089,Marco Yufra Vargas,75736535,Legal,Analista,2023-12-24,,m.yufra@distribuidora.com.pe,Activo
+EMP0090,Ana Maquera Ticona,65169702,Administración y Finanzas,Supervisor,2013-04-18,,a.maquera@distribuidora.com.pe,Activo
+EMP0091,Víctor Torres Vargas,54333675,Legal,Jefe,2015-03-04,,v.torres@distribuidora.com.pe,Activo
+EMP0092,Marta Ramos Bravo,71717910,Gerencia,Asistente,2017-05-27,2022-12-05,m.ramos@distribuidora.com.pe,Cesado
+EMP0093,Nelson Flores Colque,22082933,Recursos Humanos,Coordinador,2017-04-04,,n.flores@distribuidora.com.pe,Activo
+EMP0094,Paola Condori Yufra,16537769,Gerencia,Analista,2020-01-09,,p.condori@distribuidora.com.pe,Activo
+EMP0095,Hugo Zapana Chura,11675202,Recursos Humanos,Coordinador,2012-07-14,,h.zapana@distribuidora.com.pe,Activo
+EMP0096,Miguel Maquera Condori,23773340,Legal,Supervisor,2022-12-23,,m.maquera@distribuidora.com.pe,Activo
+EMP0097,Iván Zapana Peralta,37321396,Gerencia,Asistente,2020-12-19,,i.zapana@distribuidora.com.pe,Activo
+EMP0098,Fernando Vargas Ticona,26332707,Recursos Humanos,Jefe,2025-02-17,,f.vargas@distribuidora.com.pe,Activo
+EMP0099,Julio Vargas Torres,67446421,Almacén,Jefe,2012-11-18,2013-11-02,j.vargas@distribuidora.com.pe,Cesado
+EMP0100,Carlos Núñez Medina,71331050,Contabilidad,Supervisor,2017-03-13,,c.núñez@distribuidora.com.pe,Activo
+EMP0101,Iván Medina Calisaya,26095306,Comercial,Analista,2018-07-20,,i.medina@distribuidora.com.pe,Activo
+EMP0102,Elena Paredes Rivera,31501998,Recursos Humanos,Supervisor,2017-09-26,,e.paredes@distribuidora.com.pe,Activo
+EMP0103,Luis Salazar Ilaquita,13522526,Compras,Supervisor,2018-08-07,,l.salazar@distribuidora.com.pe,Activo
+EMP0104,Fernando Paredes Bravo,43068888,Contabilidad,Coordinador,2021-08-01,,f.paredes@distribuidora.com.pe,Activo
+EMP0105,Carlos Vargas Huanca,72871350,Contabilidad,Jefe,2014-07-03,,c.vargas@distribuidora.com.pe,Activo
+EMP0106,Hugo Medina Copaja,78674402,Compras,Analista,2025-07-08,,h.medina@distribuidora.com.pe,Activo
+EMP0107,Sofía Condori Flores,63334381,Comercial,Analista,2020-09-08,,s.condori@distribuidora.com.pe,Activo
+EMP0108,Óscar Ramos Zapana,60592062,Administración y Finanzas,Analista,2016-11-08,,ó.ramos@distribuidora.com.pe,Activo
+EMP0109,Elena Chura Ramos,60402657,Compras,Analista,2012-01-18,,e.chura@distribuidora.com.pe,Activo
+EMP0110,Álvaro Colque Apaza,31237236,Almacén,Analista,2021-07-08,,á.colque@distribuidora.com.pe,Activo
+EMP0111,Marco Choque Colque,14351794,Tecnologías de la Información,Jefe,2019-02-13,2025-04-27,m.choque@distribuidora.com.pe,Cesado
+EMP0112,Silvia Quispe Bravo,60572899,Compras,Jefe,2018-07-25,,s.quispe@distribuidora.com.pe,Activo
+EMP0113,Hugo Ilaquita Paredes,36915048,Legal,Coordinador,2011-04-12,,h.ilaquita@distribuidora.com.pe,Activo
+EMP0114,Ana Choque Cutipa,37248391,Comercial,Asistente,2020-06-27,,a.choque@distribuidora.com.pe,Activo
+EMP0115,Paola Colque Torres,65788049,Tesorería,Analista,2012-03-05,,p.colque@distribuidora.com.pe,Activo
+EMP0116,Sofía Maquera Cutipa,22745259,Tecnologías de la Información,Supervisor,2012-03-12,,s.maquera@distribuidora.com.pe,Activo
+EMP0117,Pedro Ancco Rivera,38815041,Administración y Finanzas,Practicante,2019-12-25,,p.ancco@distribuidora.com.pe,Activo
+EMP0118,Miguel Zapana Mamani,69967455,Logística,Practicante,2022-04-02,,m.zapana@distribuidora.com.pe,Activo
+EMP0119,Rocío Nina Bravo,36755576,Legal,Supervisor,2024-01-12,,r.nina@distribuidora.com.pe,Activo
+EMP0120,Fernando Ancco Yufra,59917557,Tecnologías de la Información,Analista,2020-11-14,,f.ancco@distribuidora.com.pe,Activo
+EMP0121,Raúl Peralta Maquera,11775812,Comercial,Supervisor,2018-11-17,,r.peralta@distribuidora.com.pe,Activo
+EMP0122,Vanessa Bravo Núñez,55028132,Logística,Asistente,2025-09-15,,v.bravo@distribuidora.com.pe,Activo
+EMP0123,Ricardo Flores Torres,49958904,Administración y Finanzas,Practicante,2011-01-24,,r.flores@distribuidora.com.pe,Activo
+EMP0124,Nadia Medina Vargas,64428133,Comercial,Analista,2020-06-26,,n.medina@distribuidora.com.pe,Activo
+EMP0125,Fernando Copaja Calisaya,73171890,Tecnologías de la Información,Jefe,2014-04-22,,f.copaja@distribuidora.com.pe,Activo
+EMP0126,Raúl Cutipa Núñez,40028560,Gerencia,Jefe,2012-04-19,,r.cutipa@distribuidora.com.pe,Activo
+EMP0127,Rocío Salazar Núñez,71406248,Legal,Jefe,2017-08-13,,r.salazar@distribuidora.com.pe,Activo
+EMP0128,Ricardo Huanca Colque,31586462,Administración y Finanzas,Coordinador,2011-03-22,,r.huanca@distribuidora.com.pe,Activo
+EMP0129,Pedro Chura Mamani,72101287,Comercial,Supervisor,2019-02-18,,p.chura@distribuidora.com.pe,Activo
+EMP0130,Teresa Mamani Apaza,68110062,Tecnologías de la Información,Operario,2012-02-03,,t.mamani@distribuidora.com.pe,Activo
+EMP0131,Marta Ilaquita Choque,36376620,Tecnologías de la Información,Practicante,2013-08-16,,m.ilaquita@distribuidora.com.pe,Activo
+EMP0132,Carmen Copaja Ancco,19552478,Tecnologías de la Información,Practicante,2014-03-02,,c.copaja@distribuidora.com.pe,Activo
+EMP0133,Marta Calisaya Ticona,49928516,Tecnologías de la Información,Jefe,2012-02-13,,m.calisaya@distribuidora.com.pe,Activo
+EMP0134,Silvia Calisaya Flores,47614638,Contabilidad,Coordinador,2019-11-17,,s.calisaya@distribuidora.com.pe,Activo
+EMP0135,Luis Rivera Aguilar,67857322,Compras,Operario,2024-08-03,2028-01-10,l.rivera@distribuidora.com.pe,Cesado
+EMP0136,Rosa Aguilar Ancco,59764745,Operaciones,Practicante,2011-02-16,,r.aguilar@distribuidora.com.pe,Activo
+EMP0137,Silvia Choque Chura,21567436,Tecnologías de la Información,Practicante,2024-08-01,,s.choque@distribuidora.com.pe,Activo
+EMP0138,Vanessa Flores Mamani,42430010,Recursos Humanos,Coordinador,2011-11-01,,v.flores@distribuidora.com.pe,Activo
+EMP0139,Raúl Mamani Nina,21053836,Comercial,Coordinador,2022-04-25,,r.mamani@distribuidora.com.pe,Activo
+EMP0140,Pedro Ticona Rivera,78528959,Recursos Humanos,Asistente,2022-01-04,,p.ticona@distribuidora.com.pe,Activo
+EMP0141,Hugo Cutipa Apaza,58520931,Administración y Finanzas,Practicante,2025-02-12,2026-12-21,h.cutipa@distribuidora.com.pe,Cesado
+EMP0142,Víctor Condori Salazar,49148688,Tecnologías de la Información,Asistente,2022-12-22,,v.condori@distribuidora.com.pe,Activo
+EMP0143,Fernando Aguilar Ticona,29638554,Operaciones,Coordinador,2018-11-15,2021-04-05,f.aguilar@distribuidora.com.pe,Cesado
+EMP0144,Paola Peralta Peralta,70180170,Operaciones,Jefe,2013-12-16,,p.peralta@distribuidora.com.pe,Activo
+EMP0145,Rosa Chura Medina,13077013,Recursos Humanos,Operario,2024-09-06,2027-05-23,r.chura@distribuidora.com.pe,Cesado
+EMP0146,Carlos Cutipa Paredes,20026664,Operaciones,Practicante,2021-05-20,,c.cutipa@distribuidora.com.pe,Activo
+EMP0147,Jorge Cáceres Copaja,54279823,Almacén,Practicante,2015-10-22,,j.cáceres@distribuidora.com.pe,Activo
+EMP0148,Julia Choque Ticona,67455754,Contabilidad,Jefe,2015-12-06,,j.choque@distribuidora.com.pe,Activo
+EMP0149,Rocío Zapana Mamani,17556070,Legal,Operario,2015-03-12,,r.zapana@distribuidora.com.pe,Activo
+EMP0150,Carmen Peralta Peralta,14356637,Compras,Asistente,2021-06-19,,c.peralta@distribuidora.com.pe,Activo
+EMP0151,Rosa Laura Maquera,19662401,Administración y Finanzas,Supervisor,2011-08-12,2013-05-26,r.laura@distribuidora.com.pe,Cesado
+EMP0152,Teresa Apaza Calisaya,20704214,Almacén,Jefe,2024-11-21,,t.apaza@distribuidora.com.pe,Activo
+EMP0153,Karla Ilaquita Mamani,74332671,Contabilidad,Analista,2015-12-11,,k.ilaquita@distribuidora.com.pe,Activo
+EMP0154,Alberto Colque Peralta,22970847,Operaciones,Practicante,2015-11-27,,a.colque@distribuidora.com.pe,Activo
+EMP0155,Rocío Peralta Mamani,60813886,Logística,Asistente,2014-01-14,,r.peralta@distribuidora.com.pe,Activo
+EMP0156,Carmen Paredes Ilaquita,74439240,Operaciones,Asistente,2015-01-01,2021-08-17,c.paredes@distribuidora.com.pe,Cesado
+EMP0157,Óscar Ilaquita Ramos,37275923,Almacén,Operario,2013-11-15,2017-03-26,ó.ilaquita@distribuidora.com.pe,Cesado
