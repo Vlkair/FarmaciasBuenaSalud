@@ -1,0 +1,9 @@
+servicios     ← GD01_catalogo_servicios.csv                    11 filas
+ejes_gd       ← GD03_ejes.csv                                  27 filas
+cumplimiento  ← ../04_normativa/NO03_matriz_cumplimiento.csv   22 filas
+capacidad     ← ../04_normativa/MG03_capacidad.csv             13 filas
+Verificación en PostgreSQL · servicios: 11 filas
+Verificación en PostgreSQL · ejes_gd: 27 filas
+Verificación en PostgreSQL · cumplimiento: 22 filas
+Verificación en PostgreSQL · capacidad: 13 filas
+Datos cargados. Metabase: http://127.0.0.1:3001

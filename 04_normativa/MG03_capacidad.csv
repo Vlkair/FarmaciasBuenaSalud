@@ -1,0 +1,14 @@
+Objetivo,Nombre,Relevancia,Evidencia examinada,Nivel actual,Justificación del nivel,Nivel objetivo,Justificación del objetivo,Brecha
+EDM01,Marco de gobierno,5,Comité de TI sin sesiones en 12 meses,0,Estructura solo nominal,2,Proporcional al tamaño,2
+APO02,Estrategia gestionada,5,Sin PETI previo,0,Nunca se formuló,2,Este plan aprobado y revisado,2
+APO07,Recursos humanos gestionados,5,Un solo experto en POS y consolidación,1,Sin sucesión ni respaldo de competencias,2,Mitiga riesgo H-1,1
+APO10,Proveedores gestionados,5,Sin control de vencimientos; SLA del POS nunca medido,1,Contratos sin seguimiento,3,Penalidades exigibles,2
+APO12,Riesgo gestionado,4,Tres riesgos conocidos sin tratar,0,Sin registro de riesgos,2,Habilitante de la sección 8,2
+APO13,Seguridad gestionada,5,Política en borrador hace 2 años,1,Producto sin aprobación ni operación,3,Exigencia Ley 29733 con datos de salud,2
+APO14,Datos gestionados,5,Retención de 90 días; sin dueños de dato,0,Sin proceso,2,Trazabilidad DIGEMID,2
+BAI06,Cambios gestionados,4,Formato llenado después del cambio,1,Registro a posteriori,2,Autorización previa y plan de retorno,1
+DSS01,Operaciones gestionadas,4,Consolidación nocturna falla 2 veces por semana,1,Reproceso manual,3,Operación crítica para stock,2
+DSS02,Solicitudes e incidentes,5,1 960 registros; 169 abiertos; subregistro,1,Registro incompleto en hoja de cálculo,3,Mesa de servicio con SLA,2
+DSS04,Continuidad gestionada,5,3 sistemas fuera del respaldo; BIA borrador,1,Respaldo sin prueba ni plan,2,Prueba semestral de restauración,1
+DSS05,Servicios de seguridad,5,0 de 132 cuentas con 2FA,1,Controles puntuales,2,2FA e identidad única,1
+MEA03,Cumplimiento externo,5,Diferencia de 214 unidades en controlados,0,Sin matriz previa,3,Riesgo sancionatorio DIGEMID/ANPD,3

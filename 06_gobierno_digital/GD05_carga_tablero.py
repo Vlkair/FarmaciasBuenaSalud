@@ -1,21 +1,23 @@
-"""Carga datos disponibles. No crea matrices de otras semanas ni borra tablas previas."""
-from pathlib import Path
-import os
+# 06_gobierno_digital/GD05_carga_tablero.py
+# Carga el catálogo, los ejes, la matriz de cumplimiento y la capacidad en PostgreSQL
+# para construir el tablero de línea base en Metabase.
 import pandas as pd
-from sqlalchemy import create_engine
-BASE=Path(__file__).resolve().parent
-eng=create_engine(os.environ.get('PETI_DATABASE_URL','postgresql+psycopg2://peti:peti_lab@127.0.0.1:5433/peti'))
-files=[(BASE/'GD01_catalogo_servicios.csv','servicios'),(BASE/'GD03_ejes.csv','ejes_gd'),(BASE.parent/'04_normativa/NO03_matriz_cumplimiento.csv','cumplimiento'),(BASE.parent/'04_normativa/MG03_capacidad.csv','capacidad')]
-for path,table in files:
-    if not path.exists():
-        print(f'PENDIENTE: {path.name}; no se inventa la tabla {table}.');continue
-    df=pd.read_csv(path)
-    if table=='servicios':
-        rename={'Servicio':'servicio','Volumen anual':'volumen_anual','Nivel actual (0–5)':'nivel_actual','Nivel objetivo':'nivel_objetivo','Estado del nivel':'estado_nivel'}
-    elif table=='ejes_gd':
-        rename={'Eje':'eje','Indicador':'indicador','Línea base':'linea_base','Nivel del eje (1–5)':'nivel_eje','Proyecto de instrumentación':'proyecto_instrumentacion'}
-    else:
-        rename={}
-    df.rename(columns=rename).to_sql(table,eng,if_exists='replace',index=False)
-    print(f'{table}: {len(df)} filas cargadas.')
-print('Fuente de datos de Metabase: host postgres, puerto interno 5432, base peti.')
+from sqlalchemy import create_engine, text
+
+eng = create_engine("postgresql://peti:peti_lab@127.0.0.1:5433/peti")
+tablas = {
+    "servicios":    "GD01_catalogo_servicios.csv",
+    "ejes_gd":      "GD03_ejes.csv",
+    "cumplimiento": "../04_normativa/NO03_matriz_cumplimiento.csv",
+    "capacidad":    "../04_normativa/MG03_capacidad.csv",
+}
+for tabla, archivo in tablas.items():
+    df = pd.read_csv(archivo)
+    df.to_sql(tabla, eng, if_exists="replace", index=False)
+    print(f"{tabla:<13} ← {archivo:<45} {len(df):>3} filas")
+
+with eng.connect() as c:
+    for t in tablas:
+        n = c.execute(text(f'select count(*) from "{t}"')).scalar()
+        print(f"Verificación en PostgreSQL · {t}: {n} filas")
+print("Datos cargados. Metabase: http://127.0.0.1:3001")

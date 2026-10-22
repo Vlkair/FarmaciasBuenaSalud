@@ -1,0 +1,24 @@
+=== NIVEL POR EJE ===
+ eje_nombre
+Datos                1.00
+Gobernanza           1.25
+Identidad digital    1.00
+Infraestructura      1.00
+Interoperabilidad    1.33
+Seguridad digital    1.00
+Servicios            1.00
+Talento              1.33
+
+NIVEL DE MADUREZ DE GOBIERNO DIGITAL: 1.11 de 5
+→ Inicial — reactivo
+
+=== INDICADORES SIN LÍNEA BASE: 6 de 27 ===
+                 Eje                                                 Indicador
+        2. Servicios           Tiempo medio de atención de la mesa de servicio
+        2. Servicios          Satisfacción del usuario con los servicios de TI
+4. Seguridad digital           Incidentes de seguridad registrados en 12 meses
+            5. Datos % de decisiones de compra sustentadas en dato verificable
+  8. Infraestructura           Disponibilidad de servicios críticos (POS, red)
+  8. Infraestructura                            % de equipos dentro de soporte
+→ Cada uno genera un proyecto de instrumentación: no se puede fijar meta
+  sobre lo que no se mide.
