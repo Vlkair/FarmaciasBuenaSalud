@@ -1,0 +1,25 @@
+NIVELES PRELIMINARES POR EJE
+Eje
+1. Gobernanza           1
+2. Servicios            1
+3. Interoperabilidad    2
+4. Seguridad digital    1
+5. Datos                1
+6. Identidad digital    2
+7. Talento              1
+8. Infraestructura      1
+Índice documental con igual peso por eje: 1.25 de 5
+Posicionamiento preliminar: nivel 1, Inicial/reactivo; gobernanza sin comité operativo ni PETI.
+No redondear este índice para declarar una certificación. Puntajes requieren validación del equipo.
+Indicadores sin línea base utilizable: 10 de 24
+                 Eje                                                  Indicador                                       Proyecto de instrumentación
+        2. Servicios                          Nivel medio ponderado por volumen                       I-01 Contar atenciones por servicio y canal
+        2. Servicios              Porcentaje de transacciones por canal digital             I-01 Registro único de servicio, canal y finalización
+3. Interoperabilidad        Documentos redundantes sobre documentos solicitados I-03 Inventariar documentos y contrastar con registros existentes
+4. Seguridad digital                        Incidentes de seguridad en 12 meses             I-04 Registro diferenciado de incidentes de seguridad
+4. Seguridad digital            Porcentaje de sistemas con restauración probada             I-05 Inventario de respaldo y pruebas de restauración
+            5. Datos              Porcentaje de decisiones con dato verificable                  I-07 Registro de decisiones y fuentes utilizadas
+6. Identidad digital                 Porcentaje de usuarios con identidad única                     I-08 Conciliar cuentas y personas autorizadas
+          7. Talento Porcentaje de personal capacitado en seguridad en 12 meses                I-09 Registro nominal y evaluación de capacitación
+  8. Infraestructura             Disponibilidad observada de servicios críticos                          I-11 Monitorizar disponibilidad y cortes
+  8. Infraestructura                    Porcentaje de equipos dentro de soporte                        I-12 Verificar contratos, fechas y activos
